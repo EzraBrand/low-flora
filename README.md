@@ -9,7 +9,7 @@ against hand-corrected pages, and translate them into English.
 **Reading edition (web):** https://ezrabrand.github.io/low-flora/ — German and English side by
 side, scans linked from each page mark, abbreviations and transliterations as tooltips (with
 switches to show them inline), numbered footnotes, and a searchable abbreviation table. Built by
-`site.py` into `docs/` (GitHub Pages serves `main:/docs`); run `uv run site.py` after new
+`build_site.py` into `docs/` (GitHub Pages serves `main:/docs`); run `uv run build_site.py` after new
 translations.
 
 **A whole entry:** [Pistacia, Bd. I pp. 191–200, in English](data/entries/pistacia/en.md)

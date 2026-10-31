@@ -1,6 +1,6 @@
 """Build the reading edition in docs/ (served by GitHub Pages from main:/docs).
 
-  uv run site.py
+  uv run build_site.py
 
 Pages: an index, one page per document (a whole entry or a single translated page) with German
 and English side by side, and a searchable abbreviation table. Built only from files in data/;
@@ -41,6 +41,7 @@ _TAIL = r"[^\s\[\]<>()*†,;:.?!]*"  # a run ends before Latin punctuation and f
 RUN = re.compile(rf"({RTL_OR_GREEK}{_TAIL}(?:\s+{RTL_OR_GREEK}{_TAIL})*)(\s\[(?!=)([^\]]+)\])?")
 EXPANSION = re.compile(r"(\S+)\s\[=([^\]]*)\]")
 PAGE_MARK = re.compile(r"\[p\. (\d+)\]")
+PARTICLES = {"el", "al", "ul", "il", "ad", "an", "as", "aš", "at", "ha", "ba", "bi", "li", "wa", "be", "le"}
 NOTE_MARK = re.compile(r"(\*{1,3}|†{1,2}|<sup>\d{1,2}</sup>)\)")  # numbered notes are superscripts
 
 
@@ -69,7 +70,12 @@ def inline(text: str, page: int, ctx: dict) -> str:
     s = html.escape(text, quote=False).replace("&lt;i&gt;", "<i>").replace("&lt;/i&gt;", "</i>")
     s = re.sub(r"\^\{(.+?)\}", r"<sup>\1</sup>", s)
     s = re.sub(r"_\{(.+?)\}", r"<sub>\1</sub>", s)
-    s = s.replace("\n", " ")
+    # printed line breaks: re-join words split at a line end ("Te-\nrebinthus"), but keep the
+    # hyphen after Arabic/Hebrew particles in transliterations ("el-\nanbāṭ") and before capitals
+    def hyphen(m):
+        return m.group(0).replace("\n", "") if m.group(1).lower() in PARTICLES else m.group(1) + m.group(2)
+    s = re.sub(r"(\w+)-\n([a-zäöüßāēīōūăĕŏḥṭṣḳ])", hyphen, s)
+    s = s.replace("-\n", "-").replace("\n", " ")
 
     def run(m):
         cls = script_class(m.group(1))
