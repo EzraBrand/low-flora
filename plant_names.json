@@ -1,0 +1,3686 @@
+{
+ "toc-I-1": [
+  {
+   "line": 4,
+   "latin": "Kryptogamae",
+   "english": "cryptogams",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 5,
+   "latin": "Rhizocarpeae",
+   "english": "water ferns",
+   "modern": "Salviniales",
+   "sure": true
+  },
+  {
+   "line": 6,
+   "latin": "Selaginellaceae",
+   "english": "spikemoss family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 7,
+   "latin": "Lycopodiaceae",
+   "english": "clubmoss family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 8,
+   "latin": "Ophioglossaceae",
+   "english": "adder's-tongue family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 9,
+   "latin": "Equisetaceae",
+   "english": "horsetail family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 10,
+   "latin": "Halorrhagidaceae",
+   "english": "watermilfoil family",
+   "modern": "Haloragaceae",
+   "sure": true
+  },
+  {
+   "line": 11,
+   "latin": "Filices",
+   "english": "ferns",
+   "modern": "Polypodiopsida",
+   "sure": true
+  },
+  {
+   "line": 12,
+   "latin": "Musci",
+   "english": "mosses",
+   "modern": "Bryophyta",
+   "sure": true
+  },
+  {
+   "line": 13,
+   "latin": "Algae",
+   "english": "algae",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 14,
+   "latin": "Lemnaceae",
+   "english": "duckweed family",
+   "modern": "Araceae",
+   "sure": true
+  },
+  {
+   "line": 15,
+   "latin": "Lichenes",
+   "english": "lichens",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 16,
+   "latin": "Fungi",
+   "english": "fungi",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 17,
+   "latin": "Phanerogamae",
+   "english": "seed plants",
+   "modern": "Spermatophyta",
+   "sure": true
+  },
+  {
+   "line": 18,
+   "latin": "Acanthaceae",
+   "english": "acanthus family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 19,
+   "latin": "Aceraceae",
+   "english": "maple family",
+   "modern": "Sapindaceae",
+   "sure": true
+  },
+  {
+   "line": 20,
+   "latin": "Ampelidaceae",
+   "english": "grape family",
+   "modern": "Vitaceae",
+   "sure": true
+  },
+  {
+   "line": 21,
+   "latin": "Anacardiaceae",
+   "english": "cashew family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 22,
+   "latin": "Anacardiaceae",
+   "english": "cashew family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 23,
+   "latin": "Pistacia",
+   "english": "pistachio",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 24,
+   "latin": "Rhus",
+   "english": "sumac",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 25,
+   "latin": "Semecarpus",
+   "english": "marking nut",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 26,
+   "latin": "Apocynaceae",
+   "english": "dogbane family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 27,
+   "latin": "Nerium",
+   "english": "oleander",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 28,
+   "latin": "Araceae",
+   "english": "arum family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 29,
+   "latin": "Araceae",
+   "english": "arum family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 30,
+   "latin": "Arum",
+   "english": "arum",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 31,
+   "latin": "Colocasia",
+   "english": "taro",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 32,
+   "latin": "Araliaceae",
+   "english": "ivy family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 33,
+   "latin": "Hedera",
+   "english": "ivy",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 34,
+   "latin": "Aristolochiaceae",
+   "english": "birthwort family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 35,
+   "latin": "Aristolochia",
+   "english": "birthwort",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 36,
+   "latin": "Asarum",
+   "english": "wild ginger",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 37,
+   "latin": "Artocarpaceae",
+   "english": "mulberry family",
+   "modern": "Moraceae",
+   "sure": true
+  },
+  {
+   "line": 38,
+   "latin": "Ficus",
+   "english": "fig",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 39,
+   "latin": "Cannabis",
+   "english": "hemp",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 40,
+   "latin": "Humulus",
+   "english": "hop",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 42,
+   "latin": "Morus",
+   "english": "mulberry",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 43,
+   "latin": "Sycomorus",
+   "english": "sycamore fig",
+   "modern": "Ficus sycomorus",
+   "sure": true
+  },
+  {
+   "line": 44,
+   "latin": "Asclepiadaceae",
+   "english": "milkweed family",
+   "modern": "Apocynaceae",
+   "sure": true
+  },
+  {
+   "line": 45,
+   "latin": "Asclepias",
+   "english": "milkweed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 46,
+   "latin": "Calotropis",
+   "english": "apple of Sodom",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 47,
+   "latin": "Daemia",
+   "english": "a milkweed genus",
+   "modern": "Pergularia",
+   "sure": true
+  },
+  {
+   "line": 48,
+   "latin": "Leptadenia",
+   "english": "a milkweed genus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 49,
+   "latin": "Cynanchum",
+   "english": "swallowwort",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 50,
+   "latin": "Berberidaceae",
+   "english": "barberry family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 51,
+   "latin": "Berberis",
+   "english": "barberry",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 52,
+   "latin": "Leontice",
+   "english": "lion's leaf",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 53,
+   "latin": "Betulaceae",
+   "english": "birch family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 54,
+   "latin": "Borraginaceae",
+   "english": "borage family",
+   "modern": "Boraginaceae",
+   "sure": true
+  },
+  {
+   "line": 55,
+   "latin": "Borraginaceae",
+   "english": "borage family",
+   "modern": "Boraginaceae",
+   "sure": true
+  },
+  {
+   "line": 56,
+   "latin": "Anchusa",
+   "english": "alkanet",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 57,
+   "latin": "Cordia",
+   "english": "sebesten",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 58,
+   "latin": "Heliotropium",
+   "english": "heliotrope",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 59,
+   "latin": "Lithospermum",
+   "english": "gromwell",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 60,
+   "latin": "Symphytum",
+   "english": "comfrey",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 61,
+   "latin": "Bromeliaceae",
+   "english": "bromeliad family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 62,
+   "latin": "Burseraceae",
+   "english": "torchwood family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 67,
+   "latin": "Meliaceae",
+   "english": "mahogany family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 68,
+   "latin": "Buxaceae",
+   "english": "box family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 69,
+   "latin": "Buxus",
+   "english": "box",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 70,
+   "latin": "Cactaceae",
+   "english": "cactus family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 71,
+   "latin": "Opuntia",
+   "english": "prickly pear",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 72,
+   "latin": "Campanulaceae",
+   "english": "bellflower family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 73,
+   "latin": "Capparidaceae",
+   "english": "caper family",
+   "modern": "Capparaceae",
+   "sure": true
+  },
+  {
+   "line": 74,
+   "latin": "Capparis",
+   "english": "caper",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 75,
+   "latin": "Capparidaceae",
+   "english": "caper family",
+   "modern": "Capparaceae",
+   "sure": true
+  },
+  {
+   "line": 76,
+   "latin": "Caprifoliaceae",
+   "english": "honeysuckle family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 77,
+   "latin": "Lonicera",
+   "english": "honeysuckle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 78,
+   "latin": "Sambucus",
+   "english": "elder",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 79,
+   "latin": "Caprifoliaceae",
+   "english": "honeysuckle family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 80,
+   "latin": "Caryophyllaceae",
+   "english": "pink family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 83,
+   "latin": "Dianthus",
+   "english": "pink",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 84,
+   "latin": "Casuarinaceae",
+   "english": "she-oak family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 85,
+   "latin": "Celastraceae",
+   "english": "staff-tree family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 86,
+   "latin": "Ceratophyllaceae",
+   "english": "hornwort family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 87,
+   "latin": "Chenopodiaceae",
+   "english": "goosefoot family",
+   "modern": "Amaranthaceae",
+   "sure": true
+  },
+  {
+   "line": 88,
+   "latin": "Chenopodiaceae",
+   "english": "goosefoot family",
+   "modern": "Amaranthaceae",
+   "sure": true
+  },
+  {
+   "line": 89,
+   "latin": "Polygonaceae",
+   "english": "knotweed family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 90,
+   "latin": "Atriplex",
+   "english": "orache",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 91,
+   "latin": "Beta",
+   "english": "beet",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 92,
+   "latin": "Spinacea",
+   "english": "spinach",
+   "modern": "Spinacia",
+   "sure": true
+  },
+  {
+   "line": 93,
+   "latin": "Amarantaceae",
+   "english": "amaranth family",
+   "modern": "Amaranthaceae",
+   "sure": true
+  },
+  {
+   "line": 94,
+   "latin": "Albersia",
+   "english": "amaranth",
+   "modern": "Amaranthus",
+   "sure": true
+  },
+  {
+   "line": 95,
+   "latin": "Polygonaceae",
+   "english": "knotweed family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 96,
+   "latin": "Polygonum",
+   "english": "knotweed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 97,
+   "latin": "Fagopyrum",
+   "english": "buckwheat",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 98,
+   "latin": "Rheum",
+   "english": "rhubarb",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 99,
+   "latin": "Ribes",
+   "english": "currant",
+   "modern": "",
+   "sure": false
+  },
+  {
+   "line": 100,
+   "latin": "Rumex",
+   "english": "dock",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 101,
+   "latin": "Cistaceae",
+   "english": "rockrose family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 102,
+   "latin": "Cistaceae",
+   "english": "rockrose family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 103,
+   "latin": "Cistus",
+   "english": "rockrose",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 104,
+   "latin": "Rafflesiaceae",
+   "english": "rafflesia family",
+   "modern": "Cytinaceae",
+   "sure": true
+  },
+  {
+   "line": 105,
+   "latin": "Hypocistis",
+   "english": "hypocistis",
+   "modern": "Cytinus hypocistis",
+   "sure": true
+  },
+  {
+   "line": 106,
+   "latin": "Bixaceae",
+   "english": "annatto family",
+   "modern": "Salicaceae",
+   "sure": true
+  },
+  {
+   "line": 107,
+   "latin": "Flacourtia",
+   "english": "governor's plum",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 109,
+   "latin": "Composaceae",
+   "english": "daisy family",
+   "modern": "Asteraceae",
+   "sure": true
+  },
+  {
+   "line": 110,
+   "latin": "Composaceae",
+   "english": "daisy family",
+   "modern": "Asteraceae",
+   "sure": true
+  },
+  {
+   "line": 111,
+   "latin": "Aster",
+   "english": "aster",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 112,
+   "latin": "Achillea",
+   "english": "yarrow",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 113,
+   "latin": "Chrysanthemum",
+   "english": "chrysanthemum",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 114,
+   "latin": "Composaceae",
+   "english": "daisy family",
+   "modern": "Asteraceae",
+   "sure": true
+  },
+  {
+   "line": 115,
+   "latin": "Anacylus",
+   "english": "a chamomile-like genus",
+   "modern": "Anacyclus",
+   "sure": true
+  },
+  {
+   "line": 116,
+   "latin": "Anthemis",
+   "english": "chamomile",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 116,
+   "latin": "Matricaria",
+   "english": "chamomile",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 117,
+   "latin": "Arctium",
+   "english": "burdock",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 118,
+   "latin": "Artemisia",
+   "english": "wormwood",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 119,
+   "latin": "Aucklandia",
+   "english": "costus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 120,
+   "latin": "Carthamus",
+   "english": "safflower",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 121,
+   "latin": "Phaeopappus",
+   "english": "a knapweed genus",
+   "modern": "Centaurea",
+   "sure": true
+  },
+  {
+   "line": 122,
+   "latin": "Notobasis",
+   "english": "Syrian thistle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 123,
+   "latin": "Centaurea",
+   "english": "knapweed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 124,
+   "latin": "Cynara",
+   "english": "artichoke",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 125,
+   "latin": "Gundelia",
+   "english": "tumble thistle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 126,
+   "latin": "Cichorium",
+   "english": "chicory",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 127,
+   "latin": "Helianthus",
+   "english": "sunflower",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 128,
+   "latin": "Inula",
+   "english": "elecampane",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 129,
+   "latin": "Lactuca",
+   "english": "lettuce",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 131,
+   "latin": "Reichardia",
+   "english": "brighteyes",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 132,
+   "latin": "Sonchus",
+   "english": "sow thistle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 133,
+   "latin": "Eryngium",
+   "english": "eryngo",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 134,
+   "latin": "Composaceae",
+   "english": "daisy family",
+   "modern": "Asteraceae",
+   "sure": true
+  }
+ ],
+ "toc-I-2": [
+  {
+   "line": 2,
+   "latin": "Convolvulaceae",
+   "english": "bindweed family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 3,
+   "latin": "Calystegia",
+   "english": "false bindweed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 4,
+   "latin": "Convolvulus",
+   "english": "bindweed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 5,
+   "latin": "Cressa",
+   "english": "alkali weed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 6,
+   "latin": "Cuscuta",
+   "english": "dodder",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 7,
+   "latin": "Operculina",
+   "english": "a morning-glory genus (turpeth)",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 8,
+   "latin": "Ipomoea",
+   "english": "morning glory",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 9,
+   "latin": "Convolvulaceae",
+   "english": "bindweed family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 10,
+   "latin": "Cornaceae",
+   "english": "dogwood family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 11,
+   "latin": "Crassulaceae",
+   "english": "stonecrop family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 12,
+   "latin": "Cruciferae",
+   "english": "mustard family",
+   "modern": "Brassicaceae",
+   "sure": true
+  },
+  {
+   "line": 15,
+   "latin": "Cruciferae",
+   "english": "mustard family",
+   "modern": "Brassicaceae",
+   "sure": true
+  },
+  {
+   "line": 16,
+   "latin": "Cruciferae",
+   "english": "mustard family",
+   "modern": "Brassicaceae",
+   "sure": true
+  },
+  {
+   "line": 17,
+   "latin": "Anastatica",
+   "english": "rose of Jericho",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 18,
+   "latin": "Armoracia",
+   "english": "horseradish",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 19,
+   "latin": "Brassica",
+   "english": "cabbage",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 20,
+   "latin": "Cakile",
+   "english": "sea rocket",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 21,
+   "latin": "Cheiranthus",
+   "english": "wallflower",
+   "modern": "Erysimum",
+   "sure": true
+  },
+  {
+   "line": 22,
+   "latin": "Eruca",
+   "english": "rocket",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 23,
+   "latin": "Isatis",
+   "english": "woad",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 24,
+   "latin": "Lepidium",
+   "english": "pepperweed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 25,
+   "latin": "Nasturtium",
+   "english": "watercress",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 26,
+   "latin": "Raphanus",
+   "english": "radish",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 28,
+   "latin": "Sinapis",
+   "english": "mustard",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 29,
+   "latin": "Sisymbrium",
+   "english": "hedge mustard",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 30,
+   "latin": "Cucurbitaceae",
+   "english": "gourd family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 33,
+   "latin": "Cucurbitaceae",
+   "english": "gourd family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 42,
+   "latin": "Cyperaceae",
+   "english": "sedge family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 44,
+   "latin": "Cyperaceae",
+   "english": "sedge family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 45,
+   "latin": "Alismaceae",
+   "english": "water-plantain family",
+   "modern": "Alismataceae",
+   "sure": true
+  },
+  {
+   "line": 46,
+   "latin": "Typhaceae",
+   "english": "cattail family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 47,
+   "latin": "Najadaceae",
+   "english": "water-nymph family",
+   "modern": "Hydrocharitaceae",
+   "sure": true
+  },
+  {
+   "line": 48,
+   "latin": "Potamogetonaceae",
+   "english": "pondweed family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 49,
+   "latin": "Hydrocharitaceae",
+   "english": "frogbit family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 51,
+   "latin": "Cyperus",
+   "english": "sedge",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 54,
+   "latin": "Alismaceae",
+   "english": "water-plantain family",
+   "modern": "Alismataceae",
+   "sure": true
+  },
+  {
+   "line": 55,
+   "latin": "Carex",
+   "english": "sedge",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 57,
+   "latin": "Iuncus",
+   "english": "rush",
+   "modern": "Juncus",
+   "sure": true
+  },
+  {
+   "line": 58,
+   "latin": "Najadaceae",
+   "english": "water-nymph family",
+   "modern": "Hydrocharitaceae",
+   "sure": true
+  },
+  {
+   "line": 59,
+   "latin": "Typhaceae",
+   "english": "cattail family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 61,
+   "latin": "Dioscoraceae",
+   "english": "yam family",
+   "modern": "Dioscoreaceae",
+   "sure": true
+  },
+  {
+   "line": 62,
+   "latin": "Tamus",
+   "english": "black bryony",
+   "modern": "Dioscorea",
+   "sure": true
+  },
+  {
+   "line": 63,
+   "latin": "Dipsacaceae",
+   "english": "teasel family",
+   "modern": "Caprifoliaceae",
+   "sure": true
+  },
+  {
+   "line": 64,
+   "latin": "Dipsacus",
+   "english": "teasel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 65,
+   "latin": "Ebenaceae",
+   "english": "ebony family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 66,
+   "latin": "Elaeagnaceae",
+   "english": "oleaster family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 67,
+   "latin": "Ericaceae",
+   "english": "heath family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 68,
+   "latin": "Erica",
+   "english": "heath",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 69,
+   "latin": "Euphorbiaceae",
+   "english": "spurge family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 70,
+   "latin": "Euphorbiaceae",
+   "english": "spurge family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 71,
+   "latin": "Crozophora",
+   "english": "dyer's croton",
+   "modern": "Chrozophora",
+   "sure": true
+  },
+  {
+   "line": 72,
+   "latin": "Euphorbia",
+   "english": "spurge",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 73,
+   "latin": "Jatropha",
+   "english": "physic nut",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 73,
+   "latin": "Mercurialis",
+   "english": "mercury",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 75,
+   "latin": "Ricinus",
+   "english": "castor bean",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 76,
+   "latin": "Fagaceae",
+   "english": "beech family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 77,
+   "latin": "Castanea",
+   "english": "chestnut",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 78,
+   "latin": "Corylus",
+   "english": "hazel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 79,
+   "latin": "Quercus",
+   "english": "oak",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 85,
+   "latin": "Ficoideae",
+   "english": "ice plant family",
+   "modern": "Aizoaceae",
+   "sure": true
+  },
+  {
+   "line": 89,
+   "latin": "Struthium",
+   "english": "soapwort root",
+   "modern": "Gypsophila struthium",
+   "sure": false
+  },
+  {
+   "line": 98,
+   "latin": "Fumariaceae",
+   "english": "fumitory family",
+   "modern": "Papaveraceae",
+   "sure": true
+  },
+  {
+   "line": 99,
+   "latin": "Gentianaceae",
+   "english": "gentian family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 100,
+   "latin": "Geraniaceae",
+   "english": "geranium family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 101,
+   "latin": "Guttiferaceae",
+   "english": "St John's wort family",
+   "modern": "Hypericaceae",
+   "sure": false
+  },
+  {
+   "line": 102,
+   "latin": "Graminaceae",
+   "english": "grass family",
+   "modern": "Poaceae",
+   "sure": true
+  },
+  {
+   "line": 104,
+   "latin": "Arundo",
+   "english": "giant reed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 104,
+   "latin": "Phragmites",
+   "english": "common reed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 106,
+   "latin": "Cannaceae",
+   "english": "canna family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 107,
+   "latin": "Avena",
+   "english": "oat",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 108,
+   "latin": "Bambusa",
+   "english": "bamboo",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 109,
+   "latin": "Cymbopogon",
+   "english": "lemongrass",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 110,
+   "latin": "Acorus",
+   "english": "sweet flag",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 111,
+   "latin": "Cynodon",
+   "english": "Bermuda grass",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 112,
+   "latin": "Eragrostis",
+   "english": "lovegrass",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 113,
+   "latin": "Stipa",
+   "english": "feather grass",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 114,
+   "latin": "Glyceria",
+   "english": "manna grass",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 115,
+   "latin": "Hordeum",
+   "english": "barley",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 116,
+   "latin": "Lolium",
+   "english": "ryegrass",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 117,
+   "latin": "Oryza",
+   "english": "rice",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 118,
+   "latin": "Phalaris",
+   "english": "canary grass",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 119,
+   "latin": "Panicum",
+   "english": "millet",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 120,
+   "latin": "Sorghum",
+   "english": "sorghum",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 121,
+   "latin": "Saccharum",
+   "english": "sugarcane",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 122,
+   "latin": "Secale",
+   "english": "rye",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 123,
+   "latin": "Triticum sativum Lam.",
+   "english": "wheat",
+   "modern": "Triticum aestivum",
+   "sure": true
+  },
+  {
+   "line": 124,
+   "latin": "T. sat. v. dicoccum Alef.",
+   "english": "emmer",
+   "modern": "Triticum dicoccum",
+   "sure": true
+  },
+  {
+   "line": 125,
+   "latin": "T. sat. v. tenax Hack.",
+   "english": "bread wheat",
+   "modern": "Triticum aestivum",
+   "sure": false
+  },
+  {
+   "line": 126,
+   "latin": "Zea",
+   "english": "maize",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 127,
+   "latin": "Gramineae",
+   "english": "grass family",
+   "modern": "Poaceae",
+   "sure": true
+  }
+ ],
+ "toc-II": [
+  {
+   "line": 4,
+   "latin": "Iridaceae",
+   "english": "iris family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 5,
+   "latin": "Iris",
+   "english": "iris",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 6,
+   "latin": "I. pseudacorus",
+   "english": "yellow flag",
+   "modern": "Iris pseudacorus",
+   "sure": true
+  },
+  {
+   "line": 7,
+   "latin": "I.",
+   "english": "iris species",
+   "modern": "Iris",
+   "sure": true
+  },
+  {
+   "line": 8,
+   "latin": "Iridaceae",
+   "english": "iris family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 9,
+   "latin": "Romulea",
+   "english": "sand crocus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 10,
+   "latin": "Gladiolus",
+   "english": "gladiolus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 11,
+   "latin": "Crocus sativus L.",
+   "english": "saffron",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 14,
+   "latin": "Juglandaceae",
+   "english": "walnut family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 15,
+   "latin": "Juglans regia L.",
+   "english": "walnut",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 16,
+   "latin": "Myristicaceae",
+   "english": "nutmeg family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 17,
+   "latin": "Myristica fragrans Houtt.",
+   "english": "nutmeg",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 20,
+   "latin": "Labiatae",
+   "english": "mint family",
+   "modern": "Lamiaceae",
+   "sure": true
+  },
+  {
+   "line": 21,
+   "latin": "Labiatae",
+   "english": "mint family",
+   "modern": "Lamiaceae",
+   "sure": true
+  },
+  {
+   "line": 22,
+   "latin": "Ajuga",
+   "english": "bugle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 23,
+   "latin": "Ballota",
+   "english": "black horehound",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 24,
+   "latin": "Betonica",
+   "english": "betony",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 25,
+   "latin": "Clinopodium",
+   "english": "wild basil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 26,
+   "latin": "Hyssopus",
+   "english": "hyssop",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 27,
+   "latin": "Lamium",
+   "english": "dead-nettle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 28,
+   "latin": "Lavandula",
+   "english": "lavender",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 29,
+   "latin": "Lycopus",
+   "english": "gypsywort",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 30,
+   "latin": "Marrubium",
+   "english": "horehound",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 31,
+   "latin": "Melissa",
+   "english": "lemon balm",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 32,
+   "latin": "Mentha",
+   "english": "mint",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 33,
+   "latin": "Ocimum",
+   "english": "basil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 34,
+   "latin": "Origanum Dictamnus L.",
+   "english": "dittany of Crete",
+   "modern": "Origanum dictamnus",
+   "sure": true
+  },
+  {
+   "line": 35,
+   "latin": "O. Majorana L.",
+   "english": "marjoram",
+   "modern": "Origanum majorana",
+   "sure": true
+  },
+  {
+   "line": 36,
+   "latin": "O. Maru L.",
+   "english": "Syrian oregano",
+   "modern": "Origanum syriacum",
+   "sure": false
+  },
+  {
+   "line": 37,
+   "latin": "Phlomis",
+   "english": "Jerusalem sage",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 38,
+   "latin": "Rosmarinus",
+   "english": "rosemary",
+   "modern": "Salvia",
+   "sure": true
+  },
+  {
+   "line": 40,
+   "latin": "Salvia",
+   "english": "sage",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 41,
+   "latin": "Satureia",
+   "english": "savory",
+   "modern": "Satureja",
+   "sure": true
+  },
+  {
+   "line": 42,
+   "latin": "Teucrium",
+   "english": "germander",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 43,
+   "latin": "Thymus",
+   "english": "thyme",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 44,
+   "latin": "Ziziphora",
+   "english": "a mint genus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 45,
+   "latin": "Lauraceae",
+   "english": "laurel family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 46,
+   "latin": "Cassyta",
+   "english": "dodder-laurel",
+   "modern": "Cassytha",
+   "sure": true
+  },
+  {
+   "line": 47,
+   "latin": "Cinnamomum ceylanic. Breyne",
+   "english": "cinnamon",
+   "modern": "Cinnamomum verum",
+   "sure": true
+  },
+  {
+   "line": 48,
+   "latin": "C. Camphora",
+   "english": "camphor tree",
+   "modern": "Camphora officinarum",
+   "sure": true
+  },
+  {
+   "line": 49,
+   "latin": "Laurus nobilis L.",
+   "english": "bay laurel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 50,
+   "latin": "Moringaceae",
+   "english": "moringa family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 51,
+   "latin": "Sassafras off. Nees",
+   "english": "sassafras",
+   "modern": "Sassafras albidum",
+   "sure": true
+  },
+  {
+   "line": 52,
+   "latin": "Liliaceae",
+   "english": "lily family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 53,
+   "latin": "Allium Cepa L.",
+   "english": "onion",
+   "modern": "Allium cepa",
+   "sure": true
+  },
+  {
+   "line": 54,
+   "latin": "A. Porrum L.",
+   "english": "leek",
+   "modern": "Allium ampeloprasum",
+   "sure": true
+  },
+  {
+   "line": 55,
+   "latin": "A. sativum L.",
+   "english": "garlic",
+   "modern": "Allium sativum",
+   "sure": true
+  },
+  {
+   "line": 56,
+   "latin": "A.",
+   "english": "onion genus",
+   "modern": "Allium",
+   "sure": true
+  },
+  {
+   "line": 57,
+   "latin": "Aloë",
+   "english": "aloe",
+   "modern": "Aloe",
+   "sure": true
+  },
+  {
+   "line": 58,
+   "latin": "Asphodelus",
+   "english": "asphodel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 59,
+   "latin": "Colchicum",
+   "english": "autumn crocus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 60,
+   "latin": "Veratrum",
+   "english": "false hellebore",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 61,
+   "latin": "Lilium",
+   "english": "lily",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 62,
+   "latin": "Liliaceae",
+   "english": "lily family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 63,
+   "latin": "L. album L.",
+   "english": "Madonna lily",
+   "modern": "Lilium candidum",
+   "sure": true
+  },
+  {
+   "line": 64,
+   "latin": "Muscari comosum L.",
+   "english": "tassel hyacinth",
+   "modern": "Leopoldia comosa",
+   "sure": true
+  },
+  {
+   "line": 65,
+   "latin": "Ornithogalum",
+   "english": "star-of-Bethlehem",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 66,
+   "latin": "Urginea marit. (L.) Baker",
+   "english": "sea squill",
+   "modern": "Drimia maritima",
+   "sure": true
+  },
+  {
+   "line": 67,
+   "latin": "Smilaceae",
+   "english": "greenbrier family",
+   "modern": "Smilacaceae",
+   "sure": true
+  },
+  {
+   "line": 68,
+   "latin": "Asparagus",
+   "english": "asparagus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 69,
+   "latin": "Convallaria",
+   "english": "lily of the valley",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 70,
+   "latin": "Dracaena",
+   "english": "dragon tree",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 71,
+   "latin": "Ruscus",
+   "english": "butcher's broom",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 72,
+   "latin": "Smilax",
+   "english": "greenbrier",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 73,
+   "latin": "Amaryllidaceae",
+   "english": "amaryllis family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 74,
+   "latin": "Narcissus",
+   "english": "daffodil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 75,
+   "latin": "Pancratium",
+   "english": "sea daffodil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 78,
+   "latin": "Liliaceae",
+   "english": "lily family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 79,
+   "latin": "Linaceae",
+   "english": "flax family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 80,
+   "latin": "Linum",
+   "english": "flax",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 81,
+   "latin": "Loranthaceae",
+   "english": "mistletoe family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 82,
+   "latin": "L. Acaciae Zucc.",
+   "english": "acacia strap flower",
+   "modern": "Plicosepalus acaciae",
+   "sure": true
+  },
+  {
+   "line": 83,
+   "latin": "Lythrariaceae",
+   "english": "loosestrife family",
+   "modern": "Lythraceae",
+   "sure": true
+  },
+  {
+   "line": 84,
+   "latin": "Lawsonia",
+   "english": "henna",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 85,
+   "latin": "Malvaceae",
+   "english": "mallow family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 86,
+   "latin": "M.",
+   "english": "mallow family",
+   "modern": "Malvaceae",
+   "sure": true
+  },
+  {
+   "line": 87,
+   "latin": "Malva",
+   "english": "mallow",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 88,
+   "latin": "Gossypium",
+   "english": "cotton",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 89,
+   "latin": "Malvaceae",
+   "english": "mallow family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 90,
+   "latin": "Malvaceae",
+   "english": "mallow family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 91,
+   "latin": "Tiliaceae",
+   "english": "linden family",
+   "modern": "Malvaceae",
+   "sure": true
+  },
+  {
+   "line": 92,
+   "latin": "Tiliaceae",
+   "english": "linden family",
+   "modern": "Malvaceae",
+   "sure": true
+  },
+  {
+   "line": 93,
+   "latin": "Grewia",
+   "english": "a shrub genus (Grewia)",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 94,
+   "latin": "Tilia",
+   "english": "linden",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 95,
+   "latin": "Meliaceae",
+   "english": "mahogany family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 96,
+   "latin": "Menispermaceae",
+   "english": "moonseed family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 97,
+   "latin": "Musaceae",
+   "english": "banana family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 98,
+   "latin": "Musa",
+   "english": "banana",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 99,
+   "latin": "Myrtaceae",
+   "english": "myrtle family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 100,
+   "latin": "M.",
+   "english": "myrtle family",
+   "modern": "Myrtaceae",
+   "sure": true
+  },
+  {
+   "line": 101,
+   "latin": "Myrtus communis L.",
+   "english": "myrtle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 102,
+   "latin": "Nyctaginaceae",
+   "english": "four o'clock family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 103,
+   "latin": "Nymphaeaceae",
+   "english": "water lily family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 104,
+   "latin": "Nelumbo nucifera Gärtn.",
+   "english": "sacred lotus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 105,
+   "latin": "Ochnaceae",
+   "english": "ochna family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 106,
+   "latin": "Onagraceae (Oenotheraceae)",
+   "english": "evening primrose family",
+   "modern": "Onagraceae",
+   "sure": true
+  },
+  {
+   "line": 107,
+   "latin": "Oleaceae",
+   "english": "olive family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 108,
+   "latin": "Fontanesia",
+   "english": "a shrub genus of the olive family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 109,
+   "latin": "Fraxinus",
+   "english": "ash",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 110,
+   "latin": "Phillyrea",
+   "english": "mock privet",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 111,
+   "latin": "Syringa",
+   "english": "lilac",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 112,
+   "latin": "Olea europaea L.",
+   "english": "olive",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 113,
+   "latin": "Orchidaceae",
+   "english": "orchid family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 114,
+   "latin": "Orobanchaceae",
+   "english": "broomrape family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 115,
+   "latin": "Oxalidaceae",
+   "english": "wood sorrel family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 116,
+   "latin": "Palmaceae",
+   "english": "palm family",
+   "modern": "Arecaceae",
+   "sure": true
+  },
+  {
+   "line": 118,
+   "latin": "Phoenix",
+   "english": "date palm",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 119,
+   "latin": "Papaveraceae",
+   "english": "poppy family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 120,
+   "latin": "Papaver",
+   "english": "poppy",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 121,
+   "latin": "Glaucium",
+   "english": "horned poppy",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 122,
+   "latin": "Chelidonium",
+   "english": "greater celandine",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 123,
+   "latin": "Othonna",
+   "english": "othonna (ancient plant name)",
+   "modern": "",
+   "sure": false
+  },
+  {
+   "line": 124,
+   "latin": "Papilionaceae",
+   "english": "legume family",
+   "modern": "Fabaceae",
+   "sure": true
+  },
+  {
+   "line": 125,
+   "latin": "Albizzia",
+   "english": "silk tree",
+   "modern": "Albizia",
+   "sure": true
+  },
+  {
+   "line": 126,
+   "latin": "Acacia",
+   "english": "acacia",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 127,
+   "latin": "Prosopis",
+   "english": "mesquite",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 128,
+   "latin": "Ceratonia",
+   "english": "carob",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 129,
+   "latin": "Cercis",
+   "english": "Judas tree",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 130,
+   "latin": "Cassia",
+   "english": "cassia",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 131,
+   "latin": "Tamarindus",
+   "english": "tamarind",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 132,
+   "latin": "Papilionatae",
+   "english": "pea subfamily",
+   "modern": "Faboideae",
+   "sure": true
+  },
+  {
+   "line": 133,
+   "latin": "Alhagi",
+   "english": "camelthorn",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 134,
+   "latin": "Anagyris",
+   "english": "bean trefoil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 135,
+   "latin": "Astragalus",
+   "english": "milkvetch",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 136,
+   "latin": "A. Poterium",
+   "english": "a spiny milkvetch",
+   "modern": "",
+   "sure": false
+  },
+  {
+   "line": 137,
+   "latin": "Calycotome",
+   "english": "spiny broom",
+   "modern": "Calicotome",
+   "sure": true
+  },
+  {
+   "line": 138,
+   "latin": "Cicer arietinum",
+   "english": "chickpea",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 139,
+   "latin": "Dalbergia",
+   "english": "rosewood",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 140,
+   "latin": "Glycyrrhiza",
+   "english": "liquorice",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 141,
+   "latin": "Indigofera",
+   "english": "indigo",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 142,
+   "latin": "Lathyrus",
+   "english": "vetchling",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 143,
+   "latin": "Lens",
+   "english": "lentil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 144,
+   "latin": "Lotus",
+   "english": "bird's-foot trefoil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 145,
+   "latin": "Lupinus",
+   "english": "lupin",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 146,
+   "latin": "Medicago",
+   "english": "medick",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 147,
+   "latin": "Melilotus",
+   "english": "sweet clover",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 148,
+   "latin": "Onobrychis",
+   "english": "sainfoin",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 149,
+   "latin": "Phaseolus",
+   "english": "bean",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 150,
+   "latin": "Mungo",
+   "english": "mung bean",
+   "modern": "Vigna radiata",
+   "sure": false
+  },
+  {
+   "line": 151,
+   "latin": "Retama",
+   "english": "white broom",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 152,
+   "latin": "Trifolium",
+   "english": "clover",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 153,
+   "latin": "Trigonella",
+   "english": "fenugreek",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 154,
+   "latin": "Vicia",
+   "english": "vetch",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 155,
+   "latin": "V. Faba L.",
+   "english": "broad bean",
+   "modern": "Vicia faba",
+   "sure": true
+  },
+  {
+   "line": 156,
+   "latin": "V. Narbonensis L.",
+   "english": "narbon vetch",
+   "modern": "Vicia narbonensis",
+   "sure": true
+  },
+  {
+   "line": 157,
+   "latin": "Vigna sinensis",
+   "english": "cowpea",
+   "modern": "Vigna unguiculata",
+   "sure": true
+  },
+  {
+   "line": 158,
+   "latin": "Papilionaceae",
+   "english": "legume family",
+   "modern": "Fabaceae",
+   "sure": true
+  }
+ ],
+ "toc-III": [
+  {
+   "line": 2,
+   "latin": "Pedaliaceae",
+   "english": "sesame family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 3,
+   "latin": "Sesamum",
+   "english": "sesame",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 4,
+   "latin": "Phytolaccaceae",
+   "english": "pokeweed family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 5,
+   "latin": "Pinaceae",
+   "english": "pine family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 10,
+   "latin": "Cupressus",
+   "english": "cypress",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 11,
+   "latin": "Juniperus",
+   "english": "juniper",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 12,
+   "latin": "Abies",
+   "english": "fir",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 13,
+   "latin": "Pinus",
+   "english": "pine",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 14,
+   "latin": "Gnetaceae",
+   "english": "gnetum family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 15,
+   "latin": "Salisburyaceae",
+   "english": "ginkgo family",
+   "modern": "Ginkgoaceae",
+   "sure": true
+  },
+  {
+   "line": 16,
+   "latin": "Taxaceae",
+   "english": "yew family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 17,
+   "latin": "Piperaceae",
+   "english": "pepper family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 18,
+   "latin": "Piper nigrum",
+   "english": "black pepper",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 19,
+   "latin": "P. Betle",
+   "english": "betel",
+   "modern": "Piper betle",
+   "sure": true
+  },
+  {
+   "line": 20,
+   "latin": "P. Cubeba",
+   "english": "cubeb",
+   "modern": "Piper cubeba",
+   "sure": true
+  },
+  {
+   "line": 21,
+   "latin": "P. longum",
+   "english": "long pepper",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 22,
+   "latin": "Plantaginaceae",
+   "english": "plantain family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 23,
+   "latin": "Plantago",
+   "english": "plantain",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 24,
+   "latin": "Platanaceae",
+   "english": "plane tree family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 25,
+   "latin": "Platanus",
+   "english": "plane tree",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 26,
+   "latin": "Plumbaginaceae",
+   "english": "leadwort family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 27,
+   "latin": "Plumbago",
+   "english": "leadwort",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 28,
+   "latin": "Limoniastrum",
+   "english": "a sea-lavender relative shrub genus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 29,
+   "latin": "Statice",
+   "english": "sea lavender",
+   "modern": "Limonium",
+   "sure": true
+  },
+  {
+   "line": 30,
+   "latin": "Portulacaceae",
+   "english": "purslane family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 31,
+   "latin": "Portulaca",
+   "english": "purslane",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 32,
+   "latin": "Primulaceae",
+   "english": "primrose family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 35,
+   "latin": "Anagallis",
+   "english": "pimpernel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 36,
+   "latin": "Cyclamen",
+   "english": "cyclamen",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 37,
+   "latin": "Lysimachia",
+   "english": "loosestrife",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 38,
+   "latin": "Myrsinaceae",
+   "english": "myrsine family",
+   "modern": "Primulaceae",
+   "sure": true
+  },
+  {
+   "line": 40,
+   "latin": "Punicaceae",
+   "english": "pomegranate family",
+   "modern": "Lythraceae",
+   "sure": true
+  },
+  {
+   "line": 41,
+   "latin": "Punica granatum",
+   "english": "pomegranate",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 42,
+   "latin": "Ranunculaceae",
+   "english": "buttercup family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 45,
+   "latin": "Aconitum",
+   "english": "monkshood",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 46,
+   "latin": "Adonis",
+   "english": "pheasant's eye",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 47,
+   "latin": "Anemone",
+   "english": "anemone",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 48,
+   "latin": "Helleborus",
+   "english": "hellebore",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 49,
+   "latin": "Nigella",
+   "english": "nigella, black cumin",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 50,
+   "latin": "Paeonia",
+   "english": "peony",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 51,
+   "latin": "Ranunculus",
+   "english": "buttercup",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 52,
+   "latin": "Thalictrum",
+   "english": "meadow-rue",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 53,
+   "latin": "Resedaceae",
+   "english": "mignonette family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 54,
+   "latin": "Reseda luteola",
+   "english": "weld",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 56,
+   "latin": "Rhamnaceae",
+   "english": "buckthorn family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 57,
+   "latin": "Paliurus",
+   "english": "Christ's thorn",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 58,
+   "latin": "Rhamnus",
+   "english": "buckthorn",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 59,
+   "latin": "Zizyphus Lotus",
+   "english": "lotus jujube",
+   "modern": "Ziziphus lotus",
+   "sure": true
+  },
+  {
+   "line": 60,
+   "latin": "Z. Spina Christi",
+   "english": "Christ's thorn jujube",
+   "modern": "Ziziphus spina-christi",
+   "sure": true
+  },
+  {
+   "line": 61,
+   "latin": "Z. vulgaris",
+   "english": "jujube",
+   "modern": "Ziziphus jujuba",
+   "sure": true
+  },
+  {
+   "line": 63,
+   "latin": "Rosaceae",
+   "english": "rose family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 64,
+   "latin": "Prunus communis",
+   "english": "almond",
+   "modern": "Prunus dulcis",
+   "sure": true
+  },
+  {
+   "line": 65,
+   "latin": "P. Armeniaca",
+   "english": "apricot",
+   "modern": "Prunus armeniaca",
+   "sure": true
+  },
+  {
+   "line": 66,
+   "latin": "P. Persica",
+   "english": "peach",
+   "modern": "Prunus persica",
+   "sure": true
+  },
+  {
+   "line": 67,
+   "latin": "P. Mahaleb",
+   "english": "mahaleb cherry",
+   "modern": "Prunus mahaleb",
+   "sure": true
+  },
+  {
+   "line": 68,
+   "latin": "P. domestica",
+   "english": "plum",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 69,
+   "latin": "P. avium",
+   "english": "sweet cherry",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 70,
+   "latin": "P. Cerasus",
+   "english": "sour cherry",
+   "modern": "Prunus cerasus",
+   "sure": true
+  },
+  {
+   "line": 71,
+   "latin": "Rubus",
+   "english": "bramble",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 72,
+   "latin": "Agrimonia",
+   "english": "agrimony",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 73,
+   "latin": "Alchimilla",
+   "english": "lady's mantle",
+   "modern": "Alchemilla",
+   "sure": true
+  },
+  {
+   "line": 74,
+   "latin": "Fragaria",
+   "english": "strawberry",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 75,
+   "latin": "Geum",
+   "english": "avens",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 76,
+   "latin": "Neurada",
+   "english": "a desert herb genus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 78,
+   "latin": "Potentilla",
+   "english": "cinquefoil",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 79,
+   "latin": "Poterium",
+   "english": "burnet",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 80,
+   "latin": "Rosa",
+   "english": "rose",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 81,
+   "latin": "Pirus Malus",
+   "english": "apple",
+   "modern": "Malus domestica",
+   "sure": true
+  },
+  {
+   "line": 82,
+   "latin": "P. communis",
+   "english": "pear",
+   "modern": "Pyrus communis",
+   "sure": true
+  },
+  {
+   "line": 83,
+   "latin": "P. Cydonia",
+   "english": "quince",
+   "modern": "Cydonia oblonga",
+   "sure": true
+  },
+  {
+   "line": 84,
+   "latin": "Mespilus",
+   "english": "medlar",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 86,
+   "latin": "Sorbus",
+   "english": "rowan, service tree",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 88,
+   "latin": "Rubiaceae",
+   "english": "madder family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 91,
+   "latin": "Cinchona",
+   "english": "cinchona",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 92,
+   "latin": "Coffea",
+   "english": "coffee",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 93,
+   "latin": "Crucianella",
+   "english": "crosswort",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 94,
+   "latin": "Galium",
+   "english": "bedstraw",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 95,
+   "latin": "Rubia",
+   "english": "madder",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 96,
+   "latin": "Rutaceae",
+   "english": "rue family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 97,
+   "latin": "Citrus",
+   "english": "citrus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 98,
+   "latin": "Ruta",
+   "english": "rue",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 99,
+   "latin": "Salicaceae",
+   "english": "willow family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 101,
+   "latin": "Salix",
+   "english": "willow",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 102,
+   "latin": "Populus",
+   "english": "poplar",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 103,
+   "latin": "Santalaceae",
+   "english": "sandalwood family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 105,
+   "latin": "Santalum",
+   "english": "sandalwood",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 106,
+   "latin": "Sapotaceae",
+   "english": "sapodilla family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 108,
+   "latin": "Mimusops",
+   "english": "a tropical tree genus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 109,
+   "latin": "Scrophulariaceae",
+   "english": "figwort family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 112,
+   "latin": "Verbascum",
+   "english": "mullein",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 113,
+   "latin": "Solanaceae",
+   "english": "nightshade family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 116,
+   "latin": "Atropa",
+   "english": "belladonna",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 117,
+   "latin": "Capsicum",
+   "english": "chili pepper",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 118,
+   "latin": "Datura",
+   "english": "thorn apple",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 119,
+   "latin": "Hyoscyamus",
+   "english": "henbane",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 120,
+   "latin": "Lycium",
+   "english": "boxthorn",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 121,
+   "latin": "Lycopersicum",
+   "english": "tomato",
+   "modern": "Solanum lycopersicum",
+   "sure": true
+  },
+  {
+   "line": 122,
+   "latin": "Mandragora",
+   "english": "mandrake",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 123,
+   "latin": "Nicotiana",
+   "english": "tobacco",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 124,
+   "latin": "Physalis",
+   "english": "ground cherry",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 125,
+   "latin": "Solanum coagulans",
+   "english": "bitter apple nightshade",
+   "modern": "Solanum incanum",
+   "sure": false
+  },
+  {
+   "line": 126,
+   "latin": "S. Melongena",
+   "english": "eggplant",
+   "modern": "Solanum melongena",
+   "sure": true
+  },
+  {
+   "line": 127,
+   "latin": "S. nigrum",
+   "english": "black nightshade",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 128,
+   "latin": "S. tuberosum",
+   "english": "potato",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 129,
+   "latin": "Sterculiaceae",
+   "english": "cacao family",
+   "modern": "Malvaceae",
+   "sure": true
+  },
+  {
+   "line": 131,
+   "latin": "Theobroma Cacao",
+   "english": "cacao",
+   "modern": "Theobroma cacao",
+   "sure": true
+  },
+  {
+   "line": 132,
+   "latin": "Styracaceae",
+   "english": "storax family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 133,
+   "latin": "Styrax",
+   "english": "storax",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 134,
+   "latin": "Jasmineae",
+   "english": "jasmine tribe",
+   "modern": "Oleaceae",
+   "sure": true
+  },
+  {
+   "line": 135,
+   "latin": "Jasminum",
+   "english": "jasmine",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 136,
+   "latin": "Tamaricaceae",
+   "english": "tamarisk family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 139,
+   "latin": "Tamarix",
+   "english": "tamarisk",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 140,
+   "latin": "Ternströmiaceae",
+   "english": "tea family",
+   "modern": "Theaceae",
+   "sure": true
+  },
+  {
+   "line": 142,
+   "latin": "Thymelaeaceae",
+   "english": "daphne family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 145,
+   "latin": "Mezereum",
+   "english": "mezereon",
+   "modern": "Daphne",
+   "sure": true
+  },
+  {
+   "line": 146,
+   "latin": "Aquilaria",
+   "english": "agarwood",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 147,
+   "latin": "Penaeaceae",
+   "english": "a South African shrub family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 148,
+   "latin": "Penaea",
+   "english": "a South African shrub genus",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 149,
+   "latin": "Ulmaceae",
+   "english": "elm family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 151,
+   "latin": "Celtis",
+   "english": "hackberry",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 152,
+   "latin": "Ulmus",
+   "english": "elm",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 153,
+   "latin": "Umbellaceae",
+   "english": "carrot family",
+   "modern": "Apiaceae",
+   "sure": true
+  },
+  {
+   "line": 156,
+   "latin": "Ammi",
+   "english": "bishop's weed",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 157,
+   "latin": "Salvadora",
+   "english": "toothbrush tree",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 158,
+   "latin": "Apium",
+   "english": "celery",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 159,
+   "latin": "Petroselinum",
+   "english": "parsley",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 160,
+   "latin": "Carum",
+   "english": "caraway",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 161,
+   "latin": "Cuminum",
+   "english": "cumin",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 162,
+   "latin": "Lagoecia",
+   "english": "wild cumin",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 163,
+   "latin": "Conium",
+   "english": "hemlock",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 164,
+   "latin": "Coriandrum",
+   "english": "coriander",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 165,
+   "latin": "Daucus",
+   "english": "carrot",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 166,
+   "latin": "Ferula",
+   "english": "giant fennel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 167,
+   "latin": "F. scorodosma",
+   "english": "asafoetida",
+   "modern": "Ferula assa-foetida",
+   "sure": true
+  },
+  {
+   "line": 168,
+   "latin": "Galbanum",
+   "english": "galbanum",
+   "modern": "Ferula gummosa",
+   "sure": false
+  },
+  {
+   "line": 169,
+   "latin": "Dorema",
+   "english": "ammoniacum plant",
+   "modern": "Ferula",
+   "sure": true
+  },
+  {
+   "line": 170,
+   "latin": "Ferula communis",
+   "english": "giant fennel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 171,
+   "latin": "Opopanax",
+   "english": "opopanax",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 173,
+   "latin": "Sagapenum",
+   "english": "sagapenum",
+   "modern": "Ferula",
+   "sure": false
+  },
+  {
+   "line": 174,
+   "latin": "Foeniculum",
+   "english": "fennel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 175,
+   "latin": "Meum",
+   "english": "baldmoney",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 176,
+   "latin": "Peucedanum",
+   "english": "hog's fennel",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 177,
+   "latin": "Pimpinella",
+   "english": "anise",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 178,
+   "latin": "Scandix",
+   "english": "shepherd's needle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 179,
+   "latin": "Seseli",
+   "english": "moon carrot",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 180,
+   "latin": "Sison",
+   "english": "stone parsley",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 181,
+   "latin": "Thapsia",
+   "english": "deadly carrot",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 183,
+   "latin": "Urticaceae",
+   "english": "nettle family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 185,
+   "latin": "Urtica",
+   "english": "nettle",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 186,
+   "latin": "Valerianaceae",
+   "english": "valerian family",
+   "modern": "Caprifoliaceae",
+   "sure": true
+  },
+  {
+   "line": 189,
+   "latin": "Verbenaceae",
+   "english": "verbena family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 191,
+   "latin": "Verbena",
+   "english": "vervain",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 192,
+   "latin": "Vitex",
+   "english": "chaste tree",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 193,
+   "latin": "Violaceae",
+   "english": "violet family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 194,
+   "latin": "Zingiberaceae",
+   "english": "ginger family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 195,
+   "latin": "Alpinia",
+   "english": "galangal",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 196,
+   "latin": "Amomum",
+   "english": "amomum, black cardamom",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 197,
+   "latin": "Costus",
+   "english": "costus",
+   "modern": "",
+   "sure": false
+  },
+  {
+   "line": 198,
+   "latin": "Curcuma",
+   "english": "turmeric",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 199,
+   "latin": "Elettaria",
+   "english": "cardamom",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 200,
+   "latin": "Zingiber",
+   "english": "ginger",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 201,
+   "latin": "Zygophyllaceae",
+   "english": "caltrop family",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 202,
+   "latin": "Peganum",
+   "english": "Syrian rue",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 203,
+   "latin": "Tribulus",
+   "english": "caltrop",
+   "modern": "",
+   "sure": true
+  },
+  {
+   "line": 204,
+   "latin": "Simarubaceae",
+   "english": "quassia family",
+   "modern": "Simaroubaceae",
+   "sure": true
+  }
+ ],
+ "toc-IV": []
+}

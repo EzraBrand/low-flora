@@ -20,6 +20,13 @@ each half-volume; Bd. III scan 14 and Bd. IV scan 16 are blank pages. `entry.py`
 "contents" mode: lines are kept, leader dots become " … ", and Roman page numbers of the front
 matter stay Roman.
 
+On the reading edition, each Latin plant name in the contents lists is followed by its common
+English name, e.g. `Ampelidaceae [=grape family; now Vitaceae]` ("now": today's accepted name
+when Löw's is outdated; "?": uncertain identification), with a "Common names" switch. The names
+come from `plant_names.json` (525 names; built by `names.py`, one model call per list, $0.68),
+and `build_site.py` inserts them in code, so a wrong name is corrected by editing the file
+(set `"checked": true` on the row so that `names.py --force` keeps it).
+
 **A whole entry:** [Pistacia, Bd. I pp. 191–200, in English](data/entries/pistacia/en.md)
 (and the [joined German text](data/entries/pistacia/de.md)): ten pages joined into continuous
 text, with page markers, footnotes by page, and abbreviations opened.

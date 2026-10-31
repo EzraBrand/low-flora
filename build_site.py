@@ -141,6 +141,24 @@ def inline(text: str, page: int, ctx: dict) -> str:
     return "".join(out)
 
 
+def common_names(doc: dict) -> dict[int, list[dict]]:
+    """English line number -> plant_names.json rows, for a contents list (else empty)."""
+    table = ROOT / "plant_names.json"
+    if not doc.get("contents") or not table.exists():
+        return {}
+    out = {}
+    for r in json.loads(table.read_text(encoding="utf-8")).get(doc["entry"], []):
+        out.setdefault(r["line"], []).append(r)
+    return out
+
+
+def common_name_html(r: dict) -> str:
+    text = r["english"] + ("?" if not r["sure"] else "")
+    if r["modern"]:
+        text += f"; now {r['modern']}"
+    return f'<span class="cn"> [={html.escape(text)}]</span>'
+
+
 def paragraph_page(text: str, start: str) -> str:
     marks = PAGE_MARK.findall(text)
     return marks[-1] if marks else start
@@ -203,11 +221,12 @@ def header(active: str) -> str:
             f'<span>· reading edition (test)</span></a><nav>{nav}</nav></header>')
 
 
+CN_TOGGLE = '<label><input type="checkbox" data-toggle="show-cn" checked> Common names</label>'
 TOGGLES = """<div class="toggles" role="group" aria-label="Display">
 <label><input type="checkbox" data-toggle="show-de" checked> German</label>
 <label><input type="checkbox" data-toggle="show-exp"> Abbreviations inline</label>
 <label><input type="checkbox" data-toggle="show-tr"> Transliterations inline</label>
-</div>"""
+{cn}</div>"""
 
 
 def doc_html(doc: dict) -> str:
@@ -221,11 +240,26 @@ def doc_html(doc: dict) -> str:
     pages = [str(p) for p in doc["pages"]]
     cur = {"de": pages[0], "en": pages[0]}
     lines = doc.get("contents", False)
+    names = common_names(doc)
+    en_line = 0  # line number in the English contents list, as in plant_names.json
     for de, en in zip(d["de"], d["en"]):
         cells = []
         for lang, b in (("de", de), ("en", en)):
             ctx = {"ids": ids, "notes": keymap, "lang": lang, "lines": lines}
-            text = inline(b["text"], cur[lang], ctx)
+            raw, spans = b["text"], {}
+            if lang == "en" and names:
+                out_lines = []
+                for line in raw.split("\n"):
+                    for r in names.get(en_line, []):
+                        k = f"⟦cn{len(spans)}⟧"  # placeholder, replaced after inline()
+                        line = line.replace(r["latin"], r["latin"] + k, 1)
+                        spans[k] = common_name_html(r)
+                    out_lines.append(line)
+                    en_line += 1
+                raw = "\n".join(out_lines)
+            text = inline(raw, cur[lang], ctx)
+            for k, v in spans.items():
+                text = text.replace(k, v)
             cur[lang] = paragraph_page(b["text"], cur[lang])
             tag = "h3" if b["type"] == "heading" else "p"
             cells.append(f'<div class="cell {lang}" lang="{"de" if lang == "de" else "en"}"><{tag}>{text}</{tag}></div>')
@@ -254,7 +288,7 @@ not transliterated; Syriac, Arabic and Greek words show a transliteration when y
 (Syriac in Hebrew letters). Dotted words are abbreviations: point at them for the expansion
 (from Löw's own list where possible; “?” = not known). “p. 194” links to the scan of that page.
 Numbers link to the footnotes below. Machine output: check the scan before you cite.</p></details>
-{TOGGLES}
+{TOGGLES.format(cn=CN_TOGGLE if names else "")}
 <div class="scans" aria-label="Scans">{thumbs}</div>
 <div class="cols-head row"><div class="cell de">German (Löw)</div><div class="cell en">English</div></div>
 {"".join(rows)}
@@ -354,6 +388,8 @@ bdi.ara{font-family:"Noto Naskh Arabic",serif;font-size:1.05em}
 .nl:hover::after,.nl:focus::after{content:attr(data-tr);position:absolute;left:0;top:1.6em;background:var(--fg);color:var(--bg);font:14px/1.3 "Noto Serif",serif;padding:.2rem .45rem;border-radius:4px;white-space:nowrap;z-index:2}
 abbr{text-decoration:underline dotted var(--muted);cursor:help}
 .exp,.tr{display:none;color:var(--muted)}
+.cn{color:var(--muted);font-size:.92em}
+body:not(.show-cn) .cn{display:none}
 body.show-exp .exp,body.show-tr .tr{display:inline}
 a.pg{font-size:.75rem;background:var(--mark);color:var(--fg);padding:0 .3rem;border-radius:3px;text-decoration:none;white-space:nowrap;vertical-align:.1em}
 a.fn{font-size:.72em;vertical-align:super;line-height:0;text-decoration:none;padding:0 .1em}
