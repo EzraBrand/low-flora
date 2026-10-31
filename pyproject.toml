@@ -1,0 +1,14 @@
+[project]
+name = "low-flora"
+version = "0.1.0"
+description = "Test pipeline for OCR and English translation of Immanuel Löw, Die Flora der Juden (1924-34)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=2.3.0",
+    "numpy>=2.5.4",
+    "pillow>=13.0.0",
+    "pypdf>=6.21.4",
+    "rapidfuzz>=3.14.6",
+    "requests>=2.34.2",
+]

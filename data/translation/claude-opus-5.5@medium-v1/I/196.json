@@ -1,0 +1,88 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "196"
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "Anacardiaceae"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "that an oil is obtained from mastic, as from other kinds of resin (صمغ [ṣamgh] צמגים [ṣmgym]) (Ki tissa 76^{b})."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Tournefort (d. 1708. Tschirch 1, 906) reported on the production of mastic on the island of Chios (Scio)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Arabic مصطكى [maṣṭakā] is a loanword (Fraenkel 151); it has also migrated further into Armenian (Hübschmann 248. ZDMG. 51, 304) and into the European languages."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "For Arabic: E. Wiedem. LVI 340. <i>mastik</i> (P.) Vullers 2, 51 = رَمَاسى [ramāsī]. מצטכי [mṣṭky] Abulw. 302 Bacher. Sha 1879, Syriac كيا [kyā] 1756. Physicians: Sha loc. cit. Kašef = كيا [kyā]. Abu Salt: משטיגי [mšṭygy]. Estori ha-Farḥī writes מצטכא [mṣṭkʾ] and, in the name of his father, identifies it with קטף [qṭp] (f 421^{b} Ven., 107^{b} Edelm., p. 662 Luncz)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Mastic is adulterated with the resin of the <i>ʾubhul</i> (juniper): Ibn Bassām in E. Wiedem. XL 177. 189."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Romance forms among Jews: משתיק [mštyq] (Abulw. 302 Bacher), מסתיקי [mstyqy], מסתיצי [mstyṣy] Mb. 31. 50. Menaḥem b. Salomo (1139) says: <i>lōṭ</i> is the resin of the tree שטינקי [šṭynqy] (lentisco). In Italian it is called: משטיכו [mšṭykw]; it is a remedy and serves to strengthen the teeth (Sechel tob p. XI.). — Grünbaum, Jüd.-span. Chrest. 11 f.: <i>almastig, almaciga</i> משטיק [mšṭyq] (Semag lāwīn 65 f. 22^{a}). On account of the blessings due for its fragrance, Tur and SchA OCh. 216, 3 mention it, in the codices as מצטכי [mṣṭky], in Zēdā lederech 64^{b} as מצתכין [mṣtkyn], מצטיכי [mṣṭyky], מסטיכי [msṭyky]."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Since Luther had rendered צרי [ṣŏrī]*) in Ez. 27, 17 as mastic, this was frequently repeated and is still retained by Rothstein in the Kautzsch Bible (on ^{c d e}) and others. <i>ṣŏrī</i> is not mastic but storax (Flora 3, 390), as Rashi on ^{a}) quite correctly states. In accordance with our usage one translates \"balm\" (Rothstein), just as Abulwalīd renders it periphrastically as „<i>tirjāḳ</i>“, and as does the Geonic explanation in Ibn Ezra, which understands by it a remedy compounded of 75 ingredients — that is, a theriac."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "When Targ. j substitutes שרף (ו)קטף [śrp (w)qṭp] for it, it will mean storax. In any case Onkelos with שעיף [šʿyp], Samaritan שעבה [šʿbh] (variant readings שעפה [šʿph], שעבי [šʿby], שאבה [šʾbh]), means not mastic but probably storax, not \"balm\" in general. In Palestine in the Talmudic period (3rd—4th cent.) one sought"
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "^{a} Gn. 37, 25. ^{b} 43, 11. ^{c} Jer. 8, 22. ^{d} 46, 11. ^{e} 51, 8. The Syriac and Greek versions read in Sir. 6, 16 צרי חיים [ṣŏrī ḥayyîm], but the reading of the Hebrew text, צרור חיים [ṣərôr ḥayyîm], must be acknowledged as correct. — Susanna and Daniel 54—58 p. 138 Kautzsch does not belong here. — Boch. Hieroz. 1, 628 wanted to derive ῥητίνη [rhētinē] from <i>ṣŏrī</i>. Wrong is the combination of Roubinovitch, ḥiddūšīm 6, that Biblical Hebrew עזק [ʿzq] means the same as צרי [ṣŏrī]."
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "source_meta": {
+   "engine": "openrouter",
+   "model": "anthropic/claude-opus-5.5",
+   "provider": "Claude Platform on AWS",
+   "effort": "low",
+   "reasoning_tokens": 0,
+   "images": [
+    [
+     2604,
+     2894
+    ],
+    [
+     2604,
+     2626
+    ]
+   ],
+   "input_tokens": 11116,
+   "output_tokens": 2957,
+   "cost_usd": 0.1036,
+   "seconds": 36.5
+  },
+  "input_tokens": 2986,
+  "output_tokens": 1760,
+  "cost_usd": 0.0471,
+  "seconds": 21.1
+ }
+}

@@ -1,0 +1,225 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Abkürzungen",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Abkürzungen"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "737",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "737"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "siten und Erzeugnisse. Leipzig 1870. — L. Löw <i>gS</i> = Leopold Löw,\nGesammelte Schriften I-V. Szeged 1889-1900. — Richard Loewe,\nGerman. Pflanzennamen. Heidelberg 1913. — Lundgreen = Fried-\nrich ~, Die Benutzung der Pflanzenwelt in der alttestamentlichen\nReligion. Gießen 1908. — <i>Ly</i> = Jacob Levy, Neuhebr. und chald.\nWB. I-IV. 1876-1889. — <i>Ly TW</i> = ~~, Targumwörterbuch. I. II.\nLeipzig 1867.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "siten und Erzeugnisse. Leipzig 1870. — L. Löw <i>gS</i> = Leopold Löw,\nGesammelte Schriften I-V. Szeged 1889-1900. — Richard Loewe,\nGerman. Pflanzennamen. Heidelberg 1913. — Lundgreen = Fried-\nrich ~, Die Benutzung der Pflanzenwelt in der alttestamentlichen\nReligion. Gießen 1908. — <i>Ly</i> = Jacob Levy, Neuhebr. und chald.\nWB. I-IV. 1876-1889. — <i>Ly TW</i> = ~~, Targumwörterbuch. I. II.\nLeipzig 1867."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "M: Maarsen, <i>Tiferet le-mōše</i> = ~, Textstudien op den Penta-\nteuch-Commentar van Mozes Nachmanides. Amsterdam 1918. —\n<i>Maase Tobia</i> = Tobijja ha-Kohen, ~~. Venedig 1707. — Maclean =\nA. J. ~, A dictionary of the dialect of vernacular Syriac. Oxford\n1901. — <i>Maddāʿē ha-jahdūt</i> = ~. Jerusalem 1926-27. — <i>Magdīr</i> =\nEig, Zohary und Feinbrun, Magdīr lĕ-simḥē ereṣ jisrāēl. Jerusalem\n1931. — <i>M. Nyr.</i> = Magyar Nyelvőr = Magyarische sprachwissen-\nschaftl. Monatschrift. — Mandelkern = Sal. ~, תבנית היכל [Handkon-\nkordanz] Leipzig. — Mann = Jakob ~, Texts and Studies I. Cincinnati\n1931. — <i>Mech. R. S</i> . . . Hoffm. = Mechilta de Rabbi Simon ben\nJochai ed. Hoffmann. Frankfurt a. M. 1905. — Meissner = B. ~,\nBabylonische Pflanzennamen. ZA 6, 289. — Meyer, <i>Gesch. d. Bot.</i> =\nErnst H. F. ~, Geschichte der Botanik I-IV. Königsberg 1854-1857. —\nMeyerhof = Max ~, Der Bazar der Drogen und Wohlgerüche in\nKairo. Berlin-Potsdam 1918. — <i>MS</i> = Monatsschrift für die Gesch.\nu. Wiss. d. Judentums. Breslau. — Kaufmann, <i>Katal.</i> Weiss = Max\nWeiss, Katalog d. hebr. Handschriften und Bücher in der Bibl.\nDavid Kaufmann. Frankfurt a. M. 1906. — <i>Ms. M.</i> = Die photogra-\nphische Wiedergabe der Münchner Talmudhandschrift. — <i>MT.</i> Hoffm.\n= Midraš Tannaim ed. D. Hoffmann. Berlin 1909. — Müller, <i>Eldad</i> =\nD. H. ~, Die Recensionen und Versionen des Eldad had-Dānī. Wien\n1892. — Müller, <i>Maftēaḥ</i> = Joel ~, ~ litĕšūbōt ha-gĕōnīm. Einlei-\ntung in d. Responsen . . . Berlin 1891. — Munk, <i>Mélanges</i> = Salomon\n~, Mélanges de philosophie juive et arabe. Paris 1859. — Musil =\n~, Arabia Petraea III. — <i>M. V.</i> = Machzor Vitry (hebr.). Berlin\n1893. — <i>MZs</i> = Magyar Zsidó Szemle. Budapest.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "M: Maarsen, "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>Tiferet le-mōše</i>"
+    },
+    {
+     "lang": "other",
+     "text": " = ~, Textstudien op den Penta-\nteuch-Commentar van Mozes Nachmanides. Amsterdam 1918. —\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>Maase Tobia</i> = Tobijja ha-Kohen, ~~."
+    },
+    {
+     "lang": "deu",
+     "text": " Venedig 1707. — Maclean =\n"
+    },
+    {
+     "lang": "eng",
+     "text": "A. J. ~, A dictionary of the dialect of vernacular Syriac. Oxford\n1901. — "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>Maddāʿē ha-jahdūt</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " = ~. Jerusalem 1926-27. — "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>Magdīr</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " =\nEig, Zohary und Feinbrun, "
+    },
+    {
+     "lang": "translit",
+     "text": "Magdīr lĕ-simḥē ereṣ jisrāēl."
+    },
+    {
+     "lang": "deu",
+     "text": " Jerusalem\n1931. — <i>M. Nyr.</i> = "
+    },
+    {
+     "lang": "other",
+     "text": "Magyar Nyelvőr"
+    },
+    {
+     "lang": "deu",
+     "text": " = Magyarische sprachwissen-\nschaftl. Monatschrift. — Mandelkern = Sal. ~, "
+    },
+    {
+     "lang": "heb",
+     "text": "תבנית היכל"
+    },
+    {
+     "lang": "deu",
+     "text": " [Handkon-\nkordanz] Leipzig. — Mann = Jakob ~, "
+    },
+    {
+     "lang": "eng",
+     "text": "Texts and Studies I. Cincinnati\n1931."
+    },
+    {
+     "lang": "deu",
+     "text": " — <i>Mech. R. S</i> . . . Hoffm. = Mechilta de Rabbi Simon ben\nJochai ed. Hoffmann. Frankfurt a. M. 1905. — Meissner = B. ~,\nBabylonische Pflanzennamen. ZA 6, 289. — Meyer, <i>Gesch. d. Bot.</i> =\nErnst H. F. ~, Geschichte der Botanik I-IV. Königsberg 1854-1857. —\nMeyerhof = Max ~, Der Bazar der Drogen und Wohlgerüche in\nKairo. Berlin-Potsdam 1918. — <i>MS</i> = Monatsschrift für die Gesch.\nu. Wiss. d. Judentums. Breslau. — Kaufmann, <i>Katal.</i> Weiss = Max\nWeiss, Katalog d. hebr. Handschriften und Bücher in der Bibl.\nDavid Kaufmann. Frankfurt a. M. 1906. — <i>Ms. M.</i> = Die photogra-\nphische Wiedergabe der Münchner Talmudhandschrift. — <i>MT.</i> Hoffm.\n= Midraš Tannaim ed. D. Hoffmann. Berlin 1909. — Müller, <i>Eldad</i> =\nD. H. ~, Die Recensionen und Versionen des Eldad had-Dānī. Wien\n1892. — Müller, "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>Maftēaḥ</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " = Joel ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "~ litĕšūbōt ha-gĕōnīm."
+    },
+    {
+     "lang": "deu",
+     "text": " Einlei-\ntung in d. Responsen . . . Berlin 1891. — Munk, <i>Mélanges</i> = Salomon\n"
+    },
+    {
+     "lang": "fra",
+     "text": "~, Mélanges de philosophie juive et arabe."
+    },
+    {
+     "lang": "deu",
+     "text": " Paris 1859. — Musil =\n~, Arabia Petraea III. — <i>M. V.</i> = Machzor Vitry (hebr.). Berlin\n1893. — <i>MZs</i> = "
+    },
+    {
+     "lang": "other",
+     "text": "Magyar Zsidó Szemle."
+    },
+    {
+     "lang": "deu",
+     "text": " Budapest."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "N: <i>nh</i> = neuhebräisch. — Neubauer <i>Chron.</i> = Ad. ~, Mediaeval\njewish Chronicles (hebr.) I. II. Oxford 1887-1895. — Neubauer, Ecriv. Fran-\nçais = Ernest Renan, Les écrivains français du XIV^{e} siècle. Paris 1893.\n— Neubauer Géogr. = Adolphe ~, La géographie du Talmud. Paris\n1868. — Nöldeke <i>BsS</i> = Theodor ~, Beiträge zur semitischen Sprach-\nwissenschaft. Straßburg 1904. — Nöldeke, <i>Mand.</i> = Mandäische Gram-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "N: <i>nh</i> = neuhebräisch. — Neubauer <i>Chron.</i> = Ad. ~, "
+    },
+    {
+     "lang": "eng",
+     "text": "Mediaeval\njewish Chronicles"
+    },
+    {
+     "lang": "deu",
+     "text": " (hebr.) I. II. Oxford 1887-1895. — Neubauer, "
+    },
+    {
+     "lang": "fra",
+     "text": "Ecriv. Fran-\nçais = Ernest Renan, Les écrivains français du XIV^{e} siècle. Paris 1893.\n— Neubauer Géogr. = Adolphe ~, La géographie du Talmud. Paris\n1868."
+    },
+    {
+     "lang": "deu",
+     "text": " — Nöldeke <i>BsS</i> = Theodor ~, Beiträge zur semitischen Sprach-\nwissenschaft. Straßburg 1904. — Nöldeke, <i>Mand.</i> = Mandäische Gram-"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Löw, Flora. IV.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Löw, Flora. IV."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "47",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "47"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2572,
+    2027
+   ],
+   [
+    2572,
+    2977
+   ]
+  ],
+  "input_tokens": 11104,
+  "output_tokens": 2279,
+  "cost_usd": 0.09,
+  "seconds": 28.0
+ }
+}

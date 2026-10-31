@@ -1,0 +1,229 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Abkürzungen",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Abkürzungen"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "733",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "733"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Davidson, <i>Oṣar</i> = ~, Oṣar ha-širā weha-pijjuṭīm I-IV. — <i>Dbg.</i> =\nJ. Derenbourg = ~, Comm. de Maimonide sur la Mischnah Seder Toho-\nrot. Berlin 1887. — Diez^{3} = ~, Etym. Wörterbuch d. romanischen\nSprachen. 3. Aufl. — <i>Diosk</i> . . . <i>Spr.</i> = Dioskurides ed. Sprengel.\n— <i>Diosk</i> . . . <i>W.</i> = ed. Wellmann. — Dozy = ~, Supplément aux\ndictionnaires arabes. 1881. — Dukes = ~, Rabbinische Blumenlese.\nLeipzig 1844. — Duschinsky, Rabb. London = ~, The Rabbinate\nof the great synagogue London from 1756-1842. London 1921. —\nDuval-Berthelot = ~, L’alchimie syriaque . . . Paris 1893. — Duval,\n<i>Litt. syr.</i> = ~, La littérature syriaque. Paris 1900. — Duval <i>Salam.</i>\n= Rubens ~, Les dialectes néoaraméens de Salamas. Paris 1883.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Davidson, <i>Oṣar</i> = ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Oṣar ha-širā weha-pijjuṭīm"
+    },
+    {
+     "lang": "deu",
+     "text": " I-IV. — <i>Dbg.</i> =\nJ. Derenbourg = ~, "
+    },
+    {
+     "lang": "fra",
+     "text": "Comm. de Maimonide sur la Mischnah Seder Toho-\nrot."
+    },
+    {
+     "lang": "deu",
+     "text": " Berlin 1887. — Diez^{3} = ~, Etym. Wörterbuch d. romanischen\nSprachen. 3. Aufl. — <i>Diosk</i> . . . <i>Spr.</i> = Dioskurides ed. Sprengel.\n— <i>Diosk</i> . . . <i>W.</i> = ed. Wellmann. — Dozy = ~, "
+    },
+    {
+     "lang": "fra",
+     "text": "Supplément aux\ndictionnaires arabes."
+    },
+    {
+     "lang": "deu",
+     "text": " 1881. — Dukes = ~, Rabbinische Blumenlese.\nLeipzig 1844. — Duschinsky, Rabb. London = ~, "
+    },
+    {
+     "lang": "eng",
+     "text": "The Rabbinate\nof the great synagogue London from 1756-1842. London 1921."
+    },
+    {
+     "lang": "deu",
+     "text": " —\nDuval-Berthelot = ~, "
+    },
+    {
+     "lang": "fra",
+     "text": "L’alchimie syriaque . . . Paris 1893."
+    },
+    {
+     "lang": "deu",
+     "text": " — Duval,\n<i>Litt. syr.</i> = ~, "
+    },
+    {
+     "lang": "fra",
+     "text": "La littérature syriaque. Paris 1900."
+    },
+    {
+     "lang": "deu",
+     "text": " — Duval <i>Salam.</i>\n= Rubens ~, "
+    },
+    {
+     "lang": "fra",
+     "text": "Les dialectes néoaraméens de Salamas. Paris 1883."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "E: Eig = ~, ʿAl ha-ṣōmēaḥ. Tel-Aviv 1927. — ~, Tōßāfōt\nlīdīʿat ha-ṣimhijjā šel ereṣ jisrāēl. 1926. — ~, Tōßefet šĕnijja\nlīdīʿat ha-ṣimhijjā šel ereṣ jisrāēl. 1927. — Einhorn, <i>Ab. haad.</i> =\nA. J. ~, Tōrat ʿabōdat haʾadāmā. London 1910. — <i>Enc. Jud.</i> =\nEncyclopaedia Judaica. Berlin. — <i>E.N.</i> = Elias Nisibenus in\nLagarde, Praetermissorum libri duo. Göttingen 1879. — Engler-\nPrantl = ~, Pflanzenfamilien. — Epstein A. = ~, Miḳadmonijjōt\nha-jĕhūdīm. Wien 1887. — Epstein Ps. Haj = I. N. ~, Der gao-\nnäische Kommentar zur Ordnung Tohoroth. Berlin 1915. Text und\nKommentar 1921. — <i>Eškōl</i> = ed. Auerbach, Halberstadt 1867 und\ned. Albeck, Berlin 1910.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "E: Eig = ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "ʿAl ha-ṣōmēaḥ."
+    },
+    {
+     "lang": "deu",
+     "text": " Tel-Aviv 1927. — ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Tōßāfōt\nlīdīʿat ha-ṣimhijjā šel ereṣ jisrāēl."
+    },
+    {
+     "lang": "deu",
+     "text": " 1926. — ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Tōßefet šĕnijja\nlīdīʿat ha-ṣimhijjā šel ereṣ jisrāēl."
+    },
+    {
+     "lang": "deu",
+     "text": " 1927. — Einhorn, <i>Ab. haad.</i> =\nA. J. ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Tōrat ʿabōdat haʾadāmā."
+    },
+    {
+     "lang": "deu",
+     "text": " London 1910. — <i>Enc. Jud.</i> =\nEncyclopaedia Judaica. Berlin. — <i>E.N.</i> = Elias Nisibenus in\nLagarde, "
+    },
+    {
+     "lang": "lat",
+     "text": "Praetermissorum libri duo."
+    },
+    {
+     "lang": "deu",
+     "text": " Göttingen 1879. — Engler-\nPrantl = ~, Pflanzenfamilien. — Epstein A. = ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Miḳadmonijjōt\nha-jĕhūdīm."
+    },
+    {
+     "lang": "deu",
+     "text": " Wien 1887. — Epstein Ps. Haj = I. N. ~, Der gao-\nnäische Kommentar zur Ordnung Tohoroth. Berlin 1915. Text und\nKommentar 1921. — <i>Eškōl</i> = ed. Auerbach, Halberstadt 1867 und\ned. Albeck, Berlin 1910."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "F: <i>Ffter Jahrb.</i> = Jahrbuch der Jüdisch-Lit. Gesellschaft in\nFrankfurt a. M. 1903 ff. — H. Fischer = ~, Mittelalterliche Pflan-\nzenkunde. München 1929. — H. Fischer, Wirtschaftsgeographie von\nSyrien. Berlin 1919. — Fischer-Benzon = R. v. ~, Altdeutsche\nGartenflora. Kiel u. Leipzig 1894. — Fleischer <i>zu Ly</i> = Bemerkungen\n~’s zu den Wörterbüchern Jacob Levys. — Fonck = Leop. ~,\nStreifzüge durch die bibl. Flora. Freiburg i. Br. 1900. — Forsk. =\nForskal, Flora aegyptiaco-arabica. Hauniae 1775. — Foureau =\n(<i>F.</i>) = ~, Essai de catal. des noms arabes et berbères de quelques\nplantes etc. cult. en Algérie. Paris 1896. — Fraas = ~, Synopsis\nplantarum florae classicae. Berlin 1870. 2. Aufl. — S. Fraenkel = ~,\nDie aramäischen Fremdwörter im Arabischen. Leiden 1886. —\nFriedreich = J. B. ~, Die Symbolik und Mythologie der Natur.\nWürzburg 1859. — <i>FW</i> = Fremdwort.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "F: <i>Ffter Jahrb.</i> = Jahrbuch der Jüdisch-Lit. Gesellschaft in\nFrankfurt a. M. 1903 ff. — H. Fischer = ~, Mittelalterliche Pflan-\nzenkunde. München 1929. — H. Fischer, Wirtschaftsgeographie von\nSyrien. Berlin 1919. — Fischer-Benzon = R. v. ~, Altdeutsche\nGartenflora. Kiel u. Leipzig 1894. — Fleischer <i>zu Ly</i> = Bemerkungen\n~’s zu den Wörterbüchern Jacob Levys. — Fonck = Leop. ~,\nStreifzüge durch die bibl. Flora. Freiburg i. Br. 1900. — Forsk. =\nForskal, "
+    },
+    {
+     "lang": "lat",
+     "text": "Flora aegyptiaco-arabica. Hauniae 1775."
+    },
+    {
+     "lang": "deu",
+     "text": " — Foureau =\n(<i>F.</i>) = ~, "
+    },
+    {
+     "lang": "fra",
+     "text": "Essai de catal. des noms arabes et berbères de quelques\nplantes etc. cult. en Algérie. Paris 1896."
+    },
+    {
+     "lang": "deu",
+     "text": " — Fraas = ~, "
+    },
+    {
+     "lang": "lat",
+     "text": "Synopsis\nplantarum florae classicae."
+    },
+    {
+     "lang": "deu",
+     "text": " Berlin 1870. 2. Aufl. — S. Fraenkel = ~,\nDie aramäischen Fremdwörter im Arabischen. Leiden 1886. —\nFriedreich = J. B. ~, Die Symbolik und Mythologie der Natur.\nWürzburg 1859. — <i>FW</i> = Fremdwort."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "G: <i>G</i>^{16} = W. Gesenius, Hebr. u. aram. HWB., bearbeitet von\nFrants Buhl. Leipzig 1915. — <i>GA</i> = Gutachten. — <i>Gaon Aßaf</i> =\nSimḥā Aßāf, Tĕšūbōt ha-gĕōnīm. Jerusalem 1929. — <i>Gaon</i> Cassel =",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "G: <i>G</i>^{16} = W. Gesenius, Hebr. u. aram. HWB., bearbeitet von\nFrants Buhl. Leipzig 1915. — <i>GA</i> = Gutachten. — <i>Gaon Aßaf</i> =\n"
+    },
+    {
+     "lang": "translit",
+     "text": "Simḥā Aßāf, Tĕšūbōt ha-gĕōnīm."
+    },
+    {
+     "lang": "deu",
+     "text": " Jerusalem 1929. — <i>Gaon</i> Cassel ="
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2588,
+    2032
+   ],
+   [
+    2588,
+    2960
+   ]
+  ],
+  "input_tokens": 11104,
+  "output_tokens": 2298,
+  "cost_usd": 0.0904,
+  "seconds": 29.7
+ }
+}

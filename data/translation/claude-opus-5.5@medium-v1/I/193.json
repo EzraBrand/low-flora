@@ -1,0 +1,108 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "Pistacia Terebinthus"
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "193"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>el-buṭm</i>). The press residues are called in Jewish Aramaic כוספא דבטמי [kwspʾ dbṭmy] (Hg. 58_{5. 29})."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Guigues p. XXXIX says: The green grains, granum viride (الحبّة الخضراء [al-ḥabba al-khaḍrāʾ]) of the Middle Ages, are the fruits of the terebinth, P. Tereb. L. They have been confused with pistachios, <i>fusṭuḳ</i>, fruits of P. vera L. Moreover, the green grains are still used as food today. It is above all in Mesopotamia that the fruits of the terebinth, <i>buṭm</i>, are edible."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "בטנה [bṭnh], <i>bŏṭnā</i>,*) [Assyr. <i>buṭnu</i>, Zimmern AF. 54; Palmyr. בר בוטן [br bwṭn]**) n. pr. Chajes, Onomatolog. 12] also Mishnaic. Švi 7, 5: בוטנא [bwṭnʾ], variant reading בטנה [bṭnh] (TŠvi V 68_{14}, Schwarz p. 215), once also Targ. בוטנין [bwṭnyn] Gn. 43, 11."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>boṭnā</i> is a native tree, whereas pistachios are imported from abroad (j Dem. II 22^{b}_{69}). These come to Palestine from northern Syria (Rosen, Pf. 69)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The Mishnah and Tosefta passage cited speaks of young, edible shoots, לולב [lwlb]. The following are named: a) זרדים [zrdym], b) הרובים [hrwbym], c) אלה [ʾlh], d) בוטנה [bwṭnh], e) אטדין [ʾṭdyn], f) אדיל [ʾdyl]. c) according to Maimūnī, correctly, <i>ballūṭ</i>,***) i.e. <i>ʾallā</i> oak, not <i>ʾēlā</i>! Gal. VI 644 βλαστοὶ τερμίνθου [blastoi terminthou]! e) ῥάμνου [rhamnou]. He says: the terebinth shoots are pickled in vinegar or brine (Sachau, Inedita 95)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The place name <i>bŏṭnā</i> alone proves that the foreign pistachio cannot be meant. <i>buṭm</i> occurs as a place name in Arabic: Socin, Ortsapell. ZDPV. 22, 18: <i>challet il-buṭm</i> terebinth valley 31, 199, <i>maḳāṭiʿ el-buṭmi</i> terebinth quarry (31, 183)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "בטנה [bṭnh] Jos. 13, 26, according to Robinson 3, 924 <i>baṭne</i> south of <i>eṣ-ṣalt</i> (Schwarz, Tebuot haareṣ ed. Luncz, p. 271 n). A place <i>boṭnā</i> also jAz. I 39^{d}_{27} = בטנן [bṭnn] B. r. 47 end. The fair at the terebinth ירידה של בוטנה [yrydh šl bwṭnh] (ZAW. 29, 217. 221). S. Klein has combined with this the market of בית האילם [byt hʾylm] MT. 185_{17} Hoffm., בית אילנים [byt ʾylnym] Sifre II 306, 132_{6} Friedm."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Dérenbourg has connected with the place name <i>bŏtnā</i> בטנית [bṭnyt] <i>bŏṭnīt</i>, a female proselyte from <i>boṭnā</i> (Sabb. 24, 5. Beza 3, 8. T. III 205_{27}. TMen XIII 533_{33}. [Pes. 57^{a}] Ned. 23^{a}. M. Zizit p. 23_{6} Kirchheim = Semaḥ. XII [p. 98_{12} Romm. for קטנים [qṭnym] read, with M. Zizit, Šibbŏlē 341 Buber and R. Elijah of Vilna, בטנית [bṭnyt]. ZAW. 29, 216)."
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "On 1 K. 7, 20 מלעמת הבטן [mlʿmt hbṭn], F. Perles, neue Anal. 75, recalls <i>boṭnīm</i>."
+  },
+  {
+   "type": "footnote",
+   "marker": "**)",
+   "text": "S. Klein (I. 1926) refers to MS. 1910, 22 בית אילונים [byt ʾylwnym] for [בית] בטנה [[byt] bṭnh] and combines with it the name Abba Saul <i>boṭnīt</i>."
+  },
+  {
+   "type": "footnote",
+   "marker": "***)",
+   "text": "Flora 3, 254 is to be corrected accordingly."
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "13"
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "Löw, Flora. I."
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "source_meta": {
+   "engine": "openrouter",
+   "model": "anthropic/claude-opus-5.5",
+   "provider": "Claude Platform on AWS",
+   "effort": "low",
+   "reasoning_tokens": 0,
+   "images": [
+    [
+     2940,
+     2716
+    ],
+    [
+     2940,
+     2824
+    ]
+   ],
+   "input_tokens": 11122,
+   "output_tokens": 3434,
+   "cost_usd": 0.1132,
+   "seconds": 41.2
+  },
+  "input_tokens": 3191,
+  "output_tokens": 1932,
+  "cost_usd": 0.0514,
+  "seconds": 22.7
+ }
+}

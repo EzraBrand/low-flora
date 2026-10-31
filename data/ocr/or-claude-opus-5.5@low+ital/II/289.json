@@ -1,0 +1,509 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Olea",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Olea"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "289",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "289"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "wird, dies werde „mischnisch als term. techn. v. d. Olivenlese“\ngebraucht, denn dies Wort kommt mischnisch nur Sifre II 284, 124^{b},\naber nur mit folgendem זיתיהם vor.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "wird, dies werde „mischnisch als term. techn. v. d. Olivenlese“\ngebraucht, denn dies Wort kommt mischnisch nur Sifre II 284, 124^{b},\naber nur mit folgendem "
+    },
+    {
+     "lang": "heb",
+     "text": "זיתיהם"
+    },
+    {
+     "lang": "deu",
+     "text": " vor."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Landwirtschaftliche Verba, die allerdings zum Teil auch bei\nanderen Obstarten verwendet werden, sind z. B. אבק Pi., die\nWurzel mit Erde decken (Goldm. 13); בקע Hif., abhacken (Goldm.\n17 n. 6: „zur Hebung des Ertrages beschneiden“ entspricht den\nKommentaren zu Švi. 4, 5, aber hier hat Guisius unter Berufung\nauf T. Švi. III 65 _{8} richtig: qui oleam radiciter effoderit); ברך Hif.,\ndurch Ableger vermehren; גזם Pi., T. Švi. I 62 für גמז, גמם Kal,\nגרגר^{1}) ausreifen lassen (Goldm. 31); דלל Hif., zu dicht Wachsen-\ndes lichten; זהם Švi. 2, 4, Az. 50^{b} düngen (Gaon. Cassel 39^{b}),\naber RḤ.: mit Jauche begießen; Raši: Baumwunden mit Mist\nverschmieren. Unrichtig ist BJ.: mit Fett bestreichen. זרד Pi.,\nfrische Zweige entfernen (s. Rosaceae), חלק Hif., größere Stellen\nausjäten; יבל, unbestimmter Bedeutung; כרך den Baum umwickeln\n(Goldm. 14 n. 4); לקט, einzeln pflücken (Goldm. 20); סקל ent-\nsteinigen T. Švi. I 62 _{2} (13); סקר בסיקרא, rotfärben (15); סתת?\nT. Švi. I 62 _{2}; עזק (15 n. 8); עשן Pi., Raupen ausräuchern (15);\nפסל Pi., den Stamm durch Kratzen reinigen (13); פרק Pi., Blätter\nentfernen (13); צדר? LA. T. Švi. I 62 _{2}; קרץ Pi. (13); קטם, junge\nBäumchen stutzen (14), auch bessere LA. für קטף T. Švi. I 62 _{2}\n(13 n. 7); קלט, Verwachsen des Propfreises (16 n. 1); קפץ s. קרץ,\nקרסם (13), קשקש, die Erde um den Baum lockern, Sifra 105^{b}\n(15 n. 8); רכב Hif., propfen; רעד Hif., schütteln (20); תלע Hif.,\nRaupen oder wurmiges Holz entfernen (15).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Landwirtschaftliche Verba, die allerdings zum Teil auch bei\nanderen Obstarten verwendet werden, sind z. B. "
+    },
+    {
+     "lang": "heb",
+     "text": "אבק"
+    },
+    {
+     "lang": "deu",
+     "text": " Pi., die\nWurzel mit Erde decken (Goldm. 13); "
+    },
+    {
+     "lang": "heb",
+     "text": "בקע"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif., abhacken (Goldm.\n17 n. 6: „zur Hebung des Ertrages beschneiden“ entspricht den\nKommentaren zu Švi. 4, 5, aber hier hat Guisius unter Berufung\nauf T. Švi. III 65 _{8} richtig: "
+    },
+    {
+     "lang": "lat",
+     "text": "qui oleam radiciter effoderit"
+    },
+    {
+     "lang": "deu",
+     "text": "); "
+    },
+    {
+     "lang": "heb",
+     "text": "ברך"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif.,\ndurch Ableger vermehren; "
+    },
+    {
+     "lang": "heb",
+     "text": "גזם"
+    },
+    {
+     "lang": "deu",
+     "text": " Pi., T. Švi. I 62 für "
+    },
+    {
+     "lang": "heb",
+     "text": "גמז"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "גמם"
+    },
+    {
+     "lang": "deu",
+     "text": " Kal,\n"
+    },
+    {
+     "lang": "heb",
+     "text": "גרגר"
+    },
+    {
+     "lang": "deu",
+     "text": "^{1}) ausreifen lassen (Goldm. 31); "
+    },
+    {
+     "lang": "heb",
+     "text": "דלל"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif., zu dicht Wachsen-\ndes lichten; "
+    },
+    {
+     "lang": "heb",
+     "text": "זהם"
+    },
+    {
+     "lang": "deu",
+     "text": " Švi. 2, 4, Az. 50^{b} düngen (Gaon. Cassel 39^{b}),\naber RḤ.: mit Jauche begießen; Raši: Baumwunden mit Mist\nverschmieren. Unrichtig ist BJ.: mit Fett bestreichen. "
+    },
+    {
+     "lang": "heb",
+     "text": "זרד"
+    },
+    {
+     "lang": "deu",
+     "text": " Pi.,\nfrische Zweige entfernen (s. Rosaceae), "
+    },
+    {
+     "lang": "heb",
+     "text": "חלק"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif., größere Stellen\nausjäten; "
+    },
+    {
+     "lang": "heb",
+     "text": "יבל"
+    },
+    {
+     "lang": "deu",
+     "text": ", unbestimmter Bedeutung; "
+    },
+    {
+     "lang": "heb",
+     "text": "כרך"
+    },
+    {
+     "lang": "deu",
+     "text": " den Baum umwickeln\n(Goldm. 14 n. 4); "
+    },
+    {
+     "lang": "heb",
+     "text": "לקט"
+    },
+    {
+     "lang": "deu",
+     "text": ", einzeln pflücken (Goldm. 20); "
+    },
+    {
+     "lang": "heb",
+     "text": "סקל"
+    },
+    {
+     "lang": "deu",
+     "text": " ent-\nsteinigen T. Švi. I 62 _{2} (13); "
+    },
+    {
+     "lang": "heb",
+     "text": "סקר בסיקרא"
+    },
+    {
+     "lang": "deu",
+     "text": ", rotfärben (15); "
+    },
+    {
+     "lang": "heb",
+     "text": "סתת"
+    },
+    {
+     "lang": "deu",
+     "text": "?\nT. Švi. I 62 _{2}; "
+    },
+    {
+     "lang": "heb",
+     "text": "עזק"
+    },
+    {
+     "lang": "deu",
+     "text": " (15 n. 8); "
+    },
+    {
+     "lang": "heb",
+     "text": "עשן"
+    },
+    {
+     "lang": "deu",
+     "text": " Pi., Raupen ausräuchern (15);\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פסל"
+    },
+    {
+     "lang": "deu",
+     "text": " Pi., den Stamm durch Kratzen reinigen (13); "
+    },
+    {
+     "lang": "heb",
+     "text": "פרק"
+    },
+    {
+     "lang": "deu",
+     "text": " Pi., Blätter\nentfernen (13); "
+    },
+    {
+     "lang": "heb",
+     "text": "צדר"
+    },
+    {
+     "lang": "deu",
+     "text": "? LA. T. Švi. I 62 _{2}; "
+    },
+    {
+     "lang": "heb",
+     "text": "קרץ"
+    },
+    {
+     "lang": "deu",
+     "text": " Pi. (13); "
+    },
+    {
+     "lang": "heb",
+     "text": "קטם"
+    },
+    {
+     "lang": "deu",
+     "text": ", junge\nBäumchen stutzen (14), auch bessere LA. für "
+    },
+    {
+     "lang": "heb",
+     "text": "קטף"
+    },
+    {
+     "lang": "deu",
+     "text": " T. Švi. I 62 _{2}\n(13 n. 7); "
+    },
+    {
+     "lang": "heb",
+     "text": "קלט"
+    },
+    {
+     "lang": "deu",
+     "text": ", Verwachsen des Propfreises (16 n. 1); "
+    },
+    {
+     "lang": "heb",
+     "text": "קפץ"
+    },
+    {
+     "lang": "deu",
+     "text": " s. "
+    },
+    {
+     "lang": "heb",
+     "text": "קרץ"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קרסם"
+    },
+    {
+     "lang": "deu",
+     "text": " (13), "
+    },
+    {
+     "lang": "heb",
+     "text": "קשקש"
+    },
+    {
+     "lang": "deu",
+     "text": ", die Erde um den Baum lockern, Sifra 105^{b}\n(15 n. 8); "
+    },
+    {
+     "lang": "heb",
+     "text": "רכב"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif., propfen; "
+    },
+    {
+     "lang": "heb",
+     "text": "רעד"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif., schütteln (20); "
+    },
+    {
+     "lang": "heb",
+     "text": "תלע"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif.,\nRaupen oder wurmiges Holz entfernen (15)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Verba zur Behandlung der Olive: גלגל, pökeln (26); טחן Hif.\n(41); כבש, einmachen (26); כתש (30. 31); עטן, vor dem Pressen\nzur Gärung aufhäufen (34); פצע, das bittere Olivenwasser oder\nfrische Oliven mit der Hand ausdrücken (25), כלצי״ר, écacher\nREJ. 7, 68; שלק, sieden T. Kel. Bk. IV 573 _{4} (50).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Verba zur Behandlung der Olive: "
+    },
+    {
+     "lang": "heb",
+     "text": "גלגל"
+    },
+    {
+     "lang": "deu",
+     "text": ", pökeln (26); "
+    },
+    {
+     "lang": "heb",
+     "text": "טחן"
+    },
+    {
+     "lang": "deu",
+     "text": " Hif.\n(41); "
+    },
+    {
+     "lang": "heb",
+     "text": "כבש"
+    },
+    {
+     "lang": "deu",
+     "text": ", einmachen (26); "
+    },
+    {
+     "lang": "heb",
+     "text": "כתש"
+    },
+    {
+     "lang": "deu",
+     "text": " (30. 31); "
+    },
+    {
+     "lang": "heb",
+     "text": "עטן"
+    },
+    {
+     "lang": "deu",
+     "text": ", vor dem Pressen\nzur Gärung aufhäufen (34); "
+    },
+    {
+     "lang": "heb",
+     "text": "פצע"
+    },
+    {
+     "lang": "deu",
+     "text": ", das bittere Olivenwasser oder\nfrische Oliven mit der Hand ausdrücken (25), "
+    },
+    {
+     "lang": "heb",
+     "text": "כלצי״ר"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "fra",
+     "text": "écacher"
+    },
+    {
+     "lang": "deu",
+     "text": "\nREJ. 7, 68; "
+    },
+    {
+     "lang": "heb",
+     "text": "שלק"
+    },
+    {
+     "lang": "deu",
+     "text": ", sieden T. Kel. Bk. IV 573 _{4} (50)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Galilaea hatte den größten Überfluß an Öl. Nach dem Segen\nMosis taucht Ascher seinen Fuß in Öl und noch in der talmudi-\nschen Zeit ging das Sprichwort: es ist leichter in Galilaea eine\nLegion mit Oliven zu ernähren, als in Judaea ein einziges Kind\n(B. r. 20, 6). Auf die Ölkultur Galilaea’s wird auch im talmudi-",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Galilaea hatte den größten Überfluß an Öl. Nach dem Segen\nMosis taucht Ascher seinen Fuß in Öl und noch in der talmudi-\nschen Zeit ging das Sprichwort: es ist leichter in Galilaea eine\nLegion mit Oliven zu ernähren, als in Judaea ein einziges Kind\n(B. r. 20, 6). Auf die Ölkultur Galilaea’s wird auch im talmudi-"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Zu diesem גרגר, ist γεργέριμος, am Baum ausgereifte Oliven Ath.\nII 56^{d} zu stellen. גרגר, Olivenbeere, Sir. 50, 10; Jes. 17, 6.",
+   "marker": "1)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Zu diesem "
+    },
+    {
+     "lang": "heb",
+     "text": "גרגר"
+    },
+    {
+     "lang": "deu",
+     "text": ", ist "
+    },
+    {
+     "lang": "grc",
+     "text": "γεργέριμος"
+    },
+    {
+     "lang": "deu",
+     "text": ", am Baum ausgereifte Oliven Ath.\nII 56^{d} zu stellen. "
+    },
+    {
+     "lang": "heb",
+     "text": "גרגר"
+    },
+    {
+     "lang": "deu",
+     "text": ", Olivenbeere, Sir. 50, 10; Jes. 17, 6."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Löw, Flora.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Löw, Flora."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "19",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "19"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2512,
+    2026
+   ],
+   [
+    2512,
+    2914
+   ]
+  ],
+  "input_tokens": 11120,
+  "output_tokens": 3051,
+  "cost_usd": 0.1055,
+  "seconds": 37.9
+ }
+}

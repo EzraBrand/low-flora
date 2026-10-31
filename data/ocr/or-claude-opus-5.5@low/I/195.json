@@ -1,0 +1,369 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Pistacia Lentiscus",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pistacia Lentiscus"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "195",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "195"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Frucht des buṭm-Baumes: ḳḍāma (Musil 3, 152). Terebinthennüsse,\nbizr el-buṭm, liefern ein Speiseöl (Mielck 16).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Frucht des "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": "-Baumes: "
+    },
+    {
+     "lang": "translit",
+     "text": "ḳḍāma"
+    },
+    {
+     "lang": "deu",
+     "text": " (Musil 3, 152). Terebinthennüsse,\n"
+    },
+    {
+     "lang": "translit",
+     "text": "bizr el-buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": ", liefern ein Speiseöl (Mielck 16)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Juden: Bacher, Tanchum 43 für boṭnīm. Mediziner: Sha 292.\nBerggren ms.: boṭm = شجر الترمنتين Mowat, Alphita 5 albotm.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Juden: Bacher, Tanchum 43 für "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnīm"
+    },
+    {
+     "lang": "deu",
+     "text": ". Mediziner: Sha 292.\nBerggren ms.: "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭm"
+    },
+    {
+     "lang": "deu",
+     "text": " = "
+    },
+    {
+     "lang": "ara",
+     "text": "شجر الترمنتين"
+    },
+    {
+     "lang": "deu",
+     "text": " Mowat, Alphita 5 "
+    },
+    {
+     "lang": "lat",
+     "text": "albotm"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Syrer neben boṭm noch الحبّة الخضراء (Sha 562) BA. 2354.\nBB. 274. 381. 829. Guigues XXXIX. Ebenso Kroner, Maim.\npassim mit ital. Übersetzung dazu זרע אטרבנטינא.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Syrer neben "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭm"
+    },
+    {
+     "lang": "deu",
+     "text": " noch "
+    },
+    {
+     "lang": "ara",
+     "text": "الحبّة الخضراء"
+    },
+    {
+     "lang": "deu",
+     "text": " (Sha 562) BA. 2354.\nBB. 274. 381. 829. Guigues XXXIX. Ebenso Kroner, Maim.\npassim mit ital. Übersetzung dazu "
+    },
+    {
+     "lang": "heb",
+     "text": "זרע אטרבנטינא"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "2. Pistacia Lentiscus L. Mastixstrauch.*)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "2. "
+    },
+    {
+     "lang": "lat",
+     "text": "Pistacia Lentiscus L."
+    },
+    {
+     "lang": "deu",
+     "text": " Mastixstrauch.*)"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ein kleiner, immergrüner Baum oder Strauch. Er ist als Bestand-\nteil immergrüner Macchien im ganzen Mittelmeergebiet von Syrien\nund Palästina bis nach den Kanarischen Inseln, auch in Nord-\nafrika sicher endemisch (Hehn 429). Abbildung bei Vietz 2, 11.\nVietz rühmt 1804 noch die medizinischen Wirkungen des Mastix-\nharzes, während es jetzt nur noch in Österreich offizinell ist\n(Strassburger ^{15} 577). Bloch 2, 82, wohl als erster unter Juden,\nbeschreibt den Baum und sein Harz. Modernes Palästinahebräisch:\nהאלה קשת העלים = سريس (Hasade 1, 3, 32). Ungenau בטנים**)\n(3, 454. 4, 312), irrig שיח הלוט (6, 206).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ein kleiner, immergrüner Baum oder Strauch. Er ist als Bestand-\nteil immergrüner Macchien im ganzen Mittelmeergebiet von Syrien\nund Palästina bis nach den Kanarischen Inseln, auch in Nord-\nafrika sicher endemisch (Hehn 429). Abbildung bei Vietz 2, 11.\nVietz rühmt 1804 noch die medizinischen Wirkungen des Mastix-\nharzes, während es jetzt nur noch in Österreich offizinell ist\n(Strassburger ^{15} 577). Bloch 2, 82, wohl als erster unter Juden,\nbeschreibt den Baum und sein Harz. Modernes Palästinahebräisch:\n"
+    },
+    {
+     "lang": "heb",
+     "text": "האלה קשת העלים"
+    },
+    {
+     "lang": "deu",
+     "text": " = "
+    },
+    {
+     "lang": "ara",
+     "text": "سريس"
+    },
+    {
+     "lang": "deu",
+     "text": " (Hasade 1, 3, 32). Ungenau "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנים"
+    },
+    {
+     "lang": "deu",
+     "text": "**)\n(3, 454. 4, 312), irrig "
+    },
+    {
+     "lang": "heb",
+     "text": "שיח הלוט"
+    },
+    {
+     "lang": "deu",
+     "text": " (6, 206)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Mastix (Haynald, Mézgák 14. 28) liefert der Baum auch in\nPalästina (P. 207), für den Handel wird er aber seit langer Zeit\n(Benjamin v. Tudela, p. 20 der Grünhutschen Übersetzung) nur auf\nder Insel Chios von einer kultivierten Varietät gewonnen (Moeller ^{2}\n431). Die Jahresproduktion beträgt durchschnittlich 125.000 kg\nJosua Benveniste, Rabbiner in Konstantinopel, berichtet in seinem\n1662 erschienenen Kommentar zu jḤalla IV 9 f. 177^{d}, im türkischen\nReiche dürfe nur auf der Insel Chios (כיאו) Mastix produziert\nwerden. Schon Benjamin aus Tudela weiß über die Insel Chios\n(כיא) nur zu berichten, daß dort 400 Juden wohnen und der Baum,\nvon dem man Mastix מצטיקי sammelt, sich dort finde (1, 25 Asher.).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Mastix (Haynald, Mézgák 14. 28) liefert der Baum auch in\nPalästina (P. 207), für den Handel wird er aber seit langer Zeit\n(Benjamin v. Tudela, p. 20 der Grünhutschen Übersetzung) nur auf\nder Insel Chios von einer kultivierten Varietät gewonnen (Moeller ^{2}\n431). Die Jahresproduktion beträgt durchschnittlich 125.000 kg\nJosua Benveniste, Rabbiner in Konstantinopel, berichtet in seinem\n1662 erschienenen Kommentar zu jḤalla IV 9 f. 177^{d}, im türkischen\nReiche dürfe nur auf der Insel Chios ("
+    },
+    {
+     "lang": "heb",
+     "text": "כיאו"
+    },
+    {
+     "lang": "deu",
+     "text": ") Mastix produziert\nwerden. Schon Benjamin aus Tudela weiß über die Insel Chios\n("
+    },
+    {
+     "lang": "heb",
+     "text": "כיא"
+    },
+    {
+     "lang": "deu",
+     "text": ") nur zu berichten, daß dort 400 Juden wohnen und der Baum,\nvon dem man Mastix "
+    },
+    {
+     "lang": "heb",
+     "text": "מצטיקי"
+    },
+    {
+     "lang": "deu",
+     "text": " sammelt, sich dort finde (1, 25 Asher.)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Im Mittelalter galt Mastix als Heilmittel, heute wird er zu\nFirnissen und Kitten benützt. Im Orient ist er als Kauharz seit\nalten Zeiten im Brauche und der palästinische galt nach dem\nZeugnis des Plinius als der beste (Killermann 1, 34). Plin. XIV\n25 sagt: in oriente optimam tenuissimamque [resinam] terebinthi\nfundunt, dein lentisci, quam et masticen vocant. Naḥmani weiß,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im Mittelalter galt Mastix als Heilmittel, heute wird er zu\nFirnissen und Kitten benützt. Im Orient ist er als Kauharz seit\nalten Zeiten im Brauche und der palästinische galt nach dem\nZeugnis des Plinius als der beste (Killermann 1, 34). Plin. XIV\n25 sagt: "
+    },
+    {
+     "lang": "lat",
+     "text": "in oriente optimam tenuissimamque [resinam] terebinthi\nfundunt, dein lentisci, quam et masticen vocant."
+    },
+    {
+     "lang": "deu",
+     "text": " Naḥmani weiß,"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Die Wildpistazie „P. Lent.“ auf dem Gebirge Juda ZDPV. 8, 104, auf\ndem Tabor 107, in den Karmelwaldungen wird die Terebinthe sein. Terebinthe\nund Pistazie bei Ritter (14 Register sv. buttom) nicht gesondert.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Wildpistazie „P. Lent.“ auf dem Gebirge Juda ZDPV. 8, 104, auf\ndem Tabor 107, in den Karmelwaldungen wird die Terebinthe sein. Terebinthe\nund Pistazie bei Ritter (14 Register sv. buttom) nicht gesondert."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "lat",
+   "text": "Bodenheimer, kĕnīmōt hamāgēn, Tel-Aviv 1924, p. 32. 41 f. irrig:\nbŏṭnīm = P. Lentiscus L., ʾēlā P. mutica Fisch. et Mey. P. Tereb. u. P. vera.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bodenheimer, "
+    },
+    {
+     "lang": "translit",
+     "text": "kĕnīmōt hamāgēn"
+    },
+    {
+     "lang": "deu",
+     "text": ", Tel-Aviv 1924, p. 32. 41 f. irrig:\n"
+    },
+    {
+     "lang": "translit",
+     "text": "bŏṭnīm"
+    },
+    {
+     "lang": "deu",
+     "text": " = "
+    },
+    {
+     "lang": "lat",
+     "text": "P. Lentiscus L."
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾēlā"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "lat",
+     "text": "P. mutica Fisch. et Mey. P. Tereb."
+    },
+    {
+     "lang": "deu",
+     "text": " u. "
+    },
+    {
+     "lang": "lat",
+     "text": "P. vera"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "13*",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "13*"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2924,
+    2408
+   ],
+   [
+    2924,
+    3128
+   ]
+  ],
+  "input_tokens": 10962,
+  "output_tokens": 2517,
+  "cost_usd": 0.0942,
+  "seconds": 31.9
+ }
+}

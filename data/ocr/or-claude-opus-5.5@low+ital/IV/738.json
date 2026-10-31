@@ -1,0 +1,213 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "738",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "738"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Abkürzungen",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Abkürzungen"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "matik. Halle 1875. — Nöld. <i>OS.</i> = Orientalische Studien Theo-\ndor Nöldeke gewidmet. I. II. 1906. — <i>Nyelvtörténeti Szótár.</i> Buda-\npest 1890-1893.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "matik. Halle 1875. — Nöld. <i>OS.</i> = Orientalische Studien Theo-\ndor Nöldeke gewidmet. I. II. 1906. — "
+    },
+    {
+     "lang": "other",
+     "text": "<i>Nyelvtörténeti Szótár.</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " Buda-\npest 1890-1893."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "O: Olšwanger = Immanuel ~, Rosinkeß mit Mandlen 1. Aufl.\nBasel 1920. — Oṣar ha-gĕōnīm siehe Lewin. — <i>Oṣar Jisrael</i> = Eisen-\nstein, ~~. A Hebrew Encyclopedia. I—X. New-York 1906 ff.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "O: Olšwanger = Immanuel ~, Rosinkeß mit Mandlen 1. Aufl.\nBasel 1920. — "
+    },
+    {
+     "lang": "translit",
+     "text": "Oṣar ha-gĕōnīm"
+    },
+    {
+     "lang": "deu",
+     "text": " siehe Lewin. — "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>Oṣar Jisrael</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " = Eisen-\nstein, ~~. "
+    },
+    {
+     "lang": "eng",
+     "text": "A Hebrew Encyclopedia."
+    },
+    {
+     "lang": "deu",
+     "text": " I—X. New-York 1906 ff."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "P: Perle = Kalman Avigdor ~, Sefer Oṣar lĕšōn ḥakkāmīm.\nWarschau 1900. — Perles, <i>Beitr.</i> = Joseph ~, Beiträge zur Gesch.\nd. hebr. u. aram. Studien. München 1884. — <i>Pf</i> = Immanuel Löw,\nAramäische Pflanzennamen. Leipzig 1881. — <i>PfbR</i> = Immanuel Löw,\nPflanzennamen bei Raši. Berliner Festschrift. Berlin 1903. — <i>ph</i> =\nPalästina-hebräisch. — Philby = H. St. J. B. Philby, The Heart of\nArabia. A record of trapel of exploration by ~. 1922. II. 309:\nAppendix II: Glossary of Arabic travel Terms used in this work. —\nPick, Talm. Glossen zu Delitzsch' assyrischem HWB. Berlin 1903.\n— Pinsker, <i>Likk. Kadm.</i> = S. ~, Liḳḳūṭē kadmōnijōt. Wien 1860.\n— <i>P. der. El.</i> = Pirḳē de-rabbi Eliezer. — <i>PJB</i> = Palästina-Jahr-\nbuch. — Preuss = Julius ~, Biblisch-talmudische Medizin. Berlin\n1911. — Prins, <i>Abudr.</i> = E. L. ~, Tašlūm Abudraham. Berlin 1900.\n— Pritzel und Jessen = ~ und ~, Die deutschen Volksnamen der\nPflanzen. 2. Aufl. Leipzig 1882. — <i>Ps. Haj</i> = J. N. Epstein, Der\ngaonäische Kommentar zur Mišnaordnung Teharoth zugeschrieben\nR. Haj Gaon. Berlin 1923. — <i>PSm</i> = R. Payne Smith, Thesaurus\nsyriacus. Oxford 1879 ff.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "P: Perle = Kalman Avigdor ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Sefer Oṣar lĕšōn ḥakkāmīm."
+    },
+    {
+     "lang": "deu",
+     "text": "\nWarschau 1900. — Perles, <i>Beitr.</i> = Joseph ~, Beiträge zur Gesch.\nd. hebr. u. aram. Studien. München 1884. — <i>Pf</i> = Immanuel Löw,\nAramäische Pflanzennamen. Leipzig 1881. — <i>PfbR</i> = Immanuel Löw,\nPflanzennamen bei Raši. Berliner Festschrift. Berlin 1903. — <i>ph</i> =\nPalästina-hebräisch. — Philby = H. St. J. B. Philby, "
+    },
+    {
+     "lang": "eng",
+     "text": "The Heart of\nArabia. A record of trapel of exploration by ~. 1922. II. 309:\nAppendix II: Glossary of Arabic travel Terms used in this work."
+    },
+    {
+     "lang": "deu",
+     "text": " —\nPick, Talm. Glossen zu Delitzsch' assyrischem HWB. Berlin 1903.\n— Pinsker, <i>Likk. Kadm.</i> = S. ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Liḳḳūṭē kadmōnijōt."
+    },
+    {
+     "lang": "deu",
+     "text": " Wien 1860.\n— <i>P. der. El.</i> = "
+    },
+    {
+     "lang": "translit",
+     "text": "Pirḳē de-rabbi Eliezer."
+    },
+    {
+     "lang": "deu",
+     "text": " — <i>PJB</i> = Palästina-Jahr-\nbuch. — Preuss = Julius ~, Biblisch-talmudische Medizin. Berlin\n1911. — Prins, <i>Abudr.</i> = E. L. ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Tašlūm Abudraham."
+    },
+    {
+     "lang": "deu",
+     "text": " Berlin 1900.\n— Pritzel und Jessen = ~ und ~, Die deutschen Volksnamen der\nPflanzen. 2. Aufl. Leipzig 1882. — <i>Ps. Haj</i> = J. N. Epstein, Der\ngaonäische Kommentar zur Mišnaordnung Teharoth zugeschrieben\nR. Haj Gaon. Berlin 1923. — <i>PSm</i> = R. Payne Smith, "
+    },
+    {
+     "lang": "lat",
+     "text": "Thesaurus\nsyriacus."
+    },
+    {
+     "lang": "deu",
+     "text": " Oxford 1879 ff."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "R: Ratner = B. ~, Ahawath Zion wīrūšalajim. Varianten und\nErgänzungen des Textes des j. Wilna 1901-1913. — <i>RDK</i> = r.\nDavid Ḳimḥī. — Reinach, <i>Fontes</i> = ~, Textes d'auteurs grecs et\nromains relatifs au Judaïsme. Paris 1895. — REJ = Revue des Etu-\ndes Juives. Paris 1880 ff. — Ritter = Carl ~, Erdkunde von Asien.\n— Robinson = ~, Palästina. Halle 1841 ff. — Rosenmüller = E. F. K. ~,\nHandbuch der biblischen Altertumskunde. Leipzig 1830. — Rosin =\nDavid ~, Ein Compendium der jüdischen Gesetzeskunde. Breslau\n1871. — Rosin, Reime = ~, ~ und Gedichte des Abr. Ibn Esra I-IV.\nBreslau 1885-1891. — Rosin = David ~, Die Religionsphilosophie\nAbraham Ibn Esras (MS 42, 487 ff). — <i>RLbG</i> = r. Levi b. Gēršōn.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "R: Ratner = B. ~, "
+    },
+    {
+     "lang": "translit",
+     "text": "Ahawath Zion wīrūšalajim."
+    },
+    {
+     "lang": "deu",
+     "text": " Varianten und\nErgänzungen des Textes des j. Wilna 1901-1913. — <i>RDK</i> = r.\nDavid Ḳimḥī. — Reinach, <i>Fontes</i> = ~, "
+    },
+    {
+     "lang": "fra",
+     "text": "Textes d'auteurs grecs et\nromains relatifs au Judaïsme."
+    },
+    {
+     "lang": "deu",
+     "text": " Paris 1895. — REJ = "
+    },
+    {
+     "lang": "fra",
+     "text": "Revue des Etu-\ndes Juives."
+    },
+    {
+     "lang": "deu",
+     "text": " Paris 1880 ff. — Ritter = Carl ~, Erdkunde von Asien.\n— Robinson = ~, Palästina. Halle 1841 ff. — Rosenmüller = E. F. K. ~,\nHandbuch der biblischen Altertumskunde. Leipzig 1830. — Rosin =\nDavid ~, Ein Compendium der jüdischen Gesetzeskunde. Breslau\n1871. — Rosin, Reime = ~, ~ und Gedichte des Abr. Ibn Esra I-IV.\nBreslau 1885-1891. — Rosin = David ~, Die Religionsphilosophie\nAbraham Ibn Esras (MS 42, 487 ff). — <i>RLbG</i> = r. Levi b. Gēršōn."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "S: <i>S</i> = Georg Schweinfurth, Arabische Pflanzennamen aus Egyp-\nten, Algerien und Jemen. Berlin 1912. — Sachau <i>Pap.</i> = Eduard ~,\nPapyri aus Elefantine .... — Sachs <i>Beitr.</i> = Michael ~, Beiträge\nzur Sprach- und Alterthumsforschung I. II. Berlin 1852. 1854. —",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "S: <i>S</i> = Georg Schweinfurth, Arabische Pflanzennamen aus Egyp-\nten, Algerien und Jemen. Berlin 1912. — Sachau <i>Pap.</i> = Eduard ~,\nPapyri aus Elefantine .... — Sachs <i>Beitr.</i> = Michael ~, Beiträge\nzur Sprach- und Alterthumsforschung I. II. Berlin 1852. 1854. —"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2592,
+    2033
+   ],
+   [
+    2592,
+    2951
+   ]
+  ],
+  "input_tokens": 11113,
+  "output_tokens": 2176,
+  "cost_usd": 0.088,
+  "seconds": 27.1
+ }
+}

@@ -1,0 +1,733 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "634 Deverra—enulion\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "634 Deverra—enulion\n"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "— Deverra 3, 475. — dia morōn 2, 31. — Dianthus 1, 336.\n4, 237. 245. 404. 407. 501. — diaxylon 2, 436. 4, 129. — Dich-\nrostachys 2, 514. — Dicoma 1, 443. — dictamnos 2, 83. 4, 130.\n134. 172. — Didesmus 1, 470. — Digera 1, 342. — Digitalis\n3, 350. 4, 83. — Dinaeba 1, 804. — Dinebra 1, 660. 4, 237.\n— dios balanos 4, 133. — Dioscoraceae 1, 585. 4, 233. — Dios-\ncorea 1, 585. — dyoskyamos 4, 174. — Diospyros 1, 588 f. 4, 29.\n324. — Diotis 1, 443. 4, 237. — Dipcadi 2, 162. — Diplachne\n1, 660. 688. 804. — Diplotaxis 1, 468 f. 492. 520. 4, 87. 237.\n507. — Dipsaceae 1, 586. 4, 233. — Dipsacus 1, 586 f. 4, 133.\n237. 510. — Dobera 1, 523. — Dodonaea 1, 47. — Dolichos 2,\n411. 413. 507 ff. 512. 518. 4, 237. — dorakina 4, 128. 170. —\nDorema 3, 457. 475. — Doronicum 1, 367 f. 4, 83. — Dorycnium\n1, 451. 645. 647. 4, 130. 134. 237. — Draba 1, 468. 473 f. 492.\n4, 134. 245. — Dracaena 2, 198. 4, 529. — dracontia 4, 130.\n173. 480. — Drosera 1, 467. — Droseraceae 1, 467. — drymos\n1, 623. — Dryobalanops 2, 116. — Dryopteris 4, 130. 168. 175.\n237. — drys 1, 612. 623. 625. 4, 62. 130. — duracina 3, 160.\n— Duranta 3, 489. 4, 234. — Durio 2, 243.\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "— "
+    },
+    {
+     "lang": "lat",
+     "text": "Deverra"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 475. — "
+    },
+    {
+     "lang": "translit",
+     "text": "dia morōn"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 31. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dianthus"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 336.\n4, 237. 245. 404. 407. 501. — "
+    },
+    {
+     "lang": "translit",
+     "text": "diaxylon"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 436. 4, 129. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dich-\nrostachys"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 514. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dicoma"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 443. — "
+    },
+    {
+     "lang": "translit",
+     "text": "dictamnos"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 83. 4, 130.\n134. 172. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Didesmus"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 470. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Digera"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 342. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Digitalis"
+    },
+    {
+     "lang": "deu",
+     "text": "\n3, 350. 4, 83. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dinaeba"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 804. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dinebra"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 660. 4, 237.\n— "
+    },
+    {
+     "lang": "translit",
+     "text": "dios balanos"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 133. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dioscoraceae"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 585. 4, 233. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dios-\ncorea"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 585. — "
+    },
+    {
+     "lang": "translit",
+     "text": "dyoskyamos"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 174. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Diospyros"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 588 f. 4, 29.\n324. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Diotis"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 443. 4, 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dipcadi"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 162. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Diplachne"
+    },
+    {
+     "lang": "deu",
+     "text": "\n1, 660. 688. 804. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Diplotaxis"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 468 f. 492. 520. 4, 87. 237.\n507. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dipsaceae"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 586. 4, 233. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dipsacus"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 586 f. 4, 133.\n237. 510. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dobera"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 523. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dodonaea"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 47. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dolichos"
+    },
+    {
+     "lang": "deu",
+     "text": " 2,\n411. 413. 507 ff. 512. 518. 4, 237. — "
+    },
+    {
+     "lang": "translit",
+     "text": "dorakina"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 128. 170. —\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Dorema"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 457. 475. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Doronicum"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 367 f. 4, 83. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dorycnium"
+    },
+    {
+     "lang": "deu",
+     "text": "\n1, 451. 645. 647. 4, 130. 134. 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Draba"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 468. 473 f. 492.\n4, 134. 245. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dracaena"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 198. 4, 529. — "
+    },
+    {
+     "lang": "translit",
+     "text": "dracontia"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 130.\n173. 480. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Drosera"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 467. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Droseraceae"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 467. — "
+    },
+    {
+     "lang": "translit",
+     "text": "drymos"
+    },
+    {
+     "lang": "deu",
+     "text": "\n1, 623. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dryobalanops"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 116. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Dryopteris"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 130. 168. 175.\n237. — "
+    },
+    {
+     "lang": "translit",
+     "text": "drys"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 612. 623. 625. 4, 62. 130. — "
+    },
+    {
+     "lang": "translit",
+     "text": "duracina"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 160.\n— "
+    },
+    {
+     "lang": "lat",
+     "text": "Duranta"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 489. 4, 234. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Durio"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 243.\n"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "E: ebelinos, ebeninos, ebenos 1, 588 f. 4, 125. 129. 134. —\nEbenaceae 1, 588. 4, 510. — Ecbalium 1, 529 f. 539. 541. 549.\n4, 32. 71. 73. 237. — Ecbolium 1, 45. — Echinaria 1, 660. 804.\n4, 237. — Echinops 1, 443. 448. 4, 86. 237. — Echinopsilon\n1, 340. — Echinospermum 1, 292. 4, 245. — echinos 4, 134. —\nEchinospora 3, 471. — Echiochilon 1, 291. 4, 237. — Echium\n1, 291 f. 370. 4, 118. 134. 216. 237. — Eclipta 1, 444. 4, 237.\n505. — edera 1, 221. — eiria tēs thalattēs 4, 136. — Elaeagna-\nceae 1, 590. 4, 233. — Elaeagnus 1, 590. 2, 290. 3, 46. 139.\n399. 513. 4, 31. 72. 89. 237. 246. 405. — elaia 3, 16. 4, 57.\n130. — elaphoboskon 1, 600. 3, 450. 4, 133. 480. — elatē 3, 16.\n39. 4, 60. — elaterium 4, 481. — Elatinaceae 4, 233. — Elatine\n3, 337. 4, 134. 234. — elatinos, elation 4, 126. — Elcaja 2, 63.\n— eleioselinon 3, 424. — elektron 2, 121. — elelisphakos 2, 102.\n451. 4, 131. 134. 173. 175. — Elettaria 3, 499 f. — Eleusine 1,\n804. 3, 514. — elichryson 4, 134. — Elionurus 1, 658. 804. —\nElkaja 2, 63. — elleboros 4, 134. 172. 174. — Elodea 4, 145.\n— elydrion 2, 372. — Elymus 1, 660. 741. 4, 131. 237. — Emex\n1, 343. 4, 92. 237. — empetron 4, 134. — Enarthrocarpus 1,\n468. 470. 4, 237. — entybion 1, 419. 4, 128 f. — enulion 4, 134.\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "E: "
+    },
+    {
+     "lang": "translit",
+     "text": "ebelinos, ebeninos, ebenos"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 588 f. 4, 125. 129. 134. —\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Ebenaceae"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 588. 4, 510. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Ecbalium"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 529 f. 539. 541. 549.\n4, 32. 71. 73. 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Ecbolium"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 45. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Echinaria"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 660. 804.\n4, 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Echinops"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 443. 448. 4, 86. 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Echinopsilon"
+    },
+    {
+     "lang": "deu",
+     "text": "\n1, 340. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Echinospermum"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 292. 4, 245. — "
+    },
+    {
+     "lang": "translit",
+     "text": "echinos"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 134. —\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Echinospora"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 471. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Echiochilon"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 291. 4, 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Echium"
+    },
+    {
+     "lang": "deu",
+     "text": "\n1, 291 f. 370. 4, 118. 134. 216. 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Eclipta"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 444. 4, 237.\n505. — "
+    },
+    {
+     "lang": "translit",
+     "text": "edera"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 221. — "
+    },
+    {
+     "lang": "translit",
+     "text": "eiria tēs thalattēs"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 136. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elaeagna-\nceae"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 590. 4, 233. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elaeagnus"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 590. 2, 290. 3, 46. 139.\n399. 513. 4, 31. 72. 89. 237. 246. 405. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elaia"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 16. 4, 57.\n130. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elaphoboskon"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 600. 3, 450. 4, 133. 480. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elatē"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 16.\n39. 4, 60. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elaterium"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 481. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elatinaceae"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 233. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elatine"
+    },
+    {
+     "lang": "deu",
+     "text": "\n3, 337. 4, 134. 234. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elatinos, elation"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 126. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elcaja"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 63.\n— "
+    },
+    {
+     "lang": "translit",
+     "text": "eleioselinon"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 424. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elektron"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 121. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elelisphakos"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 102.\n451. 4, 131. 134. 173. 175. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elettaria"
+    },
+    {
+     "lang": "deu",
+     "text": " 3, 499 f. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Eleusine"
+    },
+    {
+     "lang": "deu",
+     "text": " 1,\n804. 3, 514. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elichryson"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 134. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elionurus"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 658. 804. —\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Elkaja"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 63. — "
+    },
+    {
+     "lang": "translit",
+     "text": "elleboros"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 134. 172. 174. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elodea"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 145.\n— "
+    },
+    {
+     "lang": "translit",
+     "text": "elydrion"
+    },
+    {
+     "lang": "deu",
+     "text": " 2, 372. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Elymus"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 660. 741. 4, 131. 237. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Emex"
+    },
+    {
+     "lang": "deu",
+     "text": "\n1, 343. 4, 92. 237. — "
+    },
+    {
+     "lang": "translit",
+     "text": "empetron"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 134. — "
+    },
+    {
+     "lang": "lat",
+     "text": "Enarthrocarpus"
+    },
+    {
+     "lang": "deu",
+     "text": " 1,\n468. 470. 4, 237. — "
+    },
+    {
+     "lang": "translit",
+     "text": "entybion"
+    },
+    {
+     "lang": "deu",
+     "text": " 1, 419. 4, 128 f. — "
+    },
+    {
+     "lang": "translit",
+     "text": "enulion"
+    },
+    {
+     "lang": "deu",
+     "text": " 4, 134.\n"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.1-pro-preview",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2564,
+    2231
+   ],
+   [
+    2564,
+    3193
+   ]
+  ],
+  "input_tokens": 3073,
+  "output_tokens": 5560,
+  "cost_usd": 0.0729,
+  "seconds": 43.2
+ }
+}

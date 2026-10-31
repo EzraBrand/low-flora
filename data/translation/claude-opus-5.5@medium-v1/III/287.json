@@ -1,0 +1,68 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "Citrus"
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "287"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "A similar Mishnaic report is referred to the same scene (Derenbourg, Essai 98; Schürer^{2} 1, 224; Grätz, hebr. 1, 448). Some centuries later the scene repeats itself: the inhabitants of Maḥuza pelt R. Zeïra, who makes a remark displeasing to them, with their citrons (Kidd. 73^{a}; Derenbourg a. O.)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The referring of the fruit of the goodly tree to the <i>eṯrōg</i> is undisputed tradition within rabbinic Judaism (Maim., Preface to the Mishnah Commentary f. 54^{a} Romm; Maim. H. Lulab 7, 2; L. Löw gS. 1, 280). The necessity of a Sinaitic tradition is in fact demonstrated precisely by the fact that the identification of the <i>eṯrōg</i> with the fruit required in the Bible cannot otherwise be substantiated (Leon da Modena, Bechinaṯ hadaṯ 26). This is still emphasized — in accord with the traditional view — by Chajim Sofer, rabbi of the Orthodox congregation in Budapest (Kōl Sofer, 1882, note on Abot 3, 1). Maimūnī attempted a rational justification: the <i>eṯrōg</i> is suitable because it stays fresh for the entire duration of the festival, which cannot be said of peaches, pomegranates, quinces or pears (More III 43 end). In point of fact this is hardly true for pomegranates and quinces."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "In the Talmudic period the philological conscience sought aggadic supports for the equation <i>hādār</i> = <i>eṯrōg</i>; later, etymological justifications were sought for it. Nachmānī (Emor 106^{a}; Meiri, Magen Abot 111 Last; Rapoport, Erech Millin 253) ingeniously, but incorrectly, tries to extract from <i>eṯrōg</i> a root רגג [rgg] which is supposed to correspond to Hebrew הדר [hdr]. For him the <i>eṯrōg</i> is the fruit of Paradise that arouses desire — רגג [rgg]. It led Eve into sin; therefore, together with other plants, it is to serve for atonement. As late as 1819 M. J. Landau (Ar. 1, 231) attempts to derive etymologically “to gild,” hence golden fruit, and Kohut asserts (1, 336; 8, 274) that Pers. ترنك [turunk] is synonymous (?) with <i>hādār</i>, and wishes to find in this the justification of the traditional identification."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "In the 13th century Eleazar of Worms calculated that the numerical value of פרי עץ הדר [pĕrî ʿēṣ hādār], 659, amounts to the same as that of the word [א]תרוגים [(ʾ)etrôgîm] (Rokeach 39^{b} Zolkiew)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The scriptural proof that the biblical precept means the <i>eṯrōg</i> has occupied the scribes a great deal. Ac-"
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "source_meta": {
+   "engine": "openrouter",
+   "model": "anthropic/claude-opus-5.5",
+   "provider": "Claude Platform on AWS",
+   "effort": "low",
+   "reasoning_tokens": 0,
+   "images": [
+    [
+     2672,
+     2782
+    ],
+    [
+     2672,
+     2730
+    ]
+   ],
+   "input_tokens": 11130,
+   "output_tokens": 1947,
+   "cost_usd": 0.0835,
+   "seconds": 27.0
+  },
+  "input_tokens": 2649,
+  "output_tokens": 1696,
+  "cost_usd": 0.0445,
+  "seconds": 22.1
+ }
+}

@@ -1,0 +1,453 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "196",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "196"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Anacardiaceae",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Anacardiaceae"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "daß aus dem Mastix, wie aus anderen Harzarten (صمغ צמגים) ein\nÖl gewonnen wird (Ki tissa 76^{b}).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "daß aus dem Mastix, wie aus anderen Harzarten ("
+    },
+    {
+     "lang": "ara",
+     "text": "صمغ"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "heb",
+     "text": "צמגים"
+    },
+    {
+     "lang": "deu",
+     "text": ") ein\nÖl gewonnen wird (Ki tissa 76^{b})."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Über die Gewinnung des Mastix auf der Insel Chios (Scio)\nhat Tournefort (st. 1708. Tschirch 1, 906) berichtet.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Über die Gewinnung des Mastix auf der Insel Chios (Scio)\nhat Tournefort (st. 1708. Tschirch 1, 906) berichtet."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Arabisch مصطكى ist Lehnwort (Fraenkel 151), ist auch ins\nArmenische (Hübschmann 248. ZDMG. 51, 304) und in die euro-\npäischen Sprachen weitergewandert.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Arabisch "
+    },
+    {
+     "lang": "ara",
+     "text": "مصطكى"
+    },
+    {
+     "lang": "deu",
+     "text": " ist Lehnwort (Fraenkel 151), ist auch ins\nArmenische (Hübschmann 248. ZDMG. 51, 304) und in die euro-\npäischen Sprachen weitergewandert."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Fürs Arabische: E. Wiedem. LVI 340. mastik (P.) Vullers 2,\n51 = زماسى. מצטכי Abulw. 302 Bacher. Sha 1879, syrisch كيا 1756.\nMediziner: Sha a. O. Kašef = كيا. Abu Salt: משטיני. Estori ha-Farḥī\nschreibt מצטבא und identifiziert es im Namen seines Vaters mit\nקטף (f 421^{b} Ven., 107^{b} Edelm., p. 662 Luncz).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Fürs Arabische: E. Wiedem. LVI 340. mastik (P.) Vullers 2,\n51 = "
+    },
+    {
+     "lang": "ara",
+     "text": "زماسى"
+    },
+    {
+     "lang": "deu",
+     "text": ". "
+    },
+    {
+     "lang": "heb",
+     "text": "מצטכי"
+    },
+    {
+     "lang": "deu",
+     "text": " Abulw. 302 Bacher. Sha 1879, syrisch "
+    },
+    {
+     "lang": "syc",
+     "text": "كيا"
+    },
+    {
+     "lang": "deu",
+     "text": " 1756.\nMediziner: Sha a. O. Kašef = "
+    },
+    {
+     "lang": "syc",
+     "text": "كيا"
+    },
+    {
+     "lang": "deu",
+     "text": ". Abu Salt: "
+    },
+    {
+     "lang": "heb",
+     "text": "משטיני"
+    },
+    {
+     "lang": "deu",
+     "text": ". Estori ha-Farḥī\nschreibt "
+    },
+    {
+     "lang": "heb",
+     "text": "מצטבא"
+    },
+    {
+     "lang": "deu",
+     "text": " und identifiziert es im Namen seines Vaters mit\n"
+    },
+    {
+     "lang": "heb",
+     "text": "קטף"
+    },
+    {
+     "lang": "deu",
+     "text": " (f 421^{b} Ven., 107^{b} Edelm., p. 662 Luncz)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Man fälscht den Mastix mit dem Harz des ʾubhul (Wacholder):\nIbn Bassām bei E. Wiedem. XL 177. 189.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Man fälscht den Mastix mit dem Harz des "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾubhul"
+    },
+    {
+     "lang": "deu",
+     "text": " (Wacholder):\nIbn Bassām bei E. Wiedem. XL 177. 189."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Romanische Formen bei Juden משתיק (Abulw. 302 Bacher),\nמסתיקי, מסתיצי Mb. 31. 50. Menaḥem b. Salomo (1139) sagt: lōṭ ist\ndas Harz des Baumes שטינקי (lentisco). Es heißt it.: משטיכו ist ein\nHeilmittel und dient zur Festigung der Zähne (Sechel tob p. XI.).\n— Grünbaum, Jüd.-span. Chrest. 11 f.: almastig, almaciga משטיק\n(Semag lāwīn 65 f. 22^{a}). Wegen der seinem Dufte zukommenden\nEulogien in den Codices als מצטכי bei Zēdā lederech 64^{b} מצתכין,\nמצטיכי, מסטיכי erwähnt Tur und SchA OCh. 216, 3.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Romanische Formen bei Juden "
+    },
+    {
+     "lang": "heb",
+     "text": "משתיק"
+    },
+    {
+     "lang": "deu",
+     "text": " (Abulw. 302 Bacher),\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מסתיקי"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "מסתיצי"
+    },
+    {
+     "lang": "deu",
+     "text": " Mb. 31. 50. Menaḥem b. Salomo (1139) sagt: "
+    },
+    {
+     "lang": "translit",
+     "text": "lōṭ"
+    },
+    {
+     "lang": "deu",
+     "text": " ist\ndas Harz des Baumes "
+    },
+    {
+     "lang": "heb",
+     "text": "שטינקי"
+    },
+    {
+     "lang": "deu",
+     "text": " (lentisco). Es heißt it.: "
+    },
+    {
+     "lang": "heb",
+     "text": "משטיכו"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein\nHeilmittel und dient zur Festigung der Zähne (Sechel tob p. XI.).\n— Grünbaum, Jüd.-span. Chrest. 11 f.: almastig, almaciga "
+    },
+    {
+     "lang": "heb",
+     "text": "משטיק"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Semag lāwīn 65 f. 22^{a}). Wegen der seinem Dufte zukommenden\nEulogien in den Codices als "
+    },
+    {
+     "lang": "heb",
+     "text": "מצטכי"
+    },
+    {
+     "lang": "deu",
+     "text": " bei Zēdā lederech 64^{b} "
+    },
+    {
+     "lang": "heb",
+     "text": "מצתכין"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "heb",
+     "text": "מצטיכי"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "מסטיכי"
+    },
+    {
+     "lang": "deu",
+     "text": " erwähnt Tur und SchA OCh. 216, 3."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Seit Luther Ez. 27, 17 צרי*) durch Mastix wiedergegeben hatte,\nwurde dies vielfach wiederholt und wird noch von Rothstein in\nder Kautzschbibel (zu ^{c d e}) und anderen festgehalten. ṣōrī ist nicht\nMastix, sondern Storax (Flora 3, 390), wie Raši zu ^{a}) ganz richtig\nangibt. Unserem Sprachgebrauch gemäß übersetzt man Balsam\n(Rothstein), wie Abulwalīd umschreibend „tirjāq“ gibt und die\ngaonäische Erklärung bei Ibn Esra, die ein aus 75 Ingredienzien\nzusammengesetztes Heilmittel — also einen Theriak — darunter\nversteht.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seit Luther Ez. 27, 17 "
+    },
+    {
+     "lang": "heb",
+     "text": "צרי"
+    },
+    {
+     "lang": "deu",
+     "text": "*) durch Mastix wiedergegeben hatte,\nwurde dies vielfach wiederholt und wird noch von Rothstein in\nder Kautzschbibel (zu ^{c d e}) und anderen festgehalten. "
+    },
+    {
+     "lang": "translit",
+     "text": "ṣōrī"
+    },
+    {
+     "lang": "deu",
+     "text": " ist nicht\nMastix, sondern Storax (Flora 3, 390), wie Raši zu ^{a}) ganz richtig\nangibt. Unserem Sprachgebrauch gemäß übersetzt man Balsam\n(Rothstein), wie Abulwalīd umschreibend „"
+    },
+    {
+     "lang": "translit",
+     "text": "tirjāq"
+    },
+    {
+     "lang": "deu",
+     "text": "“ gibt und die\ngaonäische Erklärung bei Ibn Esra, die ein aus 75 Ingredienzien\nzusammengesetztes Heilmittel — also einen Theriak — darunter\nversteht."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wenn Targ. j שרף (וקטף) dafür setzt, so wird es Storax meinen.\nJedenfalls meint Onkelos mit שעיף, samar. שעבה (LAA. שעפה, שעבי,\nשאבה) nicht Mastix, sondern wahrscheinlich Storax, nicht „Balsam“\nallgemein. In Palästina suchte man in talmudischer Zeit (3.—4. Jh.)",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wenn Targ. j "
+    },
+    {
+     "lang": "arc",
+     "text": "שרף (וקטף)"
+    },
+    {
+     "lang": "deu",
+     "text": " dafür setzt, so wird es Storax meinen.\nJedenfalls meint Onkelos mit "
+    },
+    {
+     "lang": "arc",
+     "text": "שעיף"
+    },
+    {
+     "lang": "deu",
+     "text": ", samar. "
+    },
+    {
+     "lang": "arc",
+     "text": "שעבה"
+    },
+    {
+     "lang": "deu",
+     "text": " (LAA. "
+    },
+    {
+     "lang": "arc",
+     "text": "שעפה"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "arc",
+     "text": "שעבי"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "arc",
+     "text": "שאבה"
+    },
+    {
+     "lang": "deu",
+     "text": ") nicht Mastix, sondern wahrscheinlich Storax, nicht „Balsam“\nallgemein. In Palästina suchte man in talmudischer Zeit (3.—4. Jh.)"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "^{a} Gn. 37, 25. ^{b} 43, 11. ^{c} Jer. 8, 22. ^{d} 46, 11. ^{e} 51, 8. Syrer und Griechen\nlesen Sir. 6, 16 צרי חיים, aber die LA. des hebräischen Textes: צרור חיים ist als\nrichtig anzuerkennen. — Susanna und Daniel 54—58 p. 138 Kautzsch gehört\nnicht hieher. — Boch. Hieroz. 1, 628 wollte ῥητίνη von ṣōrī ableiten. Falsch\nist die Kombination Roubinovitch, ḥiddūšīm 6 bh. עוק bedeute soviel als צרי.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "^{a} Gn. 37, 25. ^{b} 43, 11. ^{c} Jer. 8, 22. ^{d} 46, 11. ^{e} 51, 8. Syrer und Griechen\nlesen Sir. 6, 16 "
+    },
+    {
+     "lang": "heb",
+     "text": "צרי חיים"
+    },
+    {
+     "lang": "deu",
+     "text": ", aber die LA. des hebräischen Textes: "
+    },
+    {
+     "lang": "heb",
+     "text": "צרור חיים"
+    },
+    {
+     "lang": "deu",
+     "text": " ist als\nrichtig anzuerkennen. — Susanna und Daniel 54—58 p. 138 Kautzsch gehört\nnicht hieher. — Boch. Hieroz. 1, 628 wollte "
+    },
+    {
+     "lang": "grc",
+     "text": "ῥητίνη"
+    },
+    {
+     "lang": "deu",
+     "text": " von "
+    },
+    {
+     "lang": "translit",
+     "text": "ṣōrī"
+    },
+    {
+     "lang": "deu",
+     "text": " ableiten. Falsch\nist die Kombination Roubinovitch, ḥiddūšīm 6 bh. "
+    },
+    {
+     "lang": "heb",
+     "text": "עוק"
+    },
+    {
+     "lang": "deu",
+     "text": " bedeute soviel als "
+    },
+    {
+     "lang": "heb",
+     "text": "צרי"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-sonnet-5.5",
+  "provider": "Azure",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2604,
+    2894
+   ],
+   [
+    2604,
+    2626
+   ]
+  ],
+  "input_tokens": 10999,
+  "output_tokens": 2878,
+  "cost_usd": 0.0508,
+  "seconds": 18.5
+ }
+}

@@ -1,0 +1,593 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Pistacia Terebinthus 193\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Pistacia Terebinthus"
+    },
+    {
+     "lang": "deu",
+     "text": " 193\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "el-buṭm). Die Preßrückstände heißen jüd. aram. כוספא דבטמי (Hg.\n58_{5. 29}).\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "translit",
+     "text": "el-buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": "). Die Preßrückstände heißen jüd. aram. "
+    },
+    {
+     "lang": "arc",
+     "text": "כוספא דבטמי"
+    },
+    {
+     "lang": "deu",
+     "text": " (Hg.\n58_{5. 29}).\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "fra",
+   "text": " Guigues p. XXXIX sagt: Les graines vertes, granum viride\n(الحبة الخضراء) du moyen âge, sont les fruits du térébinthe, P. Tereb.\nL. On les a confondues avec les pistaches, fustuḳ, fruits du P.\nvera L. De nos jours, d'ailleurs, les graines vertes sont encore\nemployées dans l'alimentation. C'est surtout en Mésopotamie que\nles fruits du térébinthe, buṭm, sont comestibles.\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Guigues p. XXXIX sagt: "
+    },
+    {
+     "lang": "fra",
+     "text": "Les graines vertes, "
+    },
+    {
+     "lang": "lat",
+     "text": "granum viride"
+    },
+    {
+     "lang": "fra",
+     "text": "\n("
+    },
+    {
+     "lang": "ara",
+     "text": "الحبة الخضراء"
+    },
+    {
+     "lang": "fra",
+     "text": ") du moyen âge, sont les fruits du térébinthe, "
+    },
+    {
+     "lang": "lat",
+     "text": "P. Tereb.\nL. "
+    },
+    {
+     "lang": "fra",
+     "text": "On les a confondues avec les pistaches, "
+    },
+    {
+     "lang": "translit",
+     "text": "fustuḳ"
+    },
+    {
+     "lang": "fra",
+     "text": ", fruits du "
+    },
+    {
+     "lang": "lat",
+     "text": "P.\nvera L. "
+    },
+    {
+     "lang": "fra",
+     "text": "De nos jours, d'ailleurs, les graines vertes sont encore\nemployées dans l'alimentation. C'est surtout en Mésopotamie que\nles fruits du térébinthe, "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭm"
+    },
+    {
+     "lang": "fra",
+     "text": ", sont comestibles.\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": " בטנה, boṭnā,*) [assyr. buṭnu, Zimmern AF. 54; palmyr. בר בוטן**)\nn. pr. Chajes, Onomatolog. 12] auch mišnisch. Švi 7, 5: בוטנא, LA.\nבטנה (TŠvi V 68_{14}, Schwarz p. 215), einmal auch Targ. בוטנין Gn.\n43, 11.\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": " בטנה"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnā"
+    },
+    {
+     "lang": "deu",
+     "text": ",*) [assyr. "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭnu"
+    },
+    {
+     "lang": "deu",
+     "text": ", Zimmern AF. 54; palmyr. "
+    },
+    {
+     "lang": "arc",
+     "text": "בר בוטן"
+    },
+    {
+     "lang": "deu",
+     "text": "**)\nn. pr. Chajes, Onomatolog. 12] auch mišnisch. Švi 7, 5: "
+    },
+    {
+     "lang": "heb",
+     "text": "בוטנא"
+    },
+    {
+     "lang": "deu",
+     "text": ", LA.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "בטנה"
+    },
+    {
+     "lang": "deu",
+     "text": " (TŠvi V 68_{14}, Schwarz p. 215), einmal auch Targ. "
+    },
+    {
+     "lang": "arc",
+     "text": "בוטנין"
+    },
+    {
+     "lang": "deu",
+     "text": " Gn.\n43, 11.\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": " boṭnā ist ein einheimischer Baum, während Pistazien aus dem\nAusland eingeführt werden (j Dem. II 22^{b}_{69}). Diese kommen nach\nPalästina aus Nordsyrien (Rosen, Pf. 69).\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "translit",
+     "text": " boṭnā"
+    },
+    {
+     "lang": "deu",
+     "text": " ist ein einheimischer Baum, während Pistazien aus dem\nAusland eingeführt werden (j Dem. II 22^{b}_{69}). Diese kommen nach\nPalästina aus Nordsyrien (Rosen, Pf. 69).\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": " In der angeführten Mišna- und T.-Stelle ist von jungen, eßbaren\nSchossen, לולב die Rede. Es werden genannt: a) ורדים, b) חרובים,\nc) אלה, d) בוטנה, e) אטדין, f) אדיל. c) nach Maimūnī richtig ballūṭ,***)\nd. h. ʾallā Eiche, nicht ʾēlā! Gal. VI 644 βλαστοὶ τερμίνθου! e) ῥάμνου.\nEr sagt: die Terebinthenschosse werden in Essig oder Salzlake\neingelegt (Sachau, Inedita 95).\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " In der angeführten Mišna- und T.-Stelle ist von jungen, eßbaren\nSchossen, "
+    },
+    {
+     "lang": "heb",
+     "text": "לולב"
+    },
+    {
+     "lang": "deu",
+     "text": " die Rede. Es werden genannt: a) "
+    },
+    {
+     "lang": "heb",
+     "text": "ורדים"
+    },
+    {
+     "lang": "deu",
+     "text": ", b) "
+    },
+    {
+     "lang": "heb",
+     "text": "חרובים"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nc) "
+    },
+    {
+     "lang": "heb",
+     "text": "אלה"
+    },
+    {
+     "lang": "deu",
+     "text": ", d) "
+    },
+    {
+     "lang": "heb",
+     "text": "בוטנה"
+    },
+    {
+     "lang": "deu",
+     "text": ", e) "
+    },
+    {
+     "lang": "heb",
+     "text": "אטדין"
+    },
+    {
+     "lang": "deu",
+     "text": ", f) "
+    },
+    {
+     "lang": "heb",
+     "text": "אדיל"
+    },
+    {
+     "lang": "deu",
+     "text": ". c) nach Maimūnī richtig "
+    },
+    {
+     "lang": "translit",
+     "text": "ballūṭ"
+    },
+    {
+     "lang": "deu",
+     "text": ",***)\nd. h. "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾallā"
+    },
+    {
+     "lang": "deu",
+     "text": " Eiche, nicht "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾēlā"
+    },
+    {
+     "lang": "deu",
+     "text": "! Gal. VI 644 "
+    },
+    {
+     "lang": "grc",
+     "text": "βλαστοὶ τερμίνθου"
+    },
+    {
+     "lang": "deu",
+     "text": "! e) "
+    },
+    {
+     "lang": "grc",
+     "text": "ῥάμνου"
+    },
+    {
+     "lang": "deu",
+     "text": ".\nEr sagt: die Terebinthenschosse werden in Essig oder Salzlake\neingelegt (Sachau, Inedita 95).\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": " Schon der Ortsname boṭnā beweist, daß nicht die landfremde\nPistazie gemeint sein kann. Als Ortsname kommt arabisch buṭm\nvor: Socin, Ortsapell. ZDPV. 22, 18: challeṭ il-buṭm Terebinthental\n31, 199, maḳāṭiʿ el-buṭmi Terebinthensteinbruch (31, 183).\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Schon der Ortsname "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnā"
+    },
+    {
+     "lang": "deu",
+     "text": " beweist, daß nicht die landfremde\nPistazie gemeint sein kann. Als Ortsname kommt arabisch "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": "\nvor: Socin, Ortsapell. ZDPV. 22, 18: "
+    },
+    {
+     "lang": "translit",
+     "text": "challeṭ il-buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": " Terebinthental\n31, 199, "
+    },
+    {
+     "lang": "translit",
+     "text": "maḳāṭiʿ el-buṭmi"
+    },
+    {
+     "lang": "deu",
+     "text": " Terebinthensteinbruch (31, 183).\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": " בטנה Jos. 13, 26 nach Robinson 3, 924 baṭne südlich von eṣ-\nṣalt (Schwarz, Tebuot haareṣ ed. Luncz, p. 271 n). Ein Ort boṭnā\nauch jAz. I 39^{d}_{27} = בטנן B. r. 47 Ende. Der Jahrmarkt an der\nTerebinthe ירידה של בוטנה (ZAW. 29, 217. 221). S. Klein hat damit\nden Markt von בית אילנים MT. 185_{17} Hoffm., בית אילנים Sifre II 306,\n132_{6} Friedm. kombiniert.\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": " בטנה"
+    },
+    {
+     "lang": "deu",
+     "text": " Jos. 13, 26 nach Robinson 3, 924 "
+    },
+    {
+     "lang": "translit",
+     "text": "baṭne"
+    },
+    {
+     "lang": "deu",
+     "text": " südlich von "
+    },
+    {
+     "lang": "translit",
+     "text": "eṣ-\nṣalt"
+    },
+    {
+     "lang": "deu",
+     "text": " (Schwarz, Tebuot haareṣ ed. Luncz, p. 271 n). Ein Ort "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnā"
+    },
+    {
+     "lang": "deu",
+     "text": "\nauch jAz. I 39^{d}_{27} = "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנן"
+    },
+    {
+     "lang": "deu",
+     "text": " B. r. 47 Ende. Der Jahrmarkt an der\nTerebinthe "
+    },
+    {
+     "lang": "heb",
+     "text": "ירידה של בוטנה"
+    },
+    {
+     "lang": "deu",
+     "text": " (ZAW. 29, 217. 221). S. Klein hat damit\nden Markt von "
+    },
+    {
+     "lang": "heb",
+     "text": "בית אילנים"
+    },
+    {
+     "lang": "deu",
+     "text": " MT. 185_{17} Hoffm., "
+    },
+    {
+     "lang": "heb",
+     "text": "בית אילנים"
+    },
+    {
+     "lang": "deu",
+     "text": " Sifre II 306,\n132_{6} Friedm. kombiniert.\n"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": " Zu dem Ortsnamen bŏṭnā hat Derenbourg בטנית bŏṭnīt, eine\nProselytin aus boṭnā gestellt (Sabb. 24, 5. Beza 3, 8. T. III 205_{27}.\nTMen. XIII 533_{33}. [Pes. 57^{a}] Ned. 23^{a}. M. Zizit p. 23_{6} Kirchheim\n= Semah. XII [p. 98_{12} Romm. קטנים lies mit M. Zizit, Šibbŏlē 341\nBuber und R. Elia Wilna בטנית. ZAW. 29, 216).\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Zu dem Ortsnamen "
+    },
+    {
+     "lang": "translit",
+     "text": "bŏṭnā"
+    },
+    {
+     "lang": "deu",
+     "text": " hat Derenbourg "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנית"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "translit",
+     "text": "bŏṭnīt"
+    },
+    {
+     "lang": "deu",
+     "text": ", eine\nProselytin aus "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnā"
+    },
+    {
+     "lang": "deu",
+     "text": " gestellt (Sabb. 24, 5. Beza 3, 8. T. III 205_{27}.\nTMen. XIII 533_{33}. [Pes. 57^{a}] Ned. 23^{a}. M. Zizit p. 23_{6} Kirchheim\n= Semah. XII [p. 98_{12} Romm. "
+    },
+    {
+     "lang": "heb",
+     "text": "קטנים"
+    },
+    {
+     "lang": "deu",
+     "text": " lies mit M. Zizit, Šibbŏlē 341\nBuber und R. Elia Wilna "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנית"
+    },
+    {
+     "lang": "deu",
+     "text": ". ZAW. 29, 216).\n"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " 1 K. 7, 20 מלעמת הבטן erinnert F. Perles neue Anal. 75 an boṭnīm.\n",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " 1 K. 7, 20 "
+    },
+    {
+     "lang": "heb",
+     "text": "מלעמת הבטן"
+    },
+    {
+     "lang": "deu",
+     "text": " erinnert F. Perles neue Anal. 75 an "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnīm"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " S. Klein (I. 1926) verweist auf MS. 1910, 22 בית אילונים für [בית] בטנה und\nkombiniert damit den Namen Abba Saul boṭnīt.\n",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " S. Klein (I. 1926) verweist auf MS. 1910, 22 "
+    },
+    {
+     "lang": "heb",
+     "text": "בית אילונים"
+    },
+    {
+     "lang": "deu",
+     "text": " für ["
+    },
+    {
+     "lang": "heb",
+     "text": "בית"
+    },
+    {
+     "lang": "deu",
+     "text": "] "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנה"
+    },
+    {
+     "lang": "deu",
+     "text": " und\nkombiniert damit den Namen Abba Saul "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnīt"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": " Hiernach ist Flora 3, 254 richtigzustellen.\n",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": " Hiernach ist Flora 3, 254 richtigzustellen.\n"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Löw, Flora. I.\n13\n",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Löw, Flora. I.\n"
+    },
+    {
+     "lang": "deu",
+     "text": "13\n"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.1-pro-preview",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2940,
+    2716
+   ],
+   [
+    2940,
+    2824
+   ]
+  ],
+  "input_tokens": 3091,
+  "output_tokens": 3974,
+  "cost_usd": 0.0539,
+  "seconds": 32.4
+ }
+}

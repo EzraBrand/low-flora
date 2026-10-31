@@ -1,0 +1,16 @@
+{
+ "blocks": [
+  {
+   "type": "body",
+   "lang": "other",
+   "text": "194\ncete\nAriiso , rs ersMornr 10).\nDas eiiee ses resioeoelre oner,Mal-\ndisc iisAu. 23. Bbh. S0, iKil. I2T. Tars. eg. l, 30.6, 13\nMii.sA).ܐS. n,2.S.S. . 4\nDor riier at  \nac\nXrieea se,s iinr2iehh,\n<s s ler srisceorasc eibehaltcn. Plh. Kastde 6, 206.\nFrisoh, ܬܡܛܒ\none,fōi Pten) nefteee,o,oee o)oeen-\nriscee.\na) PR. 2fA. 70. 829 ,a (hier ontstellt).b) Bal.-I h. 0)ܣܘܦܩܐ\n(oh ܗܢܘܩ PP. 2Tn.Arahisch bei Srern. dܡܒܙ RR. 27A. 277.\ne) (ܨ̇ܟܪܬܐ ܬܥܝܬ SA. 2OəA. AS.38l Heuein. SD eorrun. ܣܩܘܩܪܗܕܒ\n1706 (-- kolophouia) iO. lB3d :ܟ̣ܡܥ ܬ ܟ̇ܩܬܬ ܬ̈ܝܠܙ ܢܒܪܘܪܕ ܐ̈ܡܛܒ.\n(lr   s.sA.ist.orrAn nelita. 5.\n(XD. 790.fܬܡܛܒܕ ܐܥܘrmrnr 2, An.BR. 81\n<oro ls.S)yܟ̈s  ) ܐܟܬܝܠܬ ܬeinq\nXKerecohsl uns Xon ܐܬܥܘܪ SD. lTo nad ܐܬܥܘܕ orHieehp OIb\n<ܦKrd. 5\n<ܘܘܝܛܩܘܪܦ.(monnt Sorgins ܐܬܦܛܢ SD. AoA. 5A6. 780 f. 80I\n96.\n<Ds Harr or eoehiate, nn, osr 2airī\n(R. XNTonnM. KIuIK 10). ) ik Bt-DtthmM, Harz des lܟܟܠܐ ܬ̈eܒ\n<s e ses ro en\nsc.msci\n  \neos, herer \ne c ie\n.\ncSiiee rnfseh,rennqe Ieo 9I.II\n..em .\nii .ies f sier oia\n) KAolonuoonia ܪܒܩܦܦܗ ܐ BM.Tsssrty oāautyhtyo ܠb\nܐܩܬܣܦܕ ܘܐ ܐ̈ܡܛܒܕ.\n<X XD. 545 (iܓܕ  AoA zn ܬܥܒ.\niii) TAkoh M.Aulessa:Mo don Bitnnnen ileads ܪ Xo e6ܪ Xo ܙ܀ܓܥܣܝ\nAr.n. O. 377.\ni\n,eer nenr Al.AAiA. Mi,Slm.Hln ."
+  }
+ ],
+ "meta": {
+  "engine": "kraken",
+  "model": "omnisyr_best.mlmodel",
+  "cost_usd": 0,
+  "seconds": null,
+  "note": "run by hand with kraken 7.1.1 CLI before run_kraken() existed; same command"
+ }
+}

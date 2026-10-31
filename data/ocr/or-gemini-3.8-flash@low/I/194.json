@@ -1,0 +1,669 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "194",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "194"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Anacardiaceae",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Anacardiaceae"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Aramäisch buṭmā, daraus entlehnt arab. buṭm Fraenkel 139.\nDas einmalige buṭnīm des Targum ist gelehrte Konjektur. Tal-\nmudisch buṭmā Rh. 23ᵃ. Bb. 80ᵇ. jKil. I 27ᵃ. Targ. Jes. 1, 30. 6, 13\n(TW. אלה). 1 S. 17, 2. 2 S. 18, 9. Hos. 4, 13. Onkelos und jGn. 35, 4.\nDer Samaritaner hat דחלתה (דהלאה), hat also das Wort mißver-\nstanden und an ʾelōᵃh gedacht.\nHebräisch ist bōṭem, das BJ. aus Aßafs boṭmīm anführt, nicht:\nes ist aus der syrischen Vorlage beibehalten. Ph. Hasade 6, 206.\nSyrisch: ܰܒܛܡܐ Bibelübersetzung für ʾēlā, ʾēlōn, ʾallā, ʾallōn,\nboṭnīm, lōṭ (rōtem). a) τερέβινθος, b) τέρμινθος, c) κῶνος? — Neu-\nsyrisch: bīṭmā, biṭemtā, a terebinth-tree.\na) BB. 274. 790. 829_{18} (hier entstellt). b) Gal.-Üb. c) ? ܦܝܣܘܢܝܐ\nܝܘܢܝܐ BB. 277_{10}. Arabisch bei Syrern. d) بطم BB. 274. 277.\ne) الحبّة الخضراء BA. 2354. BB. 381 Honein. 829 corrupt. ܩܘܠܘܦܘܢܝܐ\n1796 (= kolophonia) *). 1934: الحبّة الخضراء الاكبرܕܪ̈ܒܬܐ\n— Τερεβινθίνη (ῥητίνη) Gal.-Üb. 240. List 99. Sachau Inedita 95.\nBB. 790. f) ܨܡܓܐ ܕܒܛܡܐ [Duval-Berth. 2, 45]. BB. 801\ncorrupt. 790 = 180. g) القاوازا (= h علك النباط [** ἀλκυόνιον? Ob eine\nVerwechslung von ܨܡܓܐ BB. 179 und ܩܨܦܐ vorliegt?] Ob\nعلك البطم? Card. j) φρυκτὴ ῥητίνη***) resina terebinthi PSm. 325\nܦܝܣܘܢܝܐ. f) nennt Sergius ܛܠܘܦܐ BB. 404. 546. 789 f. 801.\n1796.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Aramäisch "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭmā"
+    },
+    {
+     "lang": "deu",
+     "text": ", daraus entlehnt arab. "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": " Fraenkel 139.\nDas einmalige "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭnīm"
+    },
+    {
+     "lang": "deu",
+     "text": " des Targum ist gelehrte Konjektur. Tal-\nmudisch "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭmā"
+    },
+    {
+     "lang": "deu",
+     "text": " Rh. 23"
+    },
+    {
+     "lang": "heb",
+     "text": "ᵃ"
+    },
+    {
+     "lang": "deu",
+     "text": ". Bb. 80"
+    },
+    {
+     "lang": "heb",
+     "text": "ᵇ"
+    },
+    {
+     "lang": "deu",
+     "text": ". jKil. I 27"
+    },
+    {
+     "lang": "heb",
+     "text": "ᵃ"
+    },
+    {
+     "lang": "deu",
+     "text": ". Targ. Jes. 1, 30. 6, 13\n(TW. "
+    },
+    {
+     "lang": "heb",
+     "text": "אלה"
+    },
+    {
+     "lang": "deu",
+     "text": "). 1 S. 17, 2. 2 S. 18, 9. Hos. 4, 13. Onkelos und jGn. 35, 4.\nDer Samaritaner hat "
+    },
+    {
+     "lang": "arc",
+     "text": "דחלתה"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "arc",
+     "text": "דהלאה"
+    },
+    {
+     "lang": "deu",
+     "text": "), hat also das Wort mißver-\nstanden und an "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾelōᵃh"
+    },
+    {
+     "lang": "deu",
+     "text": " gedacht.\nHebräisch ist "
+    },
+    {
+     "lang": "translit",
+     "text": "bōṭem"
+    },
+    {
+     "lang": "deu",
+     "text": ", das BJ. aus Aßafs "
+    },
+    {
+     "lang": "translit",
+     "text": "boṭmīm"
+    },
+    {
+     "lang": "deu",
+     "text": " anführt, nicht:\nes ist aus der syrischen Vorlage beibehalten. Ph. Hasade 6, 206.\nSyrisch: "
+    },
+    {
+     "lang": "syc",
+     "text": "ܰܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " Bibelübersetzung für "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾēlā"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾēlōn"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾallā"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "translit",
+     "text": "ʾallōn"
+    },
+    {
+     "lang": "deu",
+     "text": ",\n"
+    },
+    {
+     "lang": "translit",
+     "text": "boṭnīm"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "translit",
+     "text": "lōṭ"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "translit",
+     "text": "rōtem"
+    },
+    {
+     "lang": "deu",
+     "text": "). a) "
+    },
+    {
+     "lang": "grc",
+     "text": "τερέβινθος"
+    },
+    {
+     "lang": "deu",
+     "text": ", b) "
+    },
+    {
+     "lang": "grc",
+     "text": "τέρμινθος"
+    },
+    {
+     "lang": "deu",
+     "text": ", c) "
+    },
+    {
+     "lang": "grc",
+     "text": "κῶνος"
+    },
+    {
+     "lang": "deu",
+     "text": "? — Neu-\nsyrisch: "
+    },
+    {
+     "lang": "translit",
+     "text": "bīṭmā"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "translit",
+     "text": "biṭemtā"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "eng",
+     "text": "a terebinth-tree"
+    },
+    {
+     "lang": "deu",
+     "text": ".\na) BB. 274. 790. 829"
+    },
+    {
+     "lang": "deu",
+     "text": "_{18}"
+    },
+    {
+     "lang": "deu",
+     "text": " (hier entstellt). b) Gal.-Üb. c) ? "
+    },
+    {
+     "lang": "syc",
+     "text": "ܦܝܣܘܢܝܐ\nܝܘܢܝܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " BB. 277"
+    },
+    {
+     "lang": "deu",
+     "text": "_{10}"
+    },
+    {
+     "lang": "deu",
+     "text": ". Arabisch bei Syrern. d) "
+    },
+    {
+     "lang": "ara",
+     "text": "بطم"
+    },
+    {
+     "lang": "deu",
+     "text": " BB. 274. 277.\ne) "
+    },
+    {
+     "lang": "ara",
+     "text": "الحبّة الخضراء"
+    },
+    {
+     "lang": "deu",
+     "text": " BA. 2354. BB. 381 Honein. 829 corrupt. "
+    },
+    {
+     "lang": "syc",
+     "text": "ܩܘܠܘܦܘܢܝܐ"
+    },
+    {
+     "lang": "deu",
+     "text": "\n1796 (= "
+    },
+    {
+     "lang": "lat",
+     "text": "kolophonia"
+    },
+    {
+     "lang": "deu",
+     "text": ") *). 1934: "
+    },
+    {
+     "lang": "ara",
+     "text": "الحبّة الخضراء الاكبر"
+    },
+    {
+     "lang": "syc",
+     "text": "ܕܪ̈ܒܬܐ\n—"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "grc",
+     "text": "Τερεβινθίνη"
+    },
+    {
+     "lang": "deu",
+     "text": " ("
+    },
+    {
+     "lang": "grc",
+     "text": "ῥητίνη"
+    },
+    {
+     "lang": "deu",
+     "text": ") Gal.-Üb. 240. List 99. Sachau Inedita 95.\nBB. 790. f) "
+    },
+    {
+     "lang": "syc",
+     "text": "ܨܡܓܐ ܕܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " [Duval-Berth. 2, 45]. BB. 801\ncorrupt. 790 = 180. g) "
+    },
+    {
+     "lang": "ara",
+     "text": "القاوازا"
+    },
+    {
+     "lang": "deu",
+     "text": " (= h "
+    },
+    {
+     "lang": "ara",
+     "text": "علك النباط"
+    },
+    {
+     "lang": "deu",
+     "text": " [** "
+    },
+    {
+     "lang": "grc",
+     "text": "ἀλκυόνιον"
+    },
+    {
+     "lang": "deu",
+     "text": "? Ob eine\nVerwechslung von "
+    },
+    {
+     "lang": "syc",
+     "text": "ܨܡܓܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " BB. 179 und "
+    },
+    {
+     "lang": "syc",
+     "text": "ܩܨܦܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " vorliegt?] Ob\n"
+    },
+    {
+     "lang": "ara",
+     "text": "علك البطم"
+    },
+    {
+     "lang": "deu",
+     "text": "? Card. j) "
+    },
+    {
+     "lang": "grc",
+     "text": "φρυκτὴ ῥητίνη"
+    },
+    {
+     "lang": "deu",
+     "text": "***) "
+    },
+    {
+     "lang": "lat",
+     "text": "resina terebinthi"
+    },
+    {
+     "lang": "deu",
+     "text": " PSm. 325\n"
+    },
+    {
+     "lang": "syc",
+     "text": "ܦܝܣܘܢܝܐ"
+    },
+    {
+     "lang": "deu",
+     "text": ". f) nennt Sergius "
+    },
+    {
+     "lang": "syc",
+     "text": "ܛܠܘܦܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " BB. 404. 546. 789 f. 801.\n1796."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Das Harz der Terebinthe, buṭm, Musil 3, 230. Nuwairī\n(E. Wiedem. XLIX 19). ¹) ʿilk el-buṭm, Harz des حبّة الخضراء\nkommt aus dem Maghreb, Palästina, Syrien und benachbarten\nGegenden. Im Unterschiede davon heißt Pistazienharz ²) ʿilk el-\nanbāṭ,†) Mastix aber ³) ʿilk al-rūmī. Kašef Sha 1393 ff. hat ¹) und\n³) ebenso, aber ²) ohne Übersetzung und ⁴) ʿilk šaǵar ul-fustuḳ:\ngomme de pistachier.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Das Harz der Terebinthe, "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": ", Musil 3, 230. Nuwairī\n(E. Wiedem. XLIX 19). ¹) "
+    },
+    {
+     "lang": "translit",
+     "text": "ʿilk el-buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": ", Harz des "
+    },
+    {
+     "lang": "ara",
+     "text": "حبّة الخضراء"
+    },
+    {
+     "lang": "deu",
+     "text": "\nkommt aus dem Maghreb, Palästina, Syrien und benachbarten\nGegenden. Im Unterschiede davon heißt Pistazienharz ²) "
+    },
+    {
+     "lang": "translit",
+     "text": "ʿilk el-\nanbāṭ"
+    },
+    {
+     "lang": "deu",
+     "text": ",†) Mastix aber ³) "
+    },
+    {
+     "lang": "translit",
+     "text": "ʿilk al-rūmī"
+    },
+    {
+     "lang": "deu",
+     "text": ". Kašef Sha 1393 ff. hat ¹) und\n³) ebenso, aber ²) ohne Übersetzung und ⁴) "
+    },
+    {
+     "lang": "translit",
+     "text": "ʿilk šaǵar ul-fustuḳ"
+    },
+    {
+     "lang": "deu",
+     "text": ":\n"
+    },
+    {
+     "lang": "fra",
+     "text": "gomme de pistachier"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Arabisch: buṭm (ZDPV. 27, 25. 30, 134. Robinson I 346. III 221).\nAscherson, Sitzungsberichte der naturforsch. Freunde 1882 21. II.\nNr. 2, S. 13: beṭūm, in Algier die tripolitanische Terebinthe, wahr-\nscheinlich P. atlantica Desf. Es ist ein LW. (Fraenkel 139). Die",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Arabisch: "
+    },
+    {
+     "lang": "translit",
+     "text": "buṭm"
+    },
+    {
+     "lang": "deu",
+     "text": " (ZDPV. 27, 25. 30, 134. Robinson I 346. III 221).\nAscherson, Sitzungsberichte der naturforsch. Freunde 1882 21. II.\nNr. 2, S. 13: "
+    },
+    {
+     "lang": "translit",
+     "text": "beṭūm"
+    },
+    {
+     "lang": "deu",
+     "text": ", in Algier die tripolitanische Terebinthe, wahr-\nscheinlich "
+    },
+    {
+     "lang": "lat",
+     "text": "P. atlantica"
+    },
+    {
+     "lang": "deu",
+     "text": " Desf. Es ist ein LW. (Fraenkel 139). Die"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "syc",
+   "text": "Kolophonia ܨܡܓܐ ܕܦܝܣܘܢܝܐ BB. 1898 ῥητίνη τερμινθίνη ܨܡܓܐ\nܕܦܝܣܘܢܝܐ ܐܘ ܕܒ̈ܛܡܐ.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Kolophonia"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "syc",
+     "text": "ܨܡܓܐ ܕܦܝܣܘܢܝܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " BB. 1898 "
+    },
+    {
+     "lang": "grc",
+     "text": "ῥητίνη τερμινθίνη"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "syc",
+     "text": "ܨܡܓܐ\nܕܦܝܣܘܢܝܐ ܐܘ ܕܒ̈ܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "BB. 545 (ܨܡܓܐ ܕܙܝ̈ܬܐ 404 zu ܒܝܣܘܩܐ und f.).",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "BB. 545 ("
+    },
+    {
+     "lang": "syc",
+     "text": "ܨܡܓܐ ܕܙܝ̈ܬܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " 404 zu "
+    },
+    {
+     "lang": "syc",
+     "text": "ܒܝܣܘܩܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " und f.)."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Jakob v. Edessa: von den Bäumen Gileads; von beṭmē; von ܙܝ̈ܬܐ\nNöld. OS. 577.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Jakob v. Edessa: von den Bäumen Gileads; von "
+    },
+    {
+     "lang": "translit",
+     "text": "beṭmē"
+    },
+    {
+     "lang": "deu",
+     "text": "; von "
+    },
+    {
+     "lang": "syc",
+     "text": "ܙܝ̈ܬܐ"
+    },
+    {
+     "lang": "deu",
+     "text": "\nNöld. OS. 577."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Kroner Maim. passim. קלפונייא für Terebinthenöl im Tintenrezept Mai-\nmūnīs, Peēr hadōr Nr. 45 f. 14. GA. Maim. Nr. 53, Salm. Hyl. 170 ff.",
+   "marker": "†)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Kroner Maim. passim. "
+    },
+    {
+     "lang": "heb",
+     "text": "קלפונייא"
+    },
+    {
+     "lang": "deu",
+     "text": " für Terebinthenöl im Tintenrezept Mai-\nmūnīs, Peēr hadōr Nr. 45 f. 14. GA. Maim. Nr. 53, Salm. Hyl. 170 ff."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "google/gemini-3.8-flash",
+  "provider": "Google",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2636,
+    2866
+   ],
+   [
+    2636,
+    2662
+   ]
+  ],
+  "input_tokens": 3092,
+  "output_tokens": 4547,
+  "cost_usd": 0.0194,
+  "seconds": 26.1
+ }
+}

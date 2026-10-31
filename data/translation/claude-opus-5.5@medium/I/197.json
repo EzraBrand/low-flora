@@ -1,0 +1,88 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "Pistacia Lentiscus"
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "197"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "mastic wrongly in the <i>lōṭ</i> of the Bible, which confirms that <i>ṣŏrī</i> was traditionally not taken to be mastic (B. r. [=Bereshit Rabba] 91, 11)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "In Arabic P. Lent. is also called ضرو [ḍirw]. Nuwairī [=an-Nuwairī, Nihāyat al-arab] in E. Wiedem. [=Eilhard Wiedemann, Beiträge zur Geschichte der Naturwissenschaften] 49, 21 says that <i>kamkām</i> is the lentiscus resin of the tree <i>ḍirw</i>, according to others its leaves or bark. It flows out elastic, black as pitch. The tree resembles the terebinth, <i>buṭm</i>, according to others a very large oak, but is said to be smoother and more delicate. It bears clusters of fruit, like the <i>buṭm</i>. Used for toothpicks: Silberberg, Dināwarī [=Silberberg, Das Pflanzenbuch des ad-Dīnawarī] 78."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The midrash cited renders the bibl. [=biblical] <i>lōṭ</i> as mastic: מסטוכי (LA. [=variant reading] מסטכי, מסתיכי, corrupt. [=corrupted] מפטדי, correctly RDK. [=Rabbi David Kimhi, Sefer ha-Shorashim] sv. [=sub voce] <i>lōṭ</i>: מוצטכא) and adds: עבידא כול (LAA. [=variant readings] according to Albeck's [=Chanoch Albeck, co-editor of Bereshit Rabba, private communication]*) communication: עבידה בול, יעבידא כיל, עבירא כול, עביד הביל), which is probably meant to signify “in little lumps”. Menaḥem b. Salomo [=Menaḥem ben Salomo, author of Sechel tob] (1139) says: mustichi is like frankincense and consists of small grains like grains of salt."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "In the Tannaitic period mastic was chewed in Palestine, either as a remedy or — as still today (Luncz zu Farḥi [=Luncz's notes to Estori ha-Farḥi, Kaftor wa-feraḥ] p. [=page] 662) — to improve the breath — εὐωδία [euōdia] Diosk. [=Dioscorides, De materia medica] 1, 93 Spr. [=edition by Sprengel] 1, 67 W. [=edition by Wellmann] (Preuss [=Preuss, Biblisch-talmudische Medizin] 195) TSabb. [=Tosefta, tractate Shabbat] 12, 127_{8} מסטיכי (LA. מוסתכין, Maim. [=Maimonides] מסטכי, Codd. [=codices] מצטכי**) Maim. H. Sabb. [=Hilkhot Shabbat] 21, 24)***). Tur [=Arbaʿa Ṭurim] SchA. [=Shulchan Arukh] OCh. [=Oraḥ Ḥayyim] 216, 3. 328, 36.: It may not be used as a remedy on the Sabbath, but it may be used as a cosmetic."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "ZDMG. [=Zeitschrift der Deutschen Morgenländischen Gesellschaft] 28, 702 Kautchuk Persan <i>ḳenderan</i>. Orientals like to produce a greater secretion of saliva by chewing resinous substances, such as mastic, pistachio resin (<i>sakkis</i>). <i>Ḳenderan</i> is used, a rubber-like mass made from the thickened latex of several species of Scorzonera and Podospermum."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Aßaf (161 Venetianer) [=Venetianer, Asaf Judaeus], in his excerpt from the syr. [=Syriac] Diosk., calls the mastic tree the tree of the small black pistachios, which grows in Šārōn (read with Venetianer: Chios) and exudes mastic. It is called gr. [=Greek] chīnos, lat. [=Latin] lentiscus. Then follows the"
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "From a commentary on B. r. Albeck [=Chanoch Albeck, co-editor of Bereshit Rabba] cites as an explanation of mastic: מושנא or מוסכא, which rests on confusion with musco, muschio, musk. מוסכי in Alfassi [=Isaac Alfasi, Halakhot] on Sabb. [=tractate Shabbat] is probably merely a miswriting of mastic; it has been corrected by ב״ח [=Bayit Ḥadash by Joel Sirkes]."
+  },
+  {
+   "type": "footnote",
+   "marker": "**)",
+   "text": "Likewise RMbN. [=Nachmanides, Commentary on the Torah] Ki tissa 76^{b}_{21}. B. r. 91, 11 LA: מסטיכי, מוסטכי; מסטכי, מסתיכי, מצטוכי, מצטוכא, מצטכא."
+  },
+  {
+   "type": "footnote",
+   "marker": "***)",
+   "text": "Tanḥūm [=Tanḥum ha-Yerushalmi, al-Murshid al-kāfī] remarks on this that Maimūnī retains the Mishnaic word, which Tanḥūm considers an Arabic loanword, because he knows no certain Hebrew designation (Bacher, Tanchum [=Bacher, Aus dem Wörterbuche Tanchum Jeruschalmi's] 80)."
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "source_meta": {
+   "engine": "openrouter",
+   "model": "anthropic/claude-opus-5.5",
+   "provider": "Claude Platform on AWS",
+   "effort": "low",
+   "reasoning_tokens": 0,
+   "images": [
+    [
+     2940,
+     3113
+    ],
+    [
+     2940,
+     2415
+    ]
+   ],
+   "input_tokens": 11079,
+   "output_tokens": 2931,
+   "cost_usd": 0.1029,
+   "seconds": 35.5
+  },
+  "input_tokens": 4634,
+  "output_tokens": 3232,
+  "cost_usd": 0.0832,
+  "seconds": 36.5
+ }
+}

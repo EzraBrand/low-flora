@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+data/raw/*/
+data/preview/
+data/cache/
+tessdata/
+logs/
+.venv-kraken/
+data/ocr/_raw/
+data/gold/**/*.scan.jpg
+*.bak
+blog/

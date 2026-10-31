@@ -1,0 +1,16 @@
+{
+ "blocks": [
+  {
+   "type": "body",
+   "lang": "other",
+   "text": "194\nAnacardiaceae\nAramäisch butmã, daraus entlehnt arab. butm FRAENKEL 139.\nDas einmalige butnīm des Targum ist gelehrte Konjektur. Tal-\nmudisch butma Rh. 23a. Bb. 80b. jKil. I27a. Targ. Jes. 1, 30. 6, 13\n(TW. הלs). 1 S. 17, 2. 2 S.18, 9. Hos. 4, 13. Onkelos und jGn. 35, 4.\nDer Samaritaner hat ל (-), hat also das Wort mßver-\nstanden und an elōa gedacht.\nHebräisch ist bōtem, das BJ. aus Aßafs botmīm anführt, nicht:\nes ist aus der syrischen Vorlage beibehalten. Ph. Hasade 6, 206.\nSyrisch:  Bibelübersetzung für 'ela, 'elōn, 'alla, 'allōn,\nbotnim, lot (rotem). a) τερέβινθος, b) τέρμινθος, c) zωνος? — Neu-\nsyrisch: bītma, bītemta, a terebinth-tree.\na) BB. 274.790. 8298 (hier entstellt). b) Gal.-Üb. c) ? \nma BB. 27710. Arabisch bei Syrern. d)  BB. 274. 277.\ne)BA. 2354.BB.381 Honein. 829 corrupt. \n1796 (- kolophonia) *). 1934: ربكالا ءارضخا ةتحلا ܒܪܘܕ ܐܡلܒ.\n— Tεpεβινθίνη (pητίν) Gal.-Üb. 240. List 99. SACHAU Inedita 95.\nBB. 790. f) .  [DUVAL-BERTH. 2, 45]. BB. 801\ncorrupt. 790 = 180. g) 1;اواقلا = h) طLنلا كل **) [ἀλκυόνιον? Ob eine\nVerwechslung von Kòra BB. 179 und  vorliegt?] Ob\n? Card. j)ø ή***) resina terebinthi S. 325\ni. f) nennt Sergius or BB. 404. 546. 789 f. 801.\n1796.\nDas Harz der Terebinthe, butm, MuSIL 3, 230. Nuwairi\n(E. WIEDEM. XLIX 19). ¹) ilk el-butm, Harz des 1I ä̈\nkommt aus dem Maghreb, Palästina, Syrien und benachbarten\nGegenden. Im Unterschiede davon heißt Pistazienharz ²) ilk el-\nanbāt,†) Mastix aber ³) ilk al-rūmi. Kašef Sha 1393 ff. hat ¹) und\n³) ebenso, aber ²) ohne Übersetzung und ⁴) ilk šagar ul-fustuk:\ngomme de pistachier.\nArabisch: butm (ZDPV. 27, 25. 30, 134. RoBINSON I346. III 221).\nAscHERSON, Sitzungsberichte der naturforsch. Freunde 1882 21. II.\nNr. 2, S. 13: betum, in Algier die tripolitanische Terebinthe, wahr-\nscheinlich P. atlantica Desf. Es ist ein LW. (FRAENKEL 139). Die\n*) Kolophonia K. Koa BB. 1898 pήv tερμιθ́v Ko.\nܐ̈ܩܬܣܦܕ ܘܐ ܐ̈ܡܛܒܕ.\n**) BB. 545 (Kix Kܥa. 404 zu  und f.).\n***) Jakob v. Edessa: von den Bäumen Gileads; von betmē; von az\nNÖLD. OS. 577.\n†) KroNER Maim. passim. ND für Terebinthenöl im Tintenrezept Mai-\nmūnis, Peer hadör Nr. 45 f. 14. GA. Maim. Nr. 53, Salm. Hyl. 170 ff."
+  }
+ ],
+ "meta": {
+  "engine": "kraken",
+  "model": "medium.safetensors",
+  "cost_usd": 0,
+  "seconds": null,
+  "note": "run by hand with kraken 7.1.1 CLI before run_kraken() existed; same command"
+ }
+}
