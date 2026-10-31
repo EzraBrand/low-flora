@@ -48,12 +48,12 @@ add a transliteration in square brackets right after each word or phrase, e.g. "
 "τερέβινθος [terebinthos]". Use standard current academic transliteration: IJMES for Arabic \
 and Persian; SBL Handbook of Style (2nd ed.) for Greek. If the OCR text has [?], keep [?] and do \
 not transliterate it. If a reading looks wrong, still transliterate what is written.
-- Abbreviations: at the FIRST occurrence on the page of each abbreviation in the list below, \
+- Abbreviations: at the FIRST occurrence in the input of each abbreviation in the list below, \
 add " [=expansion]" right after it, e.g. "assyr. [=Assyrian]", "BB. [=Bar Bahlul, Lexicon]". \
 Use the expansion from the list; for bibliography shorten it to author and short title. If the \
-list says the expansion is unknown, write "[=?]". Later occurrences on the same page stay as \
+list says the expansion is unknown, write "[=?]". Later occurrences in the input stay as \
 they are. Abbreviations that are not in the list: leave them as they are.
-Abbreviation list for this page:
+Abbreviation list for this input:
 {abbrevs}
 - Roman numerals used as numbers become Arabic numerals: "p. XXXIX" -> "p. 39". A Roman volume, book or chapter number before a page or folio number becomes "number, page" as the author writes elsewhere: "Robinson I 346. III 221" -> "Robinson 1, 346. 3, 221", "Gal. VI 644" -> "Gal. 6, 644", "jKil. I 27^{{a}}" -> "jKil. 1, 27^{{a}}", "E. Wiedem. XLIX 19" -> "E. Wiedem. 49, 19". Keep Roman numerals that are part of a name or title (e.g. Pius XII).
 - Keep <i> tags around italic words; you may move them to fit the English word order.
@@ -61,6 +61,8 @@ Abbreviation list for this page:
 hyphenated at a line end. Keep _{{..}} and ^{{..}} markup.
 - A block may start or end in the middle of a sentence (the text continues from the previous \
 page or on the next); translate the fragment as a fragment.
+- Page markers such as "[p. 194]" mark where a printed page begins: keep each one, unchanged, \
+at the corresponding place in the English.
 
 Return JSON: {{"blocks": [{{"type": ..., "marker": ..., "text": ...}}]}}.
 
@@ -100,12 +102,13 @@ def add_hebrew_letters(text: str) -> str:
     return SYRIAC_RUN.sub(lambda m: f"{m.group(0)} [{syriac_to_hebrew(m.group(0))}]", text)
 
 
-def abbrev_rows(page_key: str) -> str:
+def abbrev_rows(page_keys: str | list[str]) -> str:
+    keys = [page_keys] if isinstance(page_keys, str) else page_keys
     table = DATA.parent / "abbreviations.json"
     if not table.exists():
         return "(none)"
     rows = [r for r in json.loads(table.read_text(encoding="utf-8"))["items"].values()
-            if page_key in r["pages"]]
+            if any(k in r["pages"] for k in keys)]
     return "\n".join(f"- {r['abbr']} = {r['expansion'] if r['basis'] != 'unknown' else '?'}"
                      for r in rows) or "(none)"
 

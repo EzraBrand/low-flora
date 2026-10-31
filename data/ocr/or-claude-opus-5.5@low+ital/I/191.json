@@ -1,0 +1,477 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Arabische Anacardiaceae — Pistacia — Pistacia Terebinthus",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Arabische Anacardiaceae — Pistacia — Pistacia Terebinthus"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "191",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "191"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "7. P. mutica Fisch. et Mey., ohne arabische Bezeichnung bei\nSarre-Hzfld. 133 wie P. D.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "7. P. mutica Fisch. et Mey., ohne arabische Bezeichnung bei\nSarre-Hzfld. 133 wie P. D."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "translit",
+   "text": "8. P. Terebinthus L.: P. <i>buṭm</i>. Foureau: <i>beṭūm el-kifāne</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "8. P. Terebinthus L.: P. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭm</i>. "
+    },
+    {
+     "lang": "deu",
+     "text": "Foureau: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>beṭūm el-kifāne</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "9. P. T. var. Palaestina L., D. <i>buṭm</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "9. P. T. var. Palaestina L., D. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭm</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "translit",
+   "text": "10. P. vera L., Frucht: S. 36 <i>fustuḳ</i>. P. D. AS. 59 <i>fistuḳ</i>, <i>fustuḳ</i>,\n<i>ḳarmīdī beledī</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "10. P. vera L., Frucht: S. 36 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>fustuḳ</i>. "
+    },
+    {
+     "lang": "deu",
+     "text": "P. D. AS. 59 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>fistuḳ</i>, <i>fustuḳ</i>,\n<i>ḳarmīdī beledī</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "11. Rhus abyssinica H., S. 170 <i>t̲uēleb</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "11. Rhus abyssinica H., S. 170 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>t̲uēleb</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "translit",
+   "text": "12. R. coriaria L., P. D. S. 40 <i>simmāḳ</i>, <i>summāḳ</i>, <i>simāḳ</i>, <i>sumāḳ</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "12. R. coriaria L., P. D. S. 40 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>simmāḳ</i>, <i>summāḳ</i>, <i>simāḳ</i>, <i>sumāḳ</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "translit",
+   "text": "13. R. glaucescens R., S. 170 <i>gumäʿ</i>, <i>ʿammet el-heis</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "13. R. glaucescens R., S. 170 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>gumäʿ</i>, <i>ʿammet el-heis</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "14. (Rhus) Heeria insignis O. Uze S. 166 <i>ruäḏ</i>, <i>t̲élaba</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "14. (Rhus) Heeria insignis O. Uze S. 166 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ruäḏ</i>, <i>t̲élaba</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "15. R. oxyacantha Cav., S. 40 <i>ʿern</i>. 204 <i>gedari, lekḳ</i>. Burton 274.\n<i>ʿarʿar</i>. Frucht: ZDMG. 65, 347 زمّع. Syn.: R. oxyacanthoides Dum.\nCours. AS. 59: <i>ʿauseǵ</i> (?), <i>ʿerin</i>, <i>ʿern</i>. D: <i>ʿarr</i> (= ZDPV. 28, 174:\nStrauch).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "15. R. oxyacantha Cav., S. 40 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʿern</i>. "
+    },
+    {
+     "lang": "deu",
+     "text": "204 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>gedari, lekḳ</i>. "
+    },
+    {
+     "lang": "deu",
+     "text": "Burton 274.\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʿarʿar</i>. "
+    },
+    {
+     "lang": "deu",
+     "text": "Frucht: ZDMG. 65, 347 "
+    },
+    {
+     "lang": "ara",
+     "text": "زمّع"
+    },
+    {
+     "lang": "deu",
+     "text": ". Syn.: R. oxyacanthoides Dum.\nCours. AS. 59: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʿauseǵ</i> "
+    },
+    {
+     "lang": "deu",
+     "text": "(?), "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʿerin</i>, <i>ʿern</i>. "
+    },
+    {
+     "lang": "deu",
+     "text": "D: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʿarr</i> "
+    },
+    {
+     "lang": "deu",
+     "text": "(= ZDPV. 28, 174:\nStrauch)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "16. R. retinorrhoea St., S. 170 <i>t̲álub</i>, <i>t̲alab</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "16. R. retinorrhoea St., S. 170 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>t̲álub</i>, <i>t̲alab</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "17. R. seneb Forsk., S. 151 <i>seneb</i>, <i>bajāḏ</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "17. R. seneb Forsk., S. 151 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>seneb</i>, <i>bajāḏ</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "18. R. thyrsiflora (allophylis?), Soc. 107. 120 <i>ssókhen</i>, <i>surīf</i>, <i>zórof</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "18. R. thyrsiflora (allophylis?), Soc. 107. 120 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ssókhen</i>, <i>surīf</i>, <i>zórof</i>."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "19. Schinus molle L., AS. 59. S. 41 <i>šeǵeret el-filfil</i> (= D; bei\nAS. auch: S. terebinthifolia L.), <i>filfil maltī</i>. Modernes Palästina-\nhebräisch: הפלפל המדומה (Hasade 2, 97. Bodenheimer, kĕnīmōt ha-\nmāgēn 7. 12: S. terebinthifolius L.): Scheinpfeffer, Faux poivrier.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "19. Schinus molle L., AS. 59. S. 41 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>šeǵeret el-filfil</i> "
+    },
+    {
+     "lang": "deu",
+     "text": "(= D; bei\nAS. auch: S. terebinthifolia L.), "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>filfil maltī</i>. "
+    },
+    {
+     "lang": "deu",
+     "text": "Modernes Palästina-\nhebräisch: "
+    },
+    {
+     "lang": "heb",
+     "text": "הפלפל המדומה"
+    },
+    {
+     "lang": "deu",
+     "text": " (Hasade 2, 97. Bodenheimer, "
+    },
+    {
+     "lang": "translit",
+     "text": "kĕnīmōt ha-\nmāgēn"
+    },
+    {
+     "lang": "deu",
+     "text": " 7. 12: S. terebinthifolius L.): Scheinpfeffer, "
+    },
+    {
+     "lang": "fra",
+     "text": "Faux poivrier."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "20. Semecarpus Anacardium L. fil., Frucht S. 5 <i>ḥabb el-belādir</i>.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "20. Semecarpus Anacardium L. fil., Frucht S. 5 "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ḥabb el-belādir</i>."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "b) Pistacia.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "b) Pistacia."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Im Gebiet: P. Lentiscus L., P. mutica Fisch. et Mey., P. Te-\nrebinthus L. und var. Palaestina Engl. (= P. Palaestina Boiss.)\nP. felsige Abhänge bei Brummana im Libanon (Bornmüller 30), P.\nvera L. B. Zisik gibt folgende ph-Bezeichnungen: P. Lentiscus L.\nשיח לוט (nach B. r. 91, 11). P. Palaestina Boiss. אֵלָה (arab. <i>buṭm</i>);\nP. mutica Fisch. et Mey. בטמה; P. vera L. בטנה (arab. <i>fistuḳ</i>) (Ha-\nsade 6, 206).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Im Gebiet: P. Lentiscus L., P. mutica Fisch. et Mey., P. Te-\nrebinthus L. und var. Palaestina Engl. (= P. Palaestina Boiss.)\nP. felsige Abhänge bei Brummana im Libanon (Bornmüller 30), P.\nvera L. B. Zisik gibt folgende ph-Bezeichnungen: P. Lentiscus L.\n"
+    },
+    {
+     "lang": "heb",
+     "text": "שיח לוט"
+    },
+    {
+     "lang": "deu",
+     "text": " (nach B. r. 91, 11). P. Palaestina Boiss. "
+    },
+    {
+     "lang": "heb",
+     "text": "אֵלָה"
+    },
+    {
+     "lang": "deu",
+     "text": " (arab. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ");\nP. mutica Fisch. et Mey. "
+    },
+    {
+     "lang": "heb",
+     "text": "בטמה"
+    },
+    {
+     "lang": "deu",
+     "text": "; P. vera L. "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנה"
+    },
+    {
+     "lang": "deu",
+     "text": " (arab. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>fistuḳ</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ") (Ha-\nsade 6, 206)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "1. Pistacia Terebinthus L. Terebinthe; Terpentinbaum.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "1. Pistacia Terebinthus L. Terebinthe; Terpentinbaum."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Terebinth, merges by imperceptible gradations into var. Palaes-\ntina Engl., who is more common in our district then type. Rocky-\nplaces and hillsides (Post 206. Bornm. 30). Die Terebinthe, <i>buṭum</i>,\nist der eigentliche Baum des Hochlandes, unter dessen mächtiger\nKrone man gern im Schatten ruht (Musil 3, 15). Der Baum ist\nübrigens nicht ausnahmslos immergrün (Fonck 48). Die Terebinthe\nist auf dem Gebirge Juda nicht sehr häufig, wohl aber westlich\nvon Nazareth im Walde und in den Karmelwaldungen (ZDPV. 8,\n104. 108. 110). Sie ist im südlichen und mittlern Syrien ziemlich",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "eng",
+     "text": "Terebinth, merges by imperceptible gradations into var. Palaes-\ntina Engl., who is more common in our district then type. Rocky-\nplaces and hillsides "
+    },
+    {
+     "lang": "deu",
+     "text": "(Post 206. Bornm. 30). Die Terebinthe, "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭum</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nist der eigentliche Baum des Hochlandes, unter dessen mächtiger\nKrone man gern im Schatten ruht (Musil 3, 15). Der Baum ist\nübrigens nicht ausnahmslos immergrün (Fonck 48). Die Terebinthe\nist auf dem Gebirge Juda nicht sehr häufig, wohl aber westlich\nvon Nazareth im Walde und in den Karmelwaldungen (ZDPV. 8,\n104. 108. 110). Sie ist im südlichen und mittlern Syrien ziemlich"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2900,
+    2922
+   ],
+   [
+    2900,
+    2610
+   ]
+  ],
+  "input_tokens": 11116,
+  "output_tokens": 2981,
+  "cost_usd": 0.1041,
+  "seconds": 36.8
+ }
+}

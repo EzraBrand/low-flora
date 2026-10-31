@@ -6,6 +6,10 @@ against hand-corrected pages, and translate them into English.
 
 ## Read the results
 
+**A whole entry:** [Pistacia, Bd. I pp. 191–200, in English](data/entries/pistacia/en.md)
+(and the [joined German text](data/entries/pistacia/de.md)): ten pages joined into continuous
+text, with page markers, footnotes by page, and abbreviations opened.
+
 The current outputs for the main-text pages: the scan (Frankfurt viewer), the transcription
 (Claude Opus 5.5, with italics), and the English translation (rules v2, see
 [Translation](#translation)). **Start with Bd. I p. 194**: its transcription was checked by hand
@@ -76,6 +80,7 @@ uv run eval.py draft I/194 --from "or-claude-opus-5.5@low"   # start a gold page
 uv run eval.py                                         # CER table
 
 uv run translate.py --main                             # English, all main-text pages
+uv run entry.py pistacia                               # one whole entry, pages joined, in English
 uv run translate.py I/194 --model google/gemini-3.1-pro-preview --effort low
 ```
 
@@ -123,7 +128,7 @@ punctuation, spaces), each error counts for the script of the gold character it 
 | IV | 650 | 634 | Index, Latin/Greek names |
 | IV | 700 | 684 | Index, dense Hebrew/Aramaic |
 | IV | 747 | 731 | Abbreviations, first page |
-| I | 213–217 | 193–197 | Pistacia Terebinthus / Lentiscus: Hebrew, Aramaic, Syriac (Estrangela), Arabic, Greek, footnotes |
+| I | 211–220 | 191–200 | The whole Pistacia entry (Terebinthus, Lentiscus, vera): Hebrew, Aramaic, Syriac (Estrangela), Arabic, Greek, footnotes |
 | II | 307 | 289 | Olea: Hebrew verbs, footnote |
 | III | 301 | 287 | Citrus (etrog): rabbinic sources, Hebrew, Persian |
 
@@ -146,6 +151,22 @@ exists, else the OCR (default `or-claude-opus-5.5@low+ital`). Rules (since 31-Oc
   by the model, guided by the table (see Notes).
 - **Roman numerals** become Arabic numerals: `p. XXXIX` → `p. 39`, `Robinson I 346` → `Robinson 1, 346`.
 - Lines are joined and end-of-line hyphenation is undone.
+
+### Whole entries
+
+`entry.py` joins the pages of one entry (configured in `ENTRIES`: volume, pages, a start and an
+end heading) into continuous text and translates it in chunks of whole paragraphs (about 6,000
+characters each), with the same rules. Per page the source is the gold text if it exists, else
+the OCR. Running heads are dropped; `[p. N]` marks where page N begins, also inside a paragraph
+that runs over the page break; footnotes are listed after the text, grouped by page.
+Output: `data/entries/{entry}/de.md` (joined German) and `en.md` (English), plus `.json`.
+
+A paragraph is taken to continue on the next page when the page ends without sentence-final
+punctuation. This fails for a page that ends with an abbreviation or a closing bracket mid-sentence
+(e.g. "(3.—4. Jh.)" at the end of Bd. I p. 196), so each entry has a `continue` / `break` list,
+checked by eye.
+
+### Output folders
 
 Output: `data/translation/{model}@{effort}-{rules version}/{vol}/{page}.json` and `.md`
 (footnotes at the end). The rules version is `RULES_VERSION` in `translate.py`; change it when

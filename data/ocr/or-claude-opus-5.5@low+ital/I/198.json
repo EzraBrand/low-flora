@@ -1,0 +1,325 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "198",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "198"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Anacardiaceae",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Anacardiaceae"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "medizinische Verwendung nach Diosk. בוטנים לכל מיניהם bezeichnet\nbei ihm alle Arten der Pistacia, für deren Öle er p. 141 die medi-\nzinische Verwendung nach Diosk. angibt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "medizinische Verwendung nach Diosk. "
+    },
+    {
+     "lang": "heb",
+     "text": "בוטנים לכל מיניהם"
+    },
+    {
+     "lang": "deu",
+     "text": " bezeichnet\nbei ihm alle Arten der Pistacia, für deren Öle er p. 141 die medi-\nzinische Verwendung nach Diosk. angibt."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Syrisch: Texte: Dan. 10, 54 Hex. Bugat n. S. 116: σχῖνος ist\nder Baum, der ܒܛܡܐ hervorbringt (ZDMG. 3, 411). Die Hex. hat\nMicha 6, 5 für TW. שטים: ܣܩܝܢܘܣ Middeldorpf z. St.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Syrisch: Texte: Dan. 10, 54 Hex. Bugat n. S. 116: "
+    },
+    {
+     "lang": "grc",
+     "text": "σχῖνος"
+    },
+    {
+     "lang": "deu",
+     "text": " ist\nder Baum, der "
+    },
+    {
+     "lang": "syc",
+     "text": "ܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " hervorbringt (ZDMG. 3, 411). Die Hex. hat\nMicha 6, 5 für TW. "
+    },
+    {
+     "lang": "heb",
+     "text": "שטים"
+    },
+    {
+     "lang": "deu",
+     "text": ": "
+    },
+    {
+     "lang": "syc",
+     "text": "ܣܩܝܢܘܣ"
+    },
+    {
+     "lang": "deu",
+     "text": " Middeldorpf z. St."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "ܒܛܡܐ (syr. auch Ǵezzār = كيا Sha 1756^{c}) = مصطكى BB. 1383\nn. 19. Gal.-Üb. 281 List: μαστίχη: Aßaf מסטיכין = lentiscus = איסקינוס.\nHonein σχῖνος ܐܝܠܢܐ ܕܒܛܡܐ und σχίνινον Öl. Diosk. I 54. 718 Spr.\nܡܫܚܐ ܕܒܛܡܐ. Wein: ܥܣܘܪܐ ܕܒܛܡ ܐܝܠܢܐ ܕܒܛܡܐ. PSm. 2179.\n2239 f. ܡܫܚܐ ܕܒܛܡܘܬܐ BB. 1167 دهن الضرو lies ܕܒܛܡܐ.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "syc",
+     "text": "ܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " (syr. auch "
+    },
+    {
+     "lang": "translit",
+     "text": "Ǵezzār"
+    },
+    {
+     "lang": "deu",
+     "text": " = "
+    },
+    {
+     "lang": "ara",
+     "text": "كيا"
+    },
+    {
+     "lang": "deu",
+     "text": " Sha 1756^{c}) = "
+    },
+    {
+     "lang": "ara",
+     "text": "مصطكى"
+    },
+    {
+     "lang": "deu",
+     "text": " BB. 1383\nn. 19. Gal.-Üb. 281 List: "
+    },
+    {
+     "lang": "grc",
+     "text": "μαστίχη"
+    },
+    {
+     "lang": "deu",
+     "text": ": Aßaf "
+    },
+    {
+     "lang": "heb",
+     "text": "מסטיכין"
+    },
+    {
+     "lang": "deu",
+     "text": " = lentiscus = "
+    },
+    {
+     "lang": "heb",
+     "text": "איסקינוס"
+    },
+    {
+     "lang": "deu",
+     "text": ".\nHonein "
+    },
+    {
+     "lang": "grc",
+     "text": "σχῖνος"
+    },
+    {
+     "lang": "deu",
+     "text": " "
+    },
+    {
+     "lang": "syc",
+     "text": "ܐܝܠܢܐ ܕܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "grc",
+     "text": "σχίνινον"
+    },
+    {
+     "lang": "deu",
+     "text": " Öl. Diosk. I 54. 718 Spr.\n"
+    },
+    {
+     "lang": "syc",
+     "text": "ܡܫܚܐ ܕܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": ". Wein: "
+    },
+    {
+     "lang": "syc",
+     "text": "ܥܣܘܪܐ ܕܒܛܡ ܐܝܠܢܐ ܕܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": ". PSm. 2179.\n2239 f. "
+    },
+    {
+     "lang": "syc",
+     "text": "ܡܫܚܐ ܕܒܛܡܘܬܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " BB. 1167 "
+    },
+    {
+     "lang": "ara",
+     "text": "دهن الضرو"
+    },
+    {
+     "lang": "deu",
+     "text": " lies "
+    },
+    {
+     "lang": "syc",
+     "text": "ܕܒܛܡܐ"
+    },
+    {
+     "lang": "deu",
+     "text": "."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "3. Pistacia vera L. Echte Pistazie. Irrig <i>boṭnā</i> Hasade 6, 206.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "3. "
+    },
+    {
+     "lang": "lat",
+     "text": "Pistacia vera L."
+    },
+    {
+     "lang": "deu",
+     "text": " Echte Pistazie. Irrig "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnā</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " Hasade 6, 206."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die echte Pistazie wächst heute in Syrien wild (Hehn^{8} 429).\nÜber ihre asiatische Verbreitung hat Ritter 11, 561 ausführlich ge-\nhandelt (Schrader RL. 863).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die echte Pistazie wächst heute in Syrien wild (Hehn^{8} 429).\nÜber ihre asiatische Verbreitung hat Ritter 11, 561 ausführlich ge-\nhandelt (Schrader RL. 863)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Theophrast (st. 280 v. C.) beschreibt eine Terebinthenart, die\nin Baktrien vorkommt und meint die echte Pistazie, deren Namen\ner aber noch nicht kennt. Erst Nikander, 150 v. C., nennt die Pis-\ntazie, die am indischen Strome Choaspes wächst. Die syrischen\nPistazien erwähnt erst Posidonius (um 135—150 v. C.), aus Apamea\nin Syrien als „sogenannte“ Pistazien (βιστάκιον). Auch Diosk., Plinius\nund Galen kennen die syrischen Pistaziennüsse unter dem Namen\npistakion. Galen rühmt schon die Pistazien Aleppos (Beroe’s), wo\nder Baum heute noch vielfach kultiviert wird. Die aus dem Pis-\ntazienhain bei Herat (Ritter 8, 247) stammenden sind zarter und\nmit dem Finger leichter zu öffnen (17, 1727 f.). Außer Aleppo sind\nsie am häufigsten bei Beirut, Tripolis, Baalbek und Damaskus und\nin Rūm kalʿa am Eufrat (ZDPV. 11, 93). Nach Edrīzī führt maʿarra\nnach allen syrischen Landen viel Pistazien aus (Ritter 8, 138).\nÜber den heutigen Handel in Syrien berichtet Südenhorst, Syrien\n28. Hiezu kommt, daß auch die mišnische Zeit den entlehnten\nNamen <i>pistaḳin</i> gebraucht und die Frucht als ausländisch bezeichnet.\nDaraus folgt, daß <i>boṭnīm</i> der Patriarchenzeit nicht die Pistazien\nmeint. Wenn man für die Bedeutung Pistazie das assyr. <i>buṭnu</i>\n(Zimmern, AF. 54) anführt, so beweist dies nichts, denn nach\nDelitzsch HWB. 171 ist dies ein Baum, dessen Holz zu Palast-\nbauten verwendet wurde, wird also wohl eine andere Pistazie, etwa\ndie P. Khinjuk Stocks der vorderasiatischen Steppen oder P. mutica\nFisch. et Mey. des östlichen Mediterrangebietes von Kleinasien bis\nAfghanisten (Hehn 429) meinen.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Theophrast (st. 280 v. C.) beschreibt eine Terebinthenart, die\nin Baktrien vorkommt und meint die echte Pistazie, deren Namen\ner aber noch nicht kennt. Erst Nikander, 150 v. C., nennt die Pis-\ntazie, die am indischen Strome Choaspes wächst. Die syrischen\nPistazien erwähnt erst Posidonius (um 135—150 v. C.), aus Apamea\nin Syrien als „sogenannte“ Pistazien ("
+    },
+    {
+     "lang": "grc",
+     "text": "βιστάκιον"
+    },
+    {
+     "lang": "deu",
+     "text": "). Auch Diosk., Plinius\nund Galen kennen die syrischen Pistaziennüsse unter dem Namen\npistakion. Galen rühmt schon die Pistazien Aleppos (Beroe’s), wo\nder Baum heute noch vielfach kultiviert wird. Die aus dem Pis-\ntazienhain bei Herat (Ritter 8, 247) stammenden sind zarter und\nmit dem Finger leichter zu öffnen (17, 1727 f.). Außer Aleppo sind\nsie am häufigsten bei Beirut, Tripolis, Baalbek und Damaskus und\nin Rūm kalʿa am Eufrat (ZDPV. 11, 93). Nach Edrīzī führt maʿarra\nnach allen syrischen Landen viel Pistazien aus (Ritter 8, 138).\nÜber den heutigen Handel in Syrien berichtet Südenhorst, Syrien\n28. Hiezu kommt, daß auch die mišnische Zeit den entlehnten\nNamen "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>pistaḳin</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " gebraucht und die Frucht als ausländisch bezeichnet.\nDaraus folgt, daß "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " der Patriarchenzeit nicht die Pistazien\nmeint. Wenn man für die Bedeutung Pistazie das assyr. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭnu</i>"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(Zimmern, AF. 54) anführt, so beweist dies nichts, denn nach\nDelitzsch HWB. 171 ist dies ein Baum, dessen Holz zu Palast-\nbauten verwendet wurde, wird also wohl eine andere Pistazie, etwa\ndie P. Khinjuk Stocks der vorderasiatischen Steppen oder P. mutica\nFisch. et Mey. des östlichen Mediterrangebietes von Kleinasien bis\nAfghanisten (Hehn 429) meinen."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2960,
+    3306
+   ],
+   [
+    2960,
+    2206
+   ]
+  ],
+  "input_tokens": 11075,
+  "output_tokens": 2521,
+  "cost_usd": 0.0947,
+  "seconds": 32.2
+ }
+}

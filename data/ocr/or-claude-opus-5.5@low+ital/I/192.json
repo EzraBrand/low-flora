@@ -1,0 +1,345 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "192",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "192"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Anacardiaceae",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Anacardiaceae"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "verbreitet. Ein großer Baum im Nordwesten von Jerusalem: neben\nden rohen Früchten eine Menge schöner Auswüchse, wie rote Ko-\nrallen, vom Schmarotzer Viscum cruciatum (13, 223).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "verbreitet. Ein großer Baum im Nordwesten von Jerusalem: neben\nden rohen Früchten eine Menge schöner Auswüchse, wie rote Ko-\nrallen, vom Schmarotzer "
+    },
+    {
+     "lang": "lat",
+     "text": "Viscum cruciatum"
+    },
+    {
+     "lang": "deu",
+     "text": " (13, 223)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Bh. <i>ʾēlā</i>,*) nom. unit. von <i>ʾēlīm</i>. So die alten Übersetzer.**) Es\nliegt kein Grund vor, an dieser offenbar traditionellen Erklärung\nzu zweifeln. Auch das moderne Palästinahebräisch hält an dieser\nBedeutung fest (Hasade 1, 3, 32 — 4, 391).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Bh. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʾēlā</i>,"
+    },
+    {
+     "lang": "deu",
+     "text": "*) nom. unit. von "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʾēlīm</i>."
+    },
+    {
+     "lang": "deu",
+     "text": " So die alten Übersetzer.**) Es\nliegt kein Grund vor, an dieser offenbar traditionellen Erklärung\nzu zweifeln. Auch das moderne Palästinahebräisch hält an dieser\nBedeutung fest (Hasade 1, 3, 32 — 4, 391)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Abulwalīd folgt dem Targum: <i>buṭmā</i> und setzt dafür arabisch\n<i>buṭm</i>. Ihm folgt, wie immer, Parḥōn: <i>buṭmā</i>, ein hoher Baum, mit\nmyrtenbeerartigen, eßbaren Früchten. R. D. Kimḥī führt auch die\nirrige Meinung, es bedeute <i>olmo</i>, Ulme, an.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Abulwalīd folgt dem Targum: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭmā</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " und setzt dafür arabisch\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭm</i>."
+    },
+    {
+     "lang": "deu",
+     "text": " Ihm folgt, wie immer, Parḥōn: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭmā</i>,"
+    },
+    {
+     "lang": "deu",
+     "text": " ein hoher Baum, mit\nmyrtenbeerartigen, eßbaren Früchten. R. D. Kimḥī führt auch die\nirrige Meinung, es bedeute "
+    },
+    {
+     "lang": "ita",
+     "text": "<i>olmo</i>,"
+    },
+    {
+     "lang": "deu",
+     "text": " Ulme, an."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Terebinthe ist neben der Eiche der ansehnlichste Baum\nPalästinas und war darum Gegenstand des Baumkultus. Einzelnen\nExemplaren schrieb man außergewöhnliches Alter zu: eine bei\nHebron sollte so alt wie die Welt sein (Jos. bj. IV 9, 7). In nach-\nbiblischer Zeit zuerst bei Sirach (24, 16): Ich breitete meine Zweige\nwie eine Terebinthe aus.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Terebinthe ist neben der Eiche der ansehnlichste Baum\nPalästinas und war darum Gegenstand des Baumkultus. Einzelnen\nExemplaren schrieb man außergewöhnliches Alter zu: eine bei\nHebron sollte so alt wie die Welt sein (Jos. bj. IV 9, 7). In nach-\nbiblischer Zeit zuerst bei Sirach (24, 16): Ich breitete meine Zweige\nwie eine Terebinthe aus."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die Frucht heißt bh. בטנה,***) pl. בטנים. Man hat das Wort irrtüm-\nlich für Pistazie gehalten†) (RDK., Salomo Ibn Melech u. a.).\nBochart hat die Frage eingehend behandelt. Wetzstein hat sich\n(Pf. 420) für den Irrtum eingesetzt: „בטן ist biblisch Pistazie; die\nAraber und Juden haben den Namen auf Terebinthe übertragen.\nDie Frucht der Terebinthe ist in Palästina wertlos. Nur die ärmsten\nBauern mahlen sie auf der Handmühle, um Brennöl gratis zu haben.\nDie Frucht der Terebinthe ist nicht eßbar, weil niemand den erbsen-\ngroßen harten Kern knacken wird, um den linsengroßen Inhalt\nherauszuholen“.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die Frucht heißt bh. "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנה"
+    },
+    {
+     "lang": "deu",
+     "text": ",***) pl. "
+    },
+    {
+     "lang": "heb",
+     "text": "בטנים"
+    },
+    {
+     "lang": "deu",
+     "text": ". Man hat das Wort irrtüm-\nlich für Pistazie gehalten†) (RDK., Salomo Ibn Melech u. a.).\nBochart hat die Frage eingehend behandelt. Wetzstein hat sich\n(Pf. 420) für den Irrtum eingesetzt: „"
+    },
+    {
+     "lang": "heb",
+     "text": "בטן"
+    },
+    {
+     "lang": "deu",
+     "text": " ist biblisch Pistazie; die\nAraber und Juden haben den Namen auf Terebinthe übertragen.\nDie Frucht der Terebinthe ist in Palästina wertlos. Nur die ärmsten\nBauern mahlen sie auf der Handmühle, um Brennöl gratis zu haben.\nDie Frucht der Terebinthe ist nicht eßbar, weil niemand den erbsen-\ngroßen harten Kern knacken wird, um den linsengroßen Inhalt\nherauszuholen“."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Wetzstein irrt. Die erbsengroßen Beeren, <i>ḳḍāma</i>, werden, wenn\nsie rot und reif sind, gesammelt und gegessen (Musil 3, 15). Man\nmacht Speiseöl, nicht nur Brennöl, daraus (ZDPV. 14, 4n.: <i>bizr</i>",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Wetzstein irrt. Die erbsengroßen Beeren, "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ḳḍāma</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ", werden, wenn\nsie rot und reif sind, gesammelt und gegessen (Musil 3, 15). Man\nmacht Speiseöl, nicht nur Brennöl, daraus (ZDPV. 14, 4n.: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>bizr</i>"
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "<i>ʾēlōn mōre</i>, Terebinthe der Unterweisung Gn. 35, 4: <i>ʾēlōn meʿōnĕnīm</i>,\nTerebinthe der Orakelbefrager Ri. 9, 37. Jeremias ATAO^{3} 263.",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "translit",
+     "text": "<i>ʾēlōn mōre</i>,"
+    },
+    {
+     "lang": "deu",
+     "text": " Terebinthe der Unterweisung Gn. 35, 4: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʾēlōn meʿōnĕnīm</i>,"
+    },
+    {
+     "lang": "deu",
+     "text": "\nTerebinthe der Orakelbefrager Ri. 9, 37. Jeremias ATAO^{3} 263."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "אלי הצדק Jes. 61, 3 Terebinthe des Segens (Hitzig), Eichen (Kautzsch).\nIrrig Terebinthe für <i>bakaʾ</i>-Strauch, בכאים OLZ. 1912. 75.",
+   "marker": "**)",
+   "runs": [
+    {
+     "lang": "heb",
+     "text": "אלי הצדק"
+    },
+    {
+     "lang": "deu",
+     "text": " Jes. 61, 3 Terebinthe des Segens (Hitzig), Eichen (Kautzsch).\nIrrig Terebinthe für "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>bakaʾ</i>"
+    },
+    {
+     "lang": "deu",
+     "text": "-Strauch, "
+    },
+    {
+     "lang": "heb",
+     "text": "בכאים"
+    },
+    {
+     "lang": "deu",
+     "text": " OLZ. 1912. 75."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Etymolog. Spiel: sie heißen so, weil viele in einem <i>beṭen</i> sind (A. Ep-\nstein, Mikadmōnijjōt 126)! Bochart, Phaleg 420 beruft sich auf Dalechamps\n(st. 1588), der sagt: Pistacia, nuces ab una parte tumidiore et in angulum\ndesinente ventre protuberantes.",
+   "marker": "***)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Etymolog. Spiel: sie heißen so, weil viele in einem "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>beṭen</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " sind (A. Ep-\nstein, Mikadmōnijjōt 126)! Bochart, Phaleg 420 beruft sich auf Dalechamps\n(st. 1588), der sagt: "
+    },
+    {
+     "lang": "lat",
+     "text": "Pistacia, nuces ab una parte tumidiore et in angulum\ndesinente ventre protuberantes."
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Auch für pignuolo (RDK.), nocēli (Aruch), Haselnuß (Elia Levita).\nKaleb Afendopulo 16^{b} hält <i>botnīm</i> für einen Sammelnamen a) <i>iṣṭrubīlīn</i>, b) Pis-\ntazien, c) balania, <i>buṭm</i>, d) Kastanien.",
+   "marker": "†)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Auch für "
+    },
+    {
+     "lang": "ita",
+     "text": "pignuolo"
+    },
+    {
+     "lang": "deu",
+     "text": " (RDK.), "
+    },
+    {
+     "lang": "other",
+     "text": "nocēli"
+    },
+    {
+     "lang": "deu",
+     "text": " (Aruch), Haselnuß (Elia Levita).\nKaleb Afendopulo 16^{b} hält "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>botnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " für einen Sammelnamen a) "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>iṣṭrubīlīn</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ", b) Pis-\ntazien, c) balania, "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>buṭm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ", d) Kastanien."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2612,
+    2366
+   ],
+   [
+    2612,
+    3158
+   ]
+  ],
+  "input_tokens": 11087,
+  "output_tokens": 2543,
+  "cost_usd": 0.0952,
+  "seconds": 32.9
+ }
+}

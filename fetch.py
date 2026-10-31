@@ -31,7 +31,7 @@ SAMPLE = [
     ("IV", 650, "index"),          # p. 634: Latin/Greek names
     ("IV", 700, "index"),          # p. 684: dense Hebrew/Aramaic
     *[("IV", s, "abbreviations") for s in range(747, 757)],  # pp. 731-740: Löw's abbreviation list
-    *[("I", s, "entry") for s in range(213, 218)],  # pp. 193-197: Pistacia Terebinthus
+    *[("I", s, "entry") for s in range(211, 221)],  # pp. 191-200: the whole Pistacia entry
     ("II", 307, "entry"),          # p. 289: Olea, Hebrew verbs, footnote
     ("III", 301, "entry"),         # p. 287: Citrus (etrog), rabbinic sources
 ]

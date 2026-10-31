@@ -6,7 +6,12 @@
   "I/194",
   "I/195",
   "I/196",
-  "I/197"
+  "I/197",
+  "I/191",
+  "I/192",
+  "I/198",
+  "I/199",
+  "I/200"
  ],
  "items": {
   "jüd.": {
@@ -27,7 +32,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/193"
+    "I/193",
+    "I/199"
    ],
    "checked": false
   },
@@ -65,7 +71,9 @@
     "I/195",
     "I/196",
     "I/197",
-    "III/287"
+    "III/287",
+    "I/198",
+    "I/200"
    ],
    "checked": false
   },
@@ -77,7 +85,10 @@
    "list_entry": "",
    "pages": [
     "I/193",
-    "I/195"
+    "I/195",
+    "I/191",
+    "I/198",
+    "I/200"
    ],
    "checked": false
   },
@@ -88,7 +99,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/193"
+    "I/193",
+    "I/198"
    ],
    "checked": false
   },
@@ -157,7 +169,9 @@
     "I/193",
     "I/196",
     "I/197",
-    "II/289"
+    "II/289",
+    "I/199",
+    "I/200"
    ],
    "checked": false
   },
@@ -168,7 +182,8 @@
    "basis": "Löw list",
    "list_entry": "T = Toßefta ed. Zuckermandel.",
    "pages": [
-    "I/193"
+    "I/193",
+    "I/200"
    ],
    "checked": false
   },
@@ -203,7 +218,10 @@
    "list_entry": "",
    "pages": [
     "I/193",
-    "I/196"
+    "I/196",
+    "I/192",
+    "I/199",
+    "I/200"
    ],
    "checked": false
   },
@@ -236,7 +254,9 @@
    "basis": "Löw list",
    "list_entry": "Pf = Immanuel Löw, Aramäische Pflanzennamen. Leipzig 1881.",
    "pages": [
-    "I/193"
+    "I/193",
+    "I/192",
+    "I/199"
    ],
    "checked": false
   },
@@ -248,7 +268,8 @@
    "list_entry": "T = Toßefta ed. Zuckermandel.",
    "pages": [
     "I/193",
-    "II/289"
+    "II/289",
+    "I/200"
    ],
    "checked": false
   },
@@ -260,7 +281,8 @@
    "list_entry": "",
    "pages": [
     "I/193",
-    "III/287"
+    "III/287",
+    "I/200"
    ],
    "checked": false
   },
@@ -317,7 +339,11 @@
    "pages": [
     "I/193",
     "I/194",
-    "I/195"
+    "I/195",
+    "I/191",
+    "I/192",
+    "I/198",
+    "I/200"
    ],
    "checked": false
   },
@@ -386,7 +412,8 @@
    "pages": [
     "I/193",
     "I/197",
-    "II/289"
+    "II/289",
+    "I/191"
    ],
    "checked": false
   },
@@ -564,7 +591,9 @@
    "list_entry": "",
    "pages": [
     "I/193",
-    "III/287"
+    "III/287",
+    "I/191",
+    "I/200"
    ],
    "checked": false
   },
@@ -609,7 +638,9 @@
    "list_entry": "",
    "pages": [
     "I/193",
-    "I/196"
+    "I/196",
+    "I/199",
+    "I/200"
    ],
    "checked": false
   },
@@ -620,7 +651,10 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/194"
+    "I/194",
+    "I/191",
+    "I/199",
+    "I/200"
    ],
    "checked": false
   },
@@ -666,7 +700,8 @@
    "basis": "Löw list",
    "list_entry": "j = Jerusalemischer Talmud ed. Krotoschin.",
    "pages": [
-    "I/194"
+    "I/194",
+    "I/199"
    ],
    "checked": false
   },
@@ -678,7 +713,8 @@
    "list_entry": "",
    "pages": [
     "I/194",
-    "II/289"
+    "II/289",
+    "I/192"
    ],
    "checked": false
   },
@@ -689,7 +725,8 @@
    "basis": "Löw list",
    "list_entry": "Ly TW = ~~, Targumwörterbuch. I. II. Leipzig 1867.",
    "pages": [
-    "I/194"
+    "I/194",
+    "I/198"
    ],
    "checked": false
   },
@@ -780,7 +817,11 @@
    "list_entry": "Hasade = Hebr. landwirtschaftliche Monatschrift. Tel-Aviv 1921 ff.",
    "pages": [
     "I/194",
-    "I/195"
+    "I/195",
+    "I/191",
+    "I/192",
+    "I/198",
+    "I/200"
    ],
    "checked": false
   },
@@ -791,7 +832,9 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/194"
+    "I/194",
+    "I/198",
+    "I/199"
    ],
    "checked": false
   },
@@ -814,7 +857,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/194"
+    "I/194",
+    "I/198"
    ],
    "checked": false
   },
@@ -825,7 +869,9 @@
    "basis": "Löw list",
    "list_entry": "List = siehe B. Hebr. List.",
    "pages": [
-    "I/194"
+    "I/194",
+    "I/198",
+    "I/199"
    ],
    "checked": false
   },
@@ -869,7 +915,9 @@
    "basis": "Löw list",
    "list_entry": "PSm = R. Payne Smith, Thesaurus syriacus. Oxford 1879 ff.",
    "pages": [
-    "I/194"
+    "I/194",
+    "I/198",
+    "I/200"
    ],
    "checked": false
   },
@@ -892,7 +940,9 @@
    "list_entry": "Musil = ~, Arabia Petraea III.",
    "pages": [
     "I/194",
-    "I/195"
+    "I/195",
+    "I/191",
+    "I/192"
    ],
    "checked": false
   },
@@ -904,7 +954,8 @@
    "list_entry": "",
    "pages": [
     "I/194",
-    "I/197"
+    "I/197",
+    "I/199"
    ],
    "checked": false
   },
@@ -917,7 +968,8 @@
    "pages": [
     "I/194",
     "I/196",
-    "I/197"
+    "I/197",
+    "I/199"
    ],
    "checked": false
   },
@@ -942,7 +994,9 @@
    "pages": [
     "I/194",
     "I/195",
-    "I/196"
+    "I/196",
+    "I/198",
+    "I/199"
    ],
    "checked": false
   },
@@ -967,7 +1021,9 @@
     "I/194",
     "I/195",
     "I/196",
-    "III/287"
+    "III/287",
+    "I/198",
+    "I/199"
    ],
    "checked": false
   },
@@ -1012,7 +1068,10 @@
    "list_entry": "",
    "pages": [
     "I/194",
-    "II/289"
+    "II/289",
+    "I/191",
+    "I/198",
+    "I/200"
    ],
    "checked": false
   },
@@ -1046,7 +1105,8 @@
    "list_entry": "",
    "pages": [
     "I/194",
-    "I/195"
+    "I/195",
+    "I/199"
    ],
    "checked": false
   },
@@ -1203,7 +1263,8 @@
    "basis": "Löw list",
    "list_entry": "Hehn = Victor ~, Kulturpflanzen und Haustiere in ihrem Übergang aus Asien. 8. Aufl. Berlin 1911.",
    "pages": [
-    "I/195"
+    "I/195",
+    "I/198"
    ],
    "checked": false
   },
@@ -1335,7 +1396,8 @@
    "basis": "Löw list",
    "list_entry": "Ritter = Carl ~, Erdkunde von Asien.",
    "pages": [
-    "I/195"
+    "I/195",
+    "I/198"
    ],
    "checked": false
   },
@@ -1347,7 +1409,9 @@
    "list_entry": "",
    "pages": [
     "I/195",
-    "I/197"
+    "I/197",
+    "I/199",
+    "I/200"
    ],
    "checked": false
   },
@@ -1358,7 +1422,8 @@
    "basis": "Löw list",
    "list_entry": "Bodenheimer = ~, Kĕnīmat hamāgēn.",
    "pages": [
-    "I/195"
+    "I/195",
+    "I/191"
    ],
    "checked": false
   },
@@ -1369,7 +1434,9 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/195"
+    "I/195",
+    "I/191",
+    "I/198"
    ],
    "checked": false
   },
@@ -1402,7 +1469,9 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/192",
+    "I/198"
    ],
    "checked": false
   },
@@ -1424,7 +1493,8 @@
    "basis": "Löw list",
    "list_entry": "Tschirch = A. ~, Entstehung der Pflanzen- uud Drogennamen; und auch: Handbuch der Pharmakognosie. I-III. Leipzig 1909-1923.",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/199"
    ],
    "checked": false
   },
@@ -1447,7 +1517,10 @@
    "list_entry": "ZDMG = Zeitschrift der Deutschen Morgenländischen Gesellschaft.",
    "pages": [
     "I/196",
-    "I/197"
+    "I/197",
+    "I/191",
+    "I/198",
+    "I/199"
    ],
    "checked": false
   },
@@ -1492,7 +1565,8 @@
    "list_entry": "",
    "pages": [
     "I/196",
-    "III/287"
+    "III/287",
+    "I/200"
    ],
    "checked": false
   },
@@ -1558,7 +1632,8 @@
    "basis": "Löw list",
    "list_entry": "Kaftor waf. = Estori ha-Farḥi, Kaftor waferaḥ. Ed. Venedig 1549, ed. Edelmann, Berlin 1852, ed. Luncz, Jerusalem 1899.",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/200"
    ],
    "checked": false
   },
@@ -1580,7 +1655,9 @@
    "basis": "unknown",
    "list_entry": "",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/199",
+    "I/200"
    ],
    "checked": false
   },
@@ -1604,7 +1681,8 @@
    "list_entry": "",
    "pages": [
     "I/196",
-    "I/197"
+    "I/197",
+    "I/200"
    ],
    "checked": false
   },
@@ -1738,7 +1816,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/192"
    ],
    "checked": false
   },
@@ -1750,7 +1829,8 @@
    "list_entry": "",
    "pages": [
     "I/196",
-    "II/289"
+    "II/289",
+    "I/200"
    ],
    "checked": false
   },
@@ -1761,7 +1841,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/200"
    ],
    "checked": false
   },
@@ -1862,7 +1943,9 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/192",
+    "I/200"
    ],
    "checked": false
   },
@@ -1906,7 +1989,9 @@
    "basis": "Löw list",
    "list_entry": "RDK = r. David Ḳimḥī.",
    "pages": [
-    "I/197"
+    "I/197",
+    "I/192",
+    "I/200"
    ],
    "checked": false
   },
@@ -1939,7 +2024,8 @@
    "basis": "Löw list",
    "list_entry": "Diosk . . . Spr. = Dioskurides ed. Sprengel.",
    "pages": [
-    "I/197"
+    "I/197",
+    "I/198"
    ],
    "checked": false
   },
@@ -1950,7 +2036,8 @@
    "basis": "Löw list",
    "list_entry": "Diosk . . . Spr. = Dioskurides ed. Sprengel.",
    "pages": [
-    "I/197"
+    "I/197",
+    "I/198"
    ],
    "checked": false
   },
@@ -2027,7 +2114,8 @@
    "basis": "Löw list",
    "list_entry": "Aßaf Venetianer = Ludwig Venetianer, Asaf Judaeus, Straßburg. I. II. 1916/17. Siehe oben p. 167.",
    "pages": [
-    "I/197"
+    "I/197",
+    "I/198"
    ],
    "checked": false
   },
@@ -2049,7 +2137,9 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/197"
+    "I/197",
+    "I/198",
+    "I/199"
    ],
    "checked": false
   },
@@ -2060,7 +2150,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/197"
+    "I/197",
+    "I/199"
    ],
    "checked": false
   },
@@ -2159,7 +2250,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "II/289"
+    "II/289",
+    "I/199"
    ],
    "checked": false
   },
@@ -2203,7 +2295,10 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "II/289"
+    "II/289",
+    "I/192",
+    "I/198",
+    "I/200"
    ],
    "checked": false
   },
@@ -2269,7 +2364,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "II/289"
+    "II/289",
+    "I/200"
    ],
    "checked": false
   },
@@ -2280,7 +2376,8 @@
    "basis": "Löw list",
    "list_entry": "REJ = Revue des Etudes Juives. Paris 1880 ff.",
    "pages": [
-    "II/289"
+    "II/289",
+    "I/200"
    ],
    "checked": false
   },
@@ -2589,7 +2686,9 @@
    "list_entry": "BB = Bar Bahlūl ed. Duval. Paris 1896-1901.",
    "pages": [
     "I/194",
-    "I/195"
+    "I/195",
+    "I/198",
+    "I/199"
    ],
    "checked": false
   },
@@ -2612,7 +2711,11 @@
    "list_entry": "",
    "pages": [
     "I/195",
-    "I/196"
+    "I/196",
+    "I/191",
+    "I/198",
+    "I/199",
+    "I/200"
    ],
    "checked": false
   },
@@ -2656,7 +2759,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/195"
+    "I/195",
+    "I/198"
    ],
    "checked": false
   },
@@ -2678,7 +2782,8 @@
    "basis": "general knowledge",
    "list_entry": "",
    "pages": [
-    "I/196"
+    "I/196",
+    "I/192"
    ],
    "checked": false
   },
@@ -2701,6 +2806,1255 @@
    "list_entry": "Aßaf Venetianer = Ludwig Venetianer, Asaf Judaeus, Straßburg. I. II. 1916/17. Siehe oben p. 167.",
    "pages": [
     "I/197"
+   ],
+   "checked": false
+  },
+  "Sarre-Hzfld.": {
+   "abbr": "Sarre-Hzfld.",
+   "kind": "bibliography",
+   "expansion": "Friedrich Sarre and Ernst Herzfeld, Archäologische Reise im Euphrat- und Tigris-Gebiet, Berlin 1911-1920",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "D.": {
+   "abbr": "D.",
+   "kind": "bibliography",
+   "expansion": "J. E. Dinsmore, Die Pflanzen Palästinas, Leipzig 1911",
+   "basis": "Löw list",
+   "list_entry": "D = J. E. Dinsmore, Die Pflanzen Palästinas. Leipzig 1911.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Foureau": {
+   "abbr": "Foureau",
+   "kind": "bibliography",
+   "expansion": "F. Foureau, Essai de catalogue des noms arabes et berbères de quelques plantes etc. cultivées en Algérie, Paris 1896",
+   "basis": "Löw list",
+   "list_entry": "Foureau = (F.) = ~, Essai de catal. des noms arabes et berbères de quelques plantes etc. cult. en Algérie. Paris 1896.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "var.": {
+   "abbr": "var.",
+   "kind": "general",
+   "expansion": "varietas (variety)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "AS.": {
+   "abbr": "AS.",
+   "kind": "bibliography",
+   "expansion": "Ascherson and Schweinfurth, Illustration de la Flore d'Egypte, Le Caire 1887, Supplément 1889",
+   "basis": "Löw list",
+   "list_entry": "AS = Ascherson und Schweinfurth, Illustration de la Flore d'Egypte. Le Caire 1887. Supplément 1889.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "H.": {
+   "abbr": "H.",
+   "kind": "bibliography",
+   "expansion": "Christian Ferdinand Hochstetter (botanical author)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "O. Uze": {
+   "abbr": "O. Uze",
+   "kind": "bibliography",
+   "expansion": "Otto Kuntze (botanical author, O. Ktze.; OCR garbled)",
+   "basis": "unknown",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Cav.": {
+   "abbr": "Cav.",
+   "kind": "bibliography",
+   "expansion": "Antonio José Cavanilles (botanical author)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Burton": {
+   "abbr": "Burton",
+   "kind": "bibliography",
+   "expansion": "Richard F. Burton, The Land of Midian (revisited), London 1879, vol. II, Appendix IV: Botany",
+   "basis": "Löw list",
+   "list_entry": "Burton = Richard F. ~, The Land of Midian (revisited), London 1879. I. II. Vol. II. Appendix IV.: Botany and a list of insects p. 273. Section I. Prof. D. Olivers List of dried plants presented by Captain Burton to the Herbarium, Royal Gardens, Kew, September 1879.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Syn.": {
+   "abbr": "Syn.",
+   "kind": "general",
+   "expansion": "synonym",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Dum. Cours.": {
+   "abbr": "Dum. Cours.",
+   "kind": "bibliography",
+   "expansion": "Georges Louis Marie Dumont de Courset (botanical author)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "St.": {
+   "abbr": "St.",
+   "kind": "bibliography",
+   "expansion": "Ernst Gottlieb von Steudel (botanical author)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Forsk.": {
+   "abbr": "Forsk.",
+   "kind": "bibliography",
+   "expansion": "Peter Forsskål, Flora aegyptiaco-arabica, Hauniae 1775",
+   "basis": "Löw list",
+   "list_entry": "Forsk. = Forskal, Flora aegyptiaco-arabica. Hauniae 1775.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Soc.": {
+   "abbr": "Soc.",
+   "kind": "bibliography",
+   "expansion": "Isaac Bayley Balfour, Botany of Socotra, Edinburgh 1888",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "L. fil.": {
+   "abbr": "L. fil.",
+   "kind": "bibliography",
+   "expansion": "Carl Linnaeus the Younger (Linnaeus filius)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Engl.": {
+   "abbr": "Engl.",
+   "kind": "bibliography",
+   "expansion": "Adolf Engler (botanical author)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Boiss.": {
+   "abbr": "Boiss.",
+   "kind": "bibliography",
+   "expansion": "Pierre Edmond Boissier (botanical author)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Bornmüller": {
+   "abbr": "Bornmüller",
+   "kind": "bibliography",
+   "expansion": "Jos. Bornmüller, Ein Beitrag zur Kenntnis der Flora von Syrien und Palästina, Wien 1898",
+   "basis": "Löw list",
+   "list_entry": "Bornm. = Jos. Bornmüller, Ein Beitrag zur Kenntnis der Flora von Syrien und Palästina. Wien 1898.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Bornm.": {
+   "abbr": "Bornm.",
+   "kind": "bibliography",
+   "expansion": "Jos. Bornmüller, Ein Beitrag zur Kenntnis der Flora von Syrien und Palästina, Wien 1898",
+   "basis": "Löw list",
+   "list_entry": "Bornm. = Jos. Bornmüller, Ein Beitrag zur Kenntnis der Flora von Syrien und Palästina. Wien 1898.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "B. Zisik": {
+   "abbr": "B. Zisik",
+   "kind": "bibliography",
+   "expansion": "B. Zisik (author of an article in Hasade 6)",
+   "basis": "unknown",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "ph": {
+   "abbr": "ph",
+   "kind": "general",
+   "expansion": "Palestinian Hebrew (modern)",
+   "basis": "Löw list",
+   "list_entry": "ph = Palästina-hebräisch.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Post": {
+   "abbr": "Post",
+   "kind": "bibliography",
+   "expansion": "George E. Post, Flora of Syria, Palestine and Sinai, Beirut 1896",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Fonck": {
+   "abbr": "Fonck",
+   "kind": "bibliography",
+   "expansion": "Leopold Fonck, Streifzüge durch die biblische Flora, Freiburg i. Br. 1900",
+   "basis": "Löw list",
+   "list_entry": "Fonck = Leop. ~, Streifzüge durch die bibl. Flora. Freiburg i. Br. 1900.",
+   "pages": [
+    "I/191"
+   ],
+   "checked": false
+  },
+  "Bh.": {
+   "abbr": "Bh.",
+   "kind": "general",
+   "expansion": "Biblical Hebrew (biblisch-hebräisch)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "nom. unit.": {
+   "abbr": "nom. unit.",
+   "kind": "general",
+   "expansion": "nomen unitatis (singulative noun)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Parḥōn": {
+   "abbr": "Parḥōn",
+   "kind": "bibliography",
+   "expansion": "Salomo ibn Parḥon, Maḥberet he-ʿArukh, ed. Stern, Pressburg 1844",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "R. D. Kimḥī": {
+   "abbr": "R. D. Kimḥī",
+   "kind": "bibliography",
+   "expansion": "Rabbi David Kimḥī (Radak), Sefer ha-Shorashim / biblical commentaries",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Jos. bj.": {
+   "abbr": "Jos. bj.",
+   "kind": "source",
+   "expansion": "Josephus, Bellum Judaicum (The Jewish War)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Sirach": {
+   "abbr": "Sirach",
+   "kind": "source",
+   "expansion": "Ben Sira (Ecclesiasticus)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "pl.": {
+   "abbr": "pl.",
+   "kind": "general",
+   "expansion": "plural",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192",
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Salomo Ibn Melech": {
+   "abbr": "Salomo Ibn Melech",
+   "kind": "bibliography",
+   "expansion": "Salomo Ibn Melech, Mikhlal Yofi (Bible commentary), Constantinople 1549",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "u. a.": {
+   "abbr": "u. a.",
+   "kind": "general",
+   "expansion": "and others (und andere)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192",
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Bochart": {
+   "abbr": "Bochart",
+   "kind": "bibliography",
+   "expansion": "Samuel Bochart, Hierozoicon / Geographia sacra",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Wetzstein": {
+   "abbr": "Wetzstein",
+   "kind": "bibliography",
+   "expansion": "Johann Gottfried Wetzstein (notes communicated to Löw, cited in Aramäische Pflanzennamen)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192",
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Ri.": {
+   "abbr": "Ri.",
+   "kind": "source",
+   "expansion": "Judges (Richter)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Jeremias ATAO^{3}": {
+   "abbr": "Jeremias ATAO^{3}",
+   "kind": "bibliography",
+   "expansion": "Alfred Jeremias, Das Alte Testament im Lichte des alten Orients, 3rd ed.",
+   "basis": "Löw list",
+   "list_entry": "Jeremias ATAO^{3} = ~, Das AT im Lichte des alten Orients.",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Hitzig": {
+   "abbr": "Hitzig",
+   "kind": "bibliography",
+   "expansion": "Ferdinand Hitzig, Der Prophet Jesaja, Heidelberg 1833",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "OLZ.": {
+   "abbr": "OLZ.",
+   "kind": "bibliography",
+   "expansion": "Orientalistische Literaturzeitung, Berlin/Leipzig 1898 ff.",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Etymolog.": {
+   "abbr": "Etymolog.",
+   "kind": "general",
+   "expansion": "etymological",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "A. Epstein, Mikadmōnijjōt": {
+   "abbr": "A. Epstein, Mikadmōnijjōt",
+   "kind": "bibliography",
+   "expansion": "Abraham Epstein, Miḳadmonijjōt ha-jĕhūdīm, Vienna 1887",
+   "basis": "Löw list",
+   "list_entry": "Epstein A. = ~, Miḳadmonijjōt ha-jĕhūdīm. Wien 1887.",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Bochart, Phaleg": {
+   "abbr": "Bochart, Phaleg",
+   "kind": "bibliography",
+   "expansion": "Samuel Bochart, Geographia sacra, pars prior: Phaleg, Caen 1646",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Dalechamps": {
+   "abbr": "Dalechamps",
+   "kind": "bibliography",
+   "expansion": "Jacques Daléchamps, Historia generalis plantarum, Lyon 1586-1587",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Aruch": {
+   "abbr": "Aruch",
+   "kind": "bibliography",
+   "expansion": "Aruch (Nathan b. Yeḥiel), ed. A. Kohut, Vienna 1878-1892",
+   "basis": "Löw list",
+   "list_entry": "Ar. = Aruch ed. A. Kohut. Wien 1878-1892. Siehe auch K.",
+   "pages": [
+    "I/192",
+    "I/199",
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Elia Levita": {
+   "abbr": "Elia Levita",
+   "kind": "bibliography",
+   "expansion": "Elia Levita, Tishbi, Isny 1541",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Kaleb Afendopulo": {
+   "abbr": "Kaleb Afendopulo",
+   "kind": "bibliography",
+   "expansion": "Aderet Elijahu, Goslow 1835, appendix by Kaleb Afendopulo p. 16 ff.",
+   "basis": "Löw list",
+   "list_entry": "Kaleb = Aderet Elijahu, Goslow 1835. Anhang von Kaleb Afendopulo p. 16 ff.",
+   "pages": [
+    "I/192"
+   ],
+   "checked": false
+  },
+  "Dan.": {
+   "abbr": "Dan.",
+   "kind": "source",
+   "expansion": "Daniel (Book of Daniel, Greek additions)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Hex.": {
+   "abbr": "Hex.",
+   "kind": "source",
+   "expansion": "Syro-Hexapla (Syriac Hexaplaric version)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Bugat": {
+   "abbr": "Bugat",
+   "kind": "bibliography",
+   "expansion": "Caietanus Bugatus (Bugati), Daniel secundum editionem LXX interpretum ex codice Syro-Estranghelo Bibliothecae Ambrosianae, Milan 1788",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Middeldorpf": {
+   "abbr": "Middeldorpf",
+   "kind": "bibliography",
+   "expansion": "Henricus Middeldorpf, Codex Syriaco-Hexaplaris, Berlin 1835",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "z. St.": {
+   "abbr": "z. St.",
+   "kind": "general",
+   "expansion": "on the passage (zur Stelle)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198",
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Hehn^{8}": {
+   "abbr": "Hehn^{8}",
+   "kind": "bibliography",
+   "expansion": "Victor Hehn, Kulturpflanzen und Haustiere in ihrem Übergang aus Asien, 8th ed., Berlin 1911",
+   "basis": "Löw list",
+   "list_entry": "Hehn = Victor ~, Kulturpflanzen und Haustiere in ihrem Übergang aus Asien. 8. Aufl. Berlin 1911.",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Schrader RL.": {
+   "abbr": "Schrader RL.",
+   "kind": "bibliography",
+   "expansion": "Otto Schrader, Reallexikon der indogermanischen Altertumskunde, Strassburg 1901",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Theophrast": {
+   "abbr": "Theophrast",
+   "kind": "bibliography",
+   "expansion": "Theophrastus, Historia plantarum",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Nikander": {
+   "abbr": "Nikander",
+   "kind": "bibliography",
+   "expansion": "Nicander of Colophon (Theriaca)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Posidonius": {
+   "abbr": "Posidonius",
+   "kind": "bibliography",
+   "expansion": "Posidonius of Apamea",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Galen": {
+   "abbr": "Galen",
+   "kind": "bibliography",
+   "expansion": "Galen, Opera (ed. Kühn)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Edrīzī": {
+   "abbr": "Edrīzī",
+   "kind": "bibliography",
+   "expansion": "al-Idrīsī, Arab geographer (Nuzhat al-muštāq)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "v. C.": {
+   "abbr": "v. C.",
+   "kind": "general",
+   "expansion": "before Christ (vor Christus)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Südenhorst, Syrien": {
+   "abbr": "Südenhorst, Syrien",
+   "kind": "bibliography",
+   "expansion": "Südenhorst, Syrien und seine Bedeutung für den Welthandel, Vienna 1873",
+   "basis": "Löw list",
+   "list_entry": "Südenhorst, Syrien und seine Bedeutung f. d. Welthandel. Wien 1873.",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Zimmern, AF.": {
+   "abbr": "Zimmern, AF.",
+   "kind": "bibliography",
+   "expansion": "H. Zimmern, Akkadische Fremdwörter, Leipzig 1919",
+   "basis": "Löw list",
+   "list_entry": "Zimmern = H. ~, Akkadische Fremdwörter. Leipzig 1919.",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Delitzsch HWB.": {
+   "abbr": "Delitzsch HWB.",
+   "kind": "bibliography",
+   "expansion": "Friedrich Delitzsch, Assyrisches Handwörterbuch, Leipzig 1896",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Stocks": {
+   "abbr": "Stocks",
+   "kind": "general",
+   "expansion": "John Ellerton Stocks (botanical author)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/198"
+   ],
+   "checked": false
+  },
+  "Oken": {
+   "abbr": "Oken",
+   "kind": "bibliography",
+   "expansion": "Lorenz Oken, Allgemeine Naturgeschichte für alle Stände (Botanik)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Furrer": {
+   "abbr": "Furrer",
+   "kind": "bibliography",
+   "expansion": "Konrad Furrer, articles in Schenkel's Bibel-Lexikon",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Ḳazwīnī": {
+   "abbr": "Ḳazwīnī",
+   "kind": "bibliography",
+   "expansion": "Zakariyyā al-Qazwīnī, ʿAjāʾib al-makhlūqāt (Kosmographie), ed. Wüstenfeld",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "jer.": {
+   "abbr": "jer.",
+   "kind": "general",
+   "expansion": "Jerusalem (Palestinian)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Kaleb": {
+   "abbr": "Kaleb",
+   "kind": "bibliography",
+   "expansion": "Aderet Elijahu, Goslow 1835, appendix by Kaleb Afendopulo p. 16 ff.",
+   "basis": "Löw list",
+   "list_entry": "Kaleb = Aderet Elijahu, Goslow 1835. Anhang von Kaleb Afendopulo p. 16 ff.",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Hebr.": {
+   "abbr": "Hebr.",
+   "kind": "general",
+   "expansion": "Hebrew",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "s.": {
+   "abbr": "s.",
+   "kind": "general",
+   "expansion": "see",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "pers.": {
+   "abbr": "pers.",
+   "kind": "general",
+   "expansion": "Persian",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Samar.": {
+   "abbr": "Samar.",
+   "kind": "general",
+   "expansion": "Samaritan (Targum)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Nöld.-OS.": {
+   "abbr": "Nöld.-OS.",
+   "kind": "bibliography",
+   "expansion": "Orientalische Studien Theodor Nöldeke gewidmet, I-II, 1906",
+   "basis": "Löw list",
+   "list_entry": "Nöld. OS. = Orientalische Studien Theodor Nöldeke gewidmet. I. II. 1906.",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Geop.": {
+   "abbr": "Geop.",
+   "kind": "bibliography",
+   "expansion": "Lagarde, Geoponicon in sermonem syriacum versorum quae supersunt, Leipzig-London 1860",
+   "basis": "Löw list",
+   "list_entry": "Geop. = Lagarde, Geoponicon in sermonem syriacum versorum quae supersunt. Leipzig-London 1860.",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Honeins": {
+   "abbr": "Honeins",
+   "kind": "bibliography",
+   "expansion": "Ḥunain ibn Isḥāq (Syriac lexicographer/translator)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Isidorus": {
+   "abbr": "Isidorus",
+   "kind": "bibliography",
+   "expansion": "Isidore of Seville, Etymologiae",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Arab.": {
+   "abbr": "Arab.",
+   "kind": "general",
+   "expansion": "Arabic",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "türk.": {
+   "abbr": "türk.",
+   "kind": "general",
+   "expansion": "Turkish",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Handjéri": {
+   "abbr": "Handjéri",
+   "kind": "bibliography",
+   "expansion": "Alexandre Handjéri, Dictionnaire français-arabe-persan et turc, Moscow 1840-1841",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Kroner, Maimūnī": {
+   "abbr": "Kroner, Maimūnī",
+   "kind": "bibliography",
+   "expansion": "Hermann Kroner, edition of Maimonides' medical work (see above p. 208 f.)",
+   "basis": "Löw list",
+   "list_entry": "Kroner siehe oben 208 f.",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Engelmann, Gloss.": {
+   "abbr": "Engelmann, Gloss.",
+   "kind": "bibliography",
+   "expansion": "W. H. Engelmann (and R. Dozy), Glossaire des mots espagnols et portugais dérivés de l'arabe, Leiden 1861/1869",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/199"
+   ],
+   "checked": false
+  },
+  "Ns.": {
+   "abbr": "Ns.",
+   "kind": "general",
+   "expansion": "Neo-Syriac (neusyrisch)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Maclean": {
+   "abbr": "Maclean",
+   "kind": "bibliography",
+   "expansion": "A. J. Maclean, A dictionary of the dialect of vernacular Syriac, Oxford 1901",
+   "basis": "Löw list",
+   "list_entry": "Maclean = A. J. ~, A dictionary of the dialect of vernacular Syriac. Oxford 1901.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Bergsträsser": {
+   "abbr": "Bergsträsser",
+   "kind": "bibliography",
+   "expansion": "Gotthelf Bergsträsser, Neuaramäische Märchen und andere Texte aus Maʿlūla, Leipzig 1915; Glossar des neuaramäischen Dialekts von Maʿlūla, Leipzig 1921",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Glossar": {
+   "abbr": "Glossar",
+   "kind": "bibliography",
+   "expansion": "G. Bergsträsser, Glossar des neuaramäischen Dialekts von Maʿlūla, Leipzig 1921",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "ed.": {
+   "abbr": "ed.",
+   "kind": "general",
+   "expansion": "edition / edited by",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Berliner": {
+   "abbr": "Berliner",
+   "kind": "bibliography",
+   "expansion": "A. Berliner (ed.), Raschi: Commentar zum Pentateuch, Berlin 1866",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Epstein, Miḳadm.": {
+   "abbr": "Epstein, Miḳadm.",
+   "kind": "bibliography",
+   "expansion": "A. Epstein, Miḳadmonijjōt ha-jĕhūdīm, Vienna 1887",
+   "basis": "Löw list",
+   "list_entry": "Epstein A. = ~, Miḳadmonijjōt ha-jĕhūdīm. Wien 1887.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Bacher, Prüfstein d. Men. b. Salomo": {
+   "abbr": "Bacher, Prüfstein d. Men. b. Salomo",
+   "kind": "bibliography",
+   "expansion": "Wilhelm Bacher, Der Prüfstein des Menachem ben Salomo (Even boḥan), 1880s",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "d.": {
+   "abbr": "d.",
+   "kind": "general",
+   "expansion": "des (of the)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Men.": {
+   "abbr": "Men.",
+   "kind": "general",
+   "expansion": "Menahem",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Sechel tōb": {
+   "abbr": "Sechel tōb",
+   "kind": "source",
+   "expansion": "Sekhel Tov of Menahem ben Solomon, ed. S. Buber, Berlin 1900",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "l.": {
+   "abbr": "l.",
+   "kind": "general",
+   "expansion": "read (lies)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Pea": {
+   "abbr": "Pea",
+   "kind": "source",
+   "expansion": "Mishnah tractate Peah",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Maas.": {
+   "abbr": "Maas.",
+   "kind": "source",
+   "expansion": "tractate Maʿaserot",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Jastrow": {
+   "abbr": "Jastrow",
+   "kind": "bibliography",
+   "expansion": "Marcus Jastrow, A Dictionary of the Targum, the Talmud etc., London and New York 1903",
+   "basis": "Löw list",
+   "list_entry": "Jast-row = Marcus ~, A Dictionary of the Targum, the Talmud etc. London und New-York 1903.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "ms.": {
+   "abbr": "ms.",
+   "kind": "general",
+   "expansion": "manuscript",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Zuckermandel, Errata": {
+   "abbr": "Zuckermandel, Errata",
+   "kind": "bibliography",
+   "expansion": "M. S. Zuckermandel, Tosefta edition, errata",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Maas. r.": {
+   "abbr": "Maas. r.",
+   "kind": "source",
+   "expansion": "tractate Maʿaser rishon",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Schwarz, Tosifta": {
+   "abbr": "Schwarz, Tosifta",
+   "kind": "bibliography",
+   "expansion": "A. Schwarz, Tosefta editions and commentary",
+   "basis": "Löw list",
+   "list_entry": "Schwarz Toß. = A. Schwarz’ Toßefta-Ausgaben und Kommentar.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Dem.": {
+   "abbr": "Dem.",
+   "kind": "source",
+   "expansion": "tractate Demai",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Kaftor": {
+   "abbr": "Kaftor",
+   "kind": "bibliography",
+   "expansion": "Estori ha-Farḥi, Kaftor waferaḥ (ed. Venice 1549, ed. Edelmann Berlin 1852, ed. Luncz Jerusalem 1899)",
+   "basis": "Löw list",
+   "list_entry": "Kaftor waf. = Estori ha-Farḥi, Kaftor waferaḥ. Ed. Venedig 1549, ed. Edelmann, Berlin 1852, ed. Luncz, Jerusalem 1899.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "H. Fischer, Wirtschaftsgeogr. von Syrien": {
+   "abbr": "H. Fischer, Wirtschaftsgeogr. von Syrien",
+   "kind": "bibliography",
+   "expansion": "H. Fischer, Wirtschaftsgeographie von Syrien, Berlin 1919",
+   "basis": "Löw list",
+   "list_entry": "H. Fischer, Wirtschaftsgeographie von Syrien. Berlin 1919.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Kel.": {
+   "abbr": "Kel.",
+   "kind": "source",
+   "expansion": "tractate Kelim",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "j": {
+   "abbr": "j",
+   "kind": "source",
+   "expansion": "Jerusalem Talmud, ed. Krotoschin",
+   "basis": "Löw list",
+   "list_entry": "j = Jerusalemischer Talmud ed. Krotoschin.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Ratner": {
+   "abbr": "Ratner",
+   "kind": "bibliography",
+   "expansion": "B. Ratner, Ahawath Zion wīrūšalajim, variants and supplements to the text of the Jerusalem Talmud, Vilna 1901-1913",
+   "basis": "Löw list",
+   "list_entry": "Ratner = B. ~, Ahawath Zion wīrūšalajim. Varianten und Ergänzungen des Textes des j. Wilna 1901-1913.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Z.": {
+   "abbr": "Z.",
+   "kind": "general",
+   "expansion": "line (Zeile)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "v. u.": {
+   "abbr": "v. u.",
+   "kind": "general",
+   "expansion": "from below (von unten)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Herschberg, Haëreg": {
+   "abbr": "Herschberg, Haëreg",
+   "kind": "bibliography",
+   "expansion": "A. S. Herschberg, Ḥajjē hatarbūt bejisrāēl I: Hāereg we-taăsijjat hāereg, Warsaw 1924",
+   "basis": "Löw list",
+   "list_entry": "Herschberg Haereg = A. S. ~, Ḥajjē hatarbūt bejisrāēl. I. Hāe-reg we-taăsijjat hāereg. Warschau 1924.",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Natan": {
+   "abbr": "Natan",
+   "kind": "source",
+   "expansion": "probably Nathan ben Abraham, Arabic Mishnah commentary/glossary",
+   "basis": "unknown",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "WB.": {
+   "abbr": "WB.",
+   "kind": "general",
+   "expansion": "dictionary (Wörterbuch)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "R. Gēršōm": {
+   "abbr": "R. Gēršōm",
+   "kind": "source",
+   "expansion": "Rabbenu Gershom (Gershom ben Judah of Mainz)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "ns.": {
+   "abbr": "ns.",
+   "kind": "general",
+   "expansion": "Neo-Syriac (neusyrisch)",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
+   ],
+   "checked": false
+  },
+  "Malula-Gl.": {
+   "abbr": "Malula-Gl.",
+   "kind": "bibliography",
+   "expansion": "G. Bergsträsser, Glossar des neuaramäischen Dialekts von Maʿlūla, Leipzig 1921",
+   "basis": "general knowledge",
+   "list_entry": "",
+   "pages": [
+    "I/200"
    ],
    "checked": false
   }

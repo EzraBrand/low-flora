@@ -167,6 +167,30 @@
     },
     {
       "vol": "I",
+      "scan_index": 211,
+      "label": "191",
+      "printed_page": "191",
+      "image_id": "104477",
+      "width": 3847,
+      "height": 5756,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/104477/full/full/0/default.jpg",
+      "file": "raw/I/191.jpg"
+    },
+    {
+      "vol": "I",
+      "scan_index": 212,
+      "label": "192",
+      "printed_page": "192",
+      "image_id": "104478",
+      "width": 3847,
+      "height": 5756,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/104478/full/full/0/default.jpg",
+      "file": "raw/I/192.jpg"
+    },
+    {
+      "vol": "I",
       "scan_index": 213,
       "label": "193",
       "printed_page": "193",
@@ -224,6 +248,42 @@
       "kind": "entry",
       "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/104483/full/full/0/default.jpg",
       "file": "raw/I/197.jpg"
+    },
+    {
+      "vol": "I",
+      "scan_index": 218,
+      "label": "198",
+      "printed_page": "198",
+      "image_id": "104484",
+      "width": 3847,
+      "height": 5756,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/104484/full/full/0/default.jpg",
+      "file": "raw/I/198.jpg"
+    },
+    {
+      "vol": "I",
+      "scan_index": 219,
+      "label": "199",
+      "printed_page": "199",
+      "image_id": "104485",
+      "width": 3847,
+      "height": 5756,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/104485/full/full/0/default.jpg",
+      "file": "raw/I/199.jpg"
+    },
+    {
+      "vol": "I",
+      "scan_index": 220,
+      "label": "200",
+      "printed_page": "200",
+      "image_id": "104486",
+      "width": 3847,
+      "height": 5756,
+      "kind": "entry",
+      "source_url": "https://sammlungen.ub.uni-frankfurt.de/i3f/v20/104486/full/full/0/default.jpg",
+      "file": "raw/I/200.jpg"
     },
     {
       "vol": "II",

@@ -1,0 +1,401 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "200",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "200"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "lat",
+   "text": "Anacardiaceae",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "lat",
+     "text": "Anacardiaceae"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Ns.: auch ܦܣܬܩܐ PSm. 3199. 3838. Maclean sv.: a nut, wohl\nungenau für a pistachio nut. Aus Malula verzeichnet Bergsträsser\n93_{19}, Glossar 27: <i>fuscḳō</i>. Ein mit Pistazien bestandenes Gelände\nöstlich von Malūlā: <i>ṣaḥrṯa</i> 85.\nFremdsprachliches: Raši führt Gn. 43, 11 zu <i>boṭnīm</i> die Er-\nklärung des R. Machir an: פשטציאם ed. Berliner, פישטקיאם Bibel ed.\nBasel 1620. Raši erklärt, er wisse nicht, was <i>bŏṭnīm</i> sei, aber bei\nR. Machir habe er die Erklärung pistazias gefunden. Diese aber\nkennt er offenbar nicht und kombiniert mit dem Worte <i>aparsĕḳīn</i>,\nPfirsich. Auch Ibn Esra weiß nichts von Pistazien. Er sagt, manche\nhalten <i>boṭnīm</i> für Walnüsse. RDK.: pignola, nach anderen: <i>fustuḳ</i>.\nפיניוניש Epstein, Miḳadm. 126 = <i>boṭnīm</i>. Nocili, avellana: Bacher,\nPrüfstein d. Men. b. Salomo, p. 3 n. = <i>boṭnīm</i>. Sechel tōb, p. XI:\n<i>boṭnīm</i> ist das Harz des Baumes <i>boṭna</i>: der Baum = לרזו, das\nHarz = טרגנטו. Bei Mb. 31 wird <i>boṭnīm</i> durch פיטולש wiedergegeben\n(l. pignolas).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Ns.: auch "
+    },
+    {
+     "lang": "syc",
+     "text": "ܦܣܬܩܐ"
+    },
+    {
+     "lang": "deu",
+     "text": " PSm. 3199. 3838. Maclean sv.: "
+    },
+    {
+     "lang": "eng",
+     "text": "a nut"
+    },
+    {
+     "lang": "deu",
+     "text": ", wohl\nungenau für "
+    },
+    {
+     "lang": "eng",
+     "text": "a pistachio nut"
+    },
+    {
+     "lang": "deu",
+     "text": ". Aus Malula verzeichnet Bergsträsser\n93_{19}, Glossar 27: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>fuscḳō</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ". Ein mit Pistazien bestandenes Gelände\nöstlich von Malūlā: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ṣaḥrṯa</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " 85.\nFremdsprachliches: Raši führt Gn. 43, 11 zu "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " die Er-\nklärung des R. Machir an: "
+    },
+    {
+     "lang": "heb",
+     "text": "פשטציאם"
+    },
+    {
+     "lang": "deu",
+     "text": " ed. Berliner, "
+    },
+    {
+     "lang": "heb",
+     "text": "פישטקיאם"
+    },
+    {
+     "lang": "deu",
+     "text": " Bibel ed.\nBasel 1620. Raši erklärt, er wisse nicht, was "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>bŏṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " sei, aber bei\nR. Machir habe er die Erklärung pistazias gefunden. Diese aber\nkennt er offenbar nicht und kombiniert mit dem Worte "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>aparsĕḳīn</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ",\nPfirsich. Auch Ibn Esra weiß nichts von Pistazien. Er sagt, manche\nhalten "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " für Walnüsse. RDK.: "
+    },
+    {
+     "lang": "ita",
+     "text": "pignola"
+    },
+    {
+     "lang": "deu",
+     "text": ", nach anderen: "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>fustuḳ</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ".\n"
+    },
+    {
+     "lang": "heb",
+     "text": "פיניוניש"
+    },
+    {
+     "lang": "deu",
+     "text": " Epstein, Miḳadm. 126 = "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ". "
+    },
+    {
+     "lang": "ita",
+     "text": "Nocili, avellana"
+    },
+    {
+     "lang": "deu",
+     "text": ": Bacher,\nPrüfstein d. Men. b. Salomo, p. 3 n. = "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ". Sechel tōb, p. XI:\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " ist das Harz des Baumes "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭna</i>"
+    },
+    {
+     "lang": "deu",
+     "text": ": der Baum = "
+    },
+    {
+     "lang": "heb",
+     "text": "לרזו"
+    },
+    {
+     "lang": "deu",
+     "text": ", das\nHarz = "
+    },
+    {
+     "lang": "heb",
+     "text": "טרגנטו"
+    },
+    {
+     "lang": "deu",
+     "text": ". Bei Mb. 31 wird "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>boṭnīm</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " durch "
+    },
+    {
+     "lang": "heb",
+     "text": "פיטולש"
+    },
+    {
+     "lang": "deu",
+     "text": " wiedergegeben\n(l. pignolas)."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "lat",
+   "text": "4. Rhus coriaria L. Sumach.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "4. "
+    },
+    {
+     "lang": "lat",
+     "text": "Rhus coriaria L."
+    },
+    {
+     "lang": "deu",
+     "text": " Sumach."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Gerbersumach — im ganzen Mittelmeergebiet verbreitet —\nheißt mišnisch אוג Flora 3, 219. Das Wort gebraucht auch das\nmoderne Palästinahebräisch (Hasade 3, 233. 4, 391). Es ist ein\nBaum (Pea 1, 5. Sifra 87^{b}), dessen reifende Beeren rötlich werden\n(Maas. 1, 2). Jastrow ändert daraufhin האיבין ארומים, LA. האובים, האיבום\n(ms. bei Zuckermandel, Errata) T. Maas. r. I 81_{18} zu Unrecht in\nהאוגין, denn es ist das bh. אב (Schwarz, Tosifta 1, 317).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Gerbersumach — im ganzen Mittelmeergebiet verbreitet —\nheißt mišnisch "
+    },
+    {
+     "lang": "heb",
+     "text": "אוג"
+    },
+    {
+     "lang": "deu",
+     "text": " Flora 3, 219. Das Wort gebraucht auch das\nmoderne Palästinahebräisch (Hasade 3, 233. 4, 391). Es ist ein\nBaum (Pea 1, 5. Sifra 87^{b}), dessen reifende Beeren rötlich werden\n(Maas. 1, 2). Jastrow ändert daraufhin "
+    },
+    {
+     "lang": "heb",
+     "text": "האיבין ארומים"
+    },
+    {
+     "lang": "deu",
+     "text": ", LA. "
+    },
+    {
+     "lang": "heb",
+     "text": "האובים"
+    },
+    {
+     "lang": "deu",
+     "text": ", "
+    },
+    {
+     "lang": "heb",
+     "text": "האיבום"
+    },
+    {
+     "lang": "deu",
+     "text": "\n(ms. bei Zuckermandel, Errata) T. Maas. r. I 81_{18} zu Unrecht in\n"
+    },
+    {
+     "lang": "heb",
+     "text": "האוגין"
+    },
+    {
+     "lang": "deu",
+     "text": ", denn es ist das bh. "
+    },
+    {
+     "lang": "heb",
+     "text": "אב"
+    },
+    {
+     "lang": "deu",
+     "text": " (Schwarz, Tosifta 1, 317)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Der Baum wurde in Judaea weniger geschätzt, als im übrigen\nPalästina (Dem. 1, 1), wo er heute überall wächst. Luncz be-\nhauptet, er wachse besonders in der Gegend von Hebron (Kaftor\n482). Am Karmel ist er seltener (ZDPV. 30, 134), doch heißt eine\nRuine dort <i>chirbet summāḳa</i> (a. O. 158). Die Blätter dienen auch\nheute noch zur Bereitung der Lohe (H. Fischer, Wirtschaftsgeogr.\nvon Syrien 74).",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Der Baum wurde in Judaea weniger geschätzt, als im übrigen\nPalästina (Dem. 1, 1), wo er heute überall wächst. Luncz be-\nhauptet, er wachse besonders in der Gegend von Hebron (Kaftor\n482). Am Karmel ist er seltener (ZDPV. 30, 134), doch heißt eine\nRuine dort "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>chirbet summāḳa</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " (a. O. 158). Die Blätter dienen auch\nheute noch zur Bereitung der Lohe (H. Fischer, Wirtschaftsgeogr.\nvon Syrien 74)."
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "Die jungen Blätter,*) auch Frucht und Rinde (P. 206) wurden\nschon im Altertum zum Färben und Gerben (Kel. 26, 3) verwendet\n(עלי האוג TŠvi V 68_{6} ungenau j VII 37^{b}_{15} die Wurzel, die übrigens\nauch gelb färbt. Ratner z. St. S. 62, Z. 3 v. u. Herschberg, Haëreg\n261). Die Identifikation mit dem arab. <i>sumaḳ</i> bei Aruch und Maimūnī\n(Natan, WB. 10. 24), auch Kaftor 482. 527, doch ist dafür mehrfach\nKornelkirsche gesetzt worden (R. Gēršōm REJ. 7, 66 cornouiller,",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Die jungen Blätter,*) auch Frucht und Rinde (P. 206) wurden\nschon im Altertum zum Färben und Gerben (Kel. 26, 3) verwendet\n("
+    },
+    {
+     "lang": "heb",
+     "text": "עלי האוג"
+    },
+    {
+     "lang": "deu",
+     "text": " TŠvi V 68_{6} ungenau j VII 37^{b}_{15} die Wurzel, die übrigens\nauch gelb färbt. Ratner z. St. S. 62, Z. 3 v. u. Herschberg, Haëreg\n261). Die Identifikation mit dem arab. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>sumaḳ</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " bei Aruch und Maimūnī\n(Natan, WB. 10. 24), auch Kaftor 482. 527, doch ist dafür mehrfach\nKornelkirsche gesetzt worden (R. Gēršōm REJ. 7, 66 "
+    },
+    {
+     "lang": "fra",
+     "text": "cornouiller"
+    },
+    {
+     "lang": "deu",
+     "text": ","
+    }
+   ]
+  },
+  {
+   "type": "footnote",
+   "lang": "deu",
+   "text": "Daher ns. <i>ʿallja</i> (= Blatt) Gerbersumach (Malula-Gl. 3).",
+   "marker": "*)",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Daher ns. "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ʿallja</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " (= Blatt) Gerbersumach (Malula-Gl. 3)."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2604,
+    2265
+   ],
+   [
+    2604,
+    3251
+   ]
+  ],
+  "input_tokens": 11120,
+  "output_tokens": 2749,
+  "cost_usd": 0.0995,
+  "seconds": 34.0
+ }
+}
