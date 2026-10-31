@@ -1,0 +1,35 @@
+{
+ "main": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Contents.",
+   "page": "scan0019"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Page\nConvolvulaceae … 449—463\nCalystegia … 449\nConvolvulus … 450\nCressa … 452\nCuscuta … 453\nOperculina … 462\nIpomoea … 462\nArabic Convolvulaceae … 462\nCornaceae … 464\nCrassulaceae … 466\nCruciferae … 468—527\nRegion … 468\nEretz-Yisrael Hebrew … 468\nArabic Cruciferae … 469\nGreek Cruciferae … 473\nAnastatica … 475\nArmoracia … 478\nBrassica … 482\nCakile … 489\nCheiranthus … 490\nEruca … 491\nIsatis … 493\nLepidium … 505\nNasturtium … 510\nRaphanus … 511\nRadish oil … 516\nSinapis … 516\nSisymbrium … 527\nCucurbitaceae … 528—554\nGeneral … 528\nRegion … 528\nArabic Cucurbitaceae … 529\nCucumber and melon … 530\nColocynth … 537\nGourd … 542\nLoofah … 548\nSquirting cucumber … 549\nWatermelon … 550\nBryony … 553\nPage\nCyperaceae and water plants\n555—584\nArabic Cyperaceae … 555\n— Alismaceae … 556\n— Typhaceae … 556\n— Najadaceae … 557\n— Potamogetonaceae … 557\n— Hydrocharitaceae … 557\nArabic … 557\nCyperus … 558\nAppendix:\n1. Water plants … 571\n2. Alismaceae … 573\n3. Carex … 574\n4. <i>sūf</i> … 574\n5. Iuncus … 576\n6. Najadaceae … 576\n7. Typhaceae … 578\n8. <i>biṣṣā</i> … 582\nDioscoraceae … 585\nTamus … 585\nDipsacaceae … 586\nDipsacus … 586\nEbenaceae … 588\nElaeagnaceae … 590\nEricaceae … 591\nErica … 592\nEuphorbiaceae … 594\nArabic Euphorbiaceae … 594\nCrozophora … 595\nEuphorbia … 602\nJatropha. Mercurialis. Phyllan-\nthus … 607\nRicinus … 608\nFagaceae … 612\nCastanea … 612\nCorylus … 616\nQuercus … 621\nAcorn … 628",
+   "page": "scan0019"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "[p. XIV] Page\nOak bark … 629\nKermes oak … 630\nGallnuts … 631\nFicoideae and other soap\nplants … 635\nArabic … 635\nSoap … 637\nStruthium … 641\n<i>ḳunduš</i> … 641\n<i>bōrit</i> … 643\nSoda … 645\n<i>āhāl</i> … 645\n<i>ġasūl</i> … 646\n<i>ušnān</i> … 647\n<i>mallūḥā</i> … 648\n<i>šeleg ašleg</i> … 649\nFumariaceae … 651\nGentianaceae … 652\nGeraniaceae … 654\nGuttiferaceae … 655\nGraminaceae … 658\nRegion … 658\nArundo and Phragmites … 662",
+   "page": "XIV"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Page\nAppendix: Cannaceae … 686\nAvena … 686\nBambusa … 690\nCymbopogon … 692\nAppendix: Acorus … 696\nCynodon … 697\nEragrostis … 699\nAppendix: Stipa … 703\nGlyceria … 703\nHordeum … 707\nLolium … 723\nOryza … 730\nPhalaris … 738\nPanicum … 738\nSorghum … 740\nSaccharum … 746\nSecale … 765\nTriticum sativum Lam. … 767\nT. sat. v. dicoccum Alef. … 767\nT. sat. v. tenax Hack. … 776\nZea … 799\nArabic Gramineae … 801",
+   "page": "XIV"
+  }
+ ],
+ "notes": [],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "rules": "v3",
+  "cost_usd": 0.0479
+ }
+}

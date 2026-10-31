@@ -29,6 +29,18 @@ ENTRIES = {
                  "start": r"^b\)\s*Pistacia", "end": r"^4\.\s*Rhus",
                  # checked by eye: p. 196 ends "(3.—4. Jh.)" mid-sentence
                  "continue": [197]},
+    # tables of contents ("Inhalt"): whole pages; page keys as in data/raw (Roman, or scanNNNN
+    # for an unnumbered page). "contents" keeps the printed lines in the translation.
+    "toc-I-1": {"vol": "I", "pages": ["scan0017", "XII"], "title": "Contents, Bd. I, first half",
+                "start": r"", "end": r"(?!)", "contents": True},
+    "toc-I-2": {"vol": "I", "pages": ["scan0019", "XIV"], "title": "Contents, Bd. I, second half",
+                "start": r"", "end": r"(?!)", "contents": True},
+    "toc-II": {"vol": "II", "pages": ["scan0013", "XII"], "title": "Contents, Bd. II",
+               "start": r"", "end": r"(?!)", "contents": True},
+    "toc-III": {"vol": "III", "pages": ["scan0011", "X", "XI"], "title": "Contents, Bd. III",
+                "start": r"", "end": r"(?!)", "contents": True},
+    "toc-IV": {"vol": "IV", "pages": ["scan0011", "XII", "XIII", "XIV", "XV"],
+               "title": "Contents, Bd. IV", "start": r"", "end": r"(?!)", "contents": True},
 }
 # A paragraph continues on the next page if the page ends without sentence-final punctuation;
 # "continue" / "break" in an entry override this for the pages listed (the first page of the pair).
@@ -65,7 +77,8 @@ def build(cfg: dict) -> tuple[list[dict], list[dict]]:
             prev = main[-1] if main else None
             continues = (page in cfg.get("continue", []) or not SENTENCE_END.search(prev["text"] if prev else "")) \
                 and page not in cfg.get("break", [])
-            if first_on_page and prev and prev["type"] == "body" and b["type"] == "body" and continues:
+            if first_on_page and prev and prev["type"] == "body" and b["type"] == "body" and continues \
+                    and not cfg.get("contents"):  # a contents list is never joined across pages
                 if prev["text"].endswith("-"):  # word broken over the page: marker after the word
                     word, _, rest = text.partition(" ")
                     prev["text"] = f"{prev['text'][:-1]}{word} [p. {page}] {rest}"
@@ -131,7 +144,8 @@ def main():
     en_main, en_notes, cost = [], [], 0.0
     for kind, blocks, target in (("text", main_blocks, en_main), ("notes", notes, en_notes)):
         for i, ch in enumerate(chunks(blocks), 1):
-            res = T.translate({"blocks": ch, "meta": {"entry": a.entry, "part": kind}}, a.model, a.effort, keys)
+            res = T.translate({"blocks": ch, "meta": {"entry": a.entry, "part": kind}}, a.model, a.effort, keys,
+                              extra=T.CONTENTS if cfg.get("contents") else "")
             for src, b in zip(ch, res["blocks"]):
                 target.append({**b, "page": src["page"]})
             cost += res["meta"]["cost_usd"]

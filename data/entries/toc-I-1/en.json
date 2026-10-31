@@ -1,0 +1,35 @@
+{
+ "main": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Contents.",
+   "page": "scan0017"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Page\nThe Alexander Kohut Foundations VII\nPreface … IX\nKryptogamae … 1—44\nRhizocarpeae … 1\nSelaginellaceae … 1\nLycopodiaceae … 1\nOphioglossaceae … 1\nEquisetaceae … 1\nAppendix: Halorrhagidaceae … 6\nFilices … 6\nMusci … 13\nAlgae … 14\nAppendix: Lemnaceae … 16\nLichenes … 19\nFungi … 26\nPhanerogamae … 45\nAcanthaceae … 45\nAceraceae … 47\nAmpelidaceae … 48—189\nAnacardiaceae … 190—204\nArabic Anacardiaceae … 190\nPistacia … 191\nRhus … 200\nSemecarpus … 202\nApocynaceae … 205—212\nNerium … 206\nAraceae … 213—218\nArabic Araceae … 213\nArum … 214\nColocasia … 215\nAraliaceae … 219—221\nHedera … 219\nAristolochiaceae … 222—223\nAristolochia … 222\nAsarum … 223\nArtocarpaceae … 224—280\nFicus … 224\nCannabis … 255\nHumulus … 263\nPage\nMorus … 264\nSycomorus … 274\nAsclepiadaceae … 281—286\nAsclepias … 281\nCalotropis … 281\nDaemia … 284\nLeptadenia … 285\nCynanchum … 286\nBerberidaceae … 287\nBerberis … 287\nLeontice … 288\nBetulaceae … 290\nBorraginaceae … 290\nArabic Borraginaceae … 290\nAnchusa … 292\nCordia … 296\nHeliotropium … 297\nLithospermum … 297\nSymphytum … 297\nBromeliaceae … 298\nBurseraceae … 299—314\nBalsam … 299\nBdellium … 304\nMyrrh … 305\nFrankincense … 312\nAppendix: Meliaceae … 315\nBuxaceae … 316\nBuxus … 316\nCactaceae … 320\nOpuntia … 320\nCampanulaceae … 321\nCapparidaceae … 322—331\nCapparis … 322\nArabic Capparidaceae … 330\nCaprifoliaceae … 332\nLonicera … 332\nSambucus … 332\nArabic Caprifoliaceae … 333\nCaryophyllaceae … 334",
+   "page": "scan0017"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "[p. XII] Page\nArabic and Eretz-Yisrael Hebrew 334\nDianthus … 336\nCasuarinaceae … 337\nCelastraceae … 337\nCeratophyllaceae … 337\nChenopodiaceae … 338\nArab. Chenopodiaceae, (Ama-\nrantaceae and Polygonaceae) 338\nAtriplex … 344\nBeta … 346\nSpinacea … 351\nAppendix I: Amarantaceae … 352\nAlbersia … 352\nAppendix II: Polygonaceae … 354\nPolygonum … 354\nFagopyrum … 355\nRheum … 356\nRibes … 357\nRumex … 358\nCistaceae … 361\nArabic Cistaceae … 361\nCistus … 362\nAppendix I: Rafflesiaceae … 363\nHypocistis … 364\nAppendix II: Bixaceae … 364\nFlacourtia … 364",
+   "page": "XII"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Page\nComposaceae … 367\nGreek Composaceae … 367\nAster … 368\nAchillea … 368\nChrysanthemum … 370\nEretz-Yisrael Hebr. Composaceae … 373\nAnacylus … 374\nAnthemis. Matricaria … 375\nArctium … 378\nArtemisia … 379\nAucklandia … 391\nCarthamus … 394\nPhaeopappus … 404\nNotobasis … 406\nCentaurea … 406\nCynara … 407\nGundelia … 412\nCichorium … 415\nHelianthus … 421\nInula … 421\nLactuca … 424\nBitter herbs of the Passover eve 426\nReichardia … 431\nSonchus … 433\nAppendix: Eryngium … 439\nArab. Composaceae … 441",
+   "page": "XII"
+  }
+ ],
+ "notes": [],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "rules": "v3",
+  "cost_usd": 0.0505
+ }
+}

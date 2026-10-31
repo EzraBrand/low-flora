@@ -35,12 +35,28 @@ DOCS = [
     {"slug": "citrus-III-287", "kind": "page", "vol": "III", "pages": [287],
      "title": "Citrus", "sub": "The etrog · Bd. III p. 287 · one page"},
 ]
+# tables of contents: page keys as in data/raw (Roman numerals, or scanNNNN for an unnumbered page)
+CONTENTS = [
+    {"slug": "contents-I-1", "kind": "entry", "entry": "toc-I-1", "vol": "I", "pages": ["scan0017", "XII"],
+     "title": "Contents, Bd. I, first half", "sub": "Kryptogamae, Acanthaceae – Composaceae (1926)"},
+    {"slug": "contents-I-2", "kind": "entry", "entry": "toc-I-2", "vol": "I", "pages": ["scan0019", "XIV"],
+     "title": "Contents, Bd. I, second half", "sub": "Kryptogamae, Acanthaceae – Composaceae (1926), second half"},
+    {"slug": "contents-II", "kind": "entry", "entry": "toc-II", "vol": "II", "pages": ["scan0013", "XII"],
+     "title": "Contents, Bd. II", "sub": "Iridaceae – Papilionaceae (1924)"},
+    {"slug": "contents-III", "kind": "entry", "entry": "toc-III", "vol": "III", "pages": ["scan0011", "X", "XI"],
+     "title": "Contents, Bd. III", "sub": "Pedaliaceae – Zygophyllaceae (1924)"},
+    {"slug": "contents-IV", "kind": "entry", "entry": "toc-IV", "vol": "IV",
+     "pages": ["scan0011", "XII", "XIII", "XIV", "XV"],
+     "title": "Contents, Bd. IV", "sub": "Summary, addenda, corrections, indexes, abbreviations (1934)"},
+]
+for c in CONTENTS:
+    c["contents"] = True
 
 RTL_OR_GREEK = r"[֐-׿יִ-ﭏ؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿܀-ݏͰ-Ͽἀ-῿]"
 _TAIL = r"[^\s\[\]<>()*†,;:.?!]*"  # a run ends before Latin punctuation and footnote marks
 RUN = re.compile(rf"({RTL_OR_GREEK}{_TAIL}(?:\s+{RTL_OR_GREEK}{_TAIL})*)(\s\[(?!=)([^\]]+)\])?")
 EXPANSION = re.compile(r"(\S+)\s\[=([^\]]*)\]")
-PAGE_MARK = re.compile(r"\[p\. (\d+)\]")
+PAGE_MARK = re.compile(r"\[p\. ([^\]\s]+)\]")
 PARTICLES = {"el", "al", "ul", "il", "ad", "an", "as", "aš", "at", "ha", "ba", "bi", "li", "wa", "be", "le"}
 NOTE_MARK = re.compile(r"(\*{1,3}|†{1,2}|<sup>\d{1,2}</sup>)\)")  # numbered notes are superscripts
 
@@ -50,8 +66,14 @@ def mark_key(mark: str) -> str:
     return re.sub(r"<sup>|</sup>|\^\{|\}|\)|\s", "", mark)
 
 
-def scan_ids(vol: str) -> dict[int, str]:
-    return {int(c["printed_page"]): c["image_id"] for c in fetch.canvases(vol) if (c["printed_page"] or "").isdigit()}
+def scan_ids(vol: str) -> dict[str, str]:
+    """page key (printed page, or scanNNNN for an unnumbered page) -> IIIF image id."""
+    return {c["printed_page"] or f"scan{c['scan_index']:04d}": c["image_id"] for c in fetch.canvases(vol)}
+
+
+def page_label(key) -> str:
+    key = str(key)
+    return f"unnumbered (scan {int(key[4:])})" if key.startswith("scan") else f"p.&nbsp;{key}"
 
 
 def script_class(run: str) -> str:
@@ -75,6 +97,8 @@ def inline(text: str, page: int, ctx: dict) -> str:
     def hyphen(m):
         return m.group(0).replace("\n", "") if m.group(1).lower() in PARTICLES else m.group(1) + m.group(2)
     s = re.sub(r"(\w+)-\n([a-zäöüßāēīōūăĕŏḥṭṣḳ])", hyphen, s)
+    if ctx.get("lines"):  # a contents list: one entry per line; leader dots -> " … "
+        s = re.sub(r"(?:\s*\.){3,}\s*", " … ", s).replace("\n", "<br>")
     s = s.replace("-\n", "-").replace("\n", " ")
 
     def run(m):
@@ -98,15 +122,15 @@ def inline(text: str, page: int, ctx: dict) -> str:
                                 f'<span class="exp"> [={m.group(2)}]</span>', s)
 
     # footnote marks and page marks, in reading order (a page mark changes the page for what follows)
-    out, cur = [], page
-    for part in re.split(r"(\[p\. \d+\])", s):
+    out, cur = [], str(page)
+    for part in re.split(r"(\[p\. [^\]\s]+\])", s):
         m = PAGE_MARK.fullmatch(part)
         if m:
-            cur = int(m.group(1))
+            cur = m.group(1)
             img = ctx["ids"].get(cur)
             href = f"{VIEWER}/{img}" if img else "#"
             out.append(f'<a class="pg" href="{href}" target="_blank" rel="noopener" '
-                       f'title="Scan of p. {cur}">p.&nbsp;{cur}</a>')
+                       f'title="Scan of this page">{page_label(cur)}</a>')
             continue
         def note(n):
             num = ctx["notes"].get((cur, mark_key(n.group(1))))
@@ -117,9 +141,9 @@ def inline(text: str, page: int, ctx: dict) -> str:
     return "".join(out)
 
 
-def paragraph_page(text: str, start: int) -> int:
+def paragraph_page(text: str, start: str) -> str:
     marks = PAGE_MARK.findall(text)
-    return int(marks[-1]) if marks else start
+    return marks[-1] if marks else start
 
 
 def load_doc(doc: dict) -> dict:
@@ -192,13 +216,15 @@ def doc_html(doc: dict) -> str:
     # number the footnotes through the document; (page, mark) -> number
     keymap = {}
     for i, n in enumerate(d["de_notes"], 1):
-        keymap[(n["page"], mark_key(n.get("marker", "")))] = i
+        keymap[(str(n["page"]), mark_key(n.get("marker", "")))] = i
     rows = []
-    cur = {"de": doc["pages"][0], "en": doc["pages"][0]}
+    pages = [str(p) for p in doc["pages"]]
+    cur = {"de": pages[0], "en": pages[0]}
+    lines = doc.get("contents", False)
     for de, en in zip(d["de"], d["en"]):
         cells = []
         for lang, b in (("de", de), ("en", en)):
-            ctx = {"ids": ids, "notes": keymap, "lang": lang}
+            ctx = {"ids": ids, "notes": keymap, "lang": lang, "lines": lines}
             text = inline(b["text"], cur[lang], ctx)
             cur[lang] = paragraph_page(b["text"], cur[lang])
             tag = "h3" if b["type"] == "heading" else "p"
@@ -210,12 +236,13 @@ def doc_html(doc: dict) -> str:
         for lang, b in (("de", de), ("en", en)):
             ctx = {"ids": ids, "notes": {}, "lang": lang}
             cells.append(f'<div class="cell {lang}" id="{lang}-n{i}"><p><a class="fnback" href="#{lang}-r{i}">{i}</a> '
-                         f'<span class="pgref">p. {b["page"]}</span> {inline(b["text"], b["page"], ctx)}</p></div>')
+                         f'<span class="pgref">{page_label(b["page"])}</span> {inline(b["text"], b["page"], ctx)}</p></div>')
         notes.append(f'<div class="row note">{"".join(cells)}</div>')
     thumbs = "".join(
-        f'<a href="{VIEWER}/{ids[p]}" target="_blank" rel="noopener" title="Scan of p. {p}">'
-        f'<img loading="lazy" src="{IIIF}/{ids[p]}/full/160,/0/default.jpg" alt="Scan of p. {p}" width="160">'
-        f'<span>p. {p}</span></a>' for p in doc["pages"] if p in ids)
+        f'<a href="{VIEWER}/{ids[p]}" target="_blank" rel="noopener" title="Scan of this page">'
+        f'<img loading="lazy" src="{IIIF}/{ids[p]}/full/160,/0/default.jpg" alt="Scan" width="160">'
+        f'<span>{page_label(p)}</span></a>' for p in pages if p in ids)
+    notes_html = f'<h2 id="notes">Notes</h2>\n{"".join(notes)}' if notes else ""
     body = f"""{header("")}
 <main class="doc">
 <h1>{html.escape(doc["title"])}</h1>
@@ -231,17 +258,17 @@ Numbers link to the footnotes below. Machine output: check the scan before you c
 <div class="scans" aria-label="Scans">{thumbs}</div>
 <div class="cols-head row"><div class="cell de">German (Löw)</div><div class="cell en">English</div></div>
 {"".join(rows)}
-<h2 id="notes">Notes</h2>
-{"".join(notes)}
+{notes_html}
 </main>
 <footer>Source: <a href="https://nbn-resolving.org/urn:nbn:de:hebis:30-180014581006">Frankfurt UB, Freimann
-collection</a>, Public Domain Mark 1.0 · <a href="{REPO}">{REPO.split("//")[1]}</a></footer>"""
+collection</a>, Public Domain Mark 1.0 · Transcription, translation and code: <a href="{REPO}/blob/main/LICENSE">MIT License</a> · <a href="{REPO}">{REPO.split("//")[1]}</a></footer>"""
     return page_html(f"{doc['title']} · Löw, Flora der Juden", body, doc["sub"])
 
 
 def index_html() -> str:
-    items = "".join(f'<li><a href="{d["slug"]}.html"><strong>{html.escape(d["title"])}</strong></a>'
-                    f'<span>{html.escape(d["sub"])}</span></li>' for d in DOCS)
+    li = lambda ds: "".join(f'<li><a href="{d["slug"]}.html"><strong>{html.escape(d["title"])}</strong></a>'
+                            f'<span>{html.escape(d["sub"])}</span></li>' for d in ds)
+    items = li(DOCS) + "</ul><h2>Tables of contents</h2><ul class=\"docs\">" + li(CONTENTS)
     body = f"""{header("index.html")}
 <main class="index">
 <h1>Immanuel Löw, <i>Die Flora der Juden</i></h1>
@@ -260,7 +287,7 @@ was checked by hand; its Syriac words are not yet verified.</li>
 <li>Code, data, method and costs: <a href="{REPO}">{REPO.split("//")[1]}</a>.</li>
 </ul>
 </main>
-<footer>Scans: Frankfurt UB, Freimann collection, Public Domain Mark 1.0.</footer>"""
+<footer>Scans: Frankfurt UB, Freimann collection, Public Domain Mark 1.0. Transcription, translation and code: <a href="{REPO}/blob/main/LICENSE">MIT License</a>.</footer>"""
     return page_html("Löw, Flora der Juden · reading edition", body,
                      "Machine transcription and English translation of pages of Immanuel Löw, Die Flora der Juden")
 
@@ -364,7 +391,10 @@ def main():
     (OUT / "app.js").write_text(JS, encoding="utf-8")
     (OUT / "index.html").write_text(index_html(), encoding="utf-8")
     (OUT / "abbreviations.html").write_text(abbreviations_html(), encoding="utf-8")
-    for d in DOCS:
+    for d in DOCS + CONTENTS:
+        if d["kind"] == "entry" and not (DATA / "entries" / d["entry"] / "en.json").exists():
+            print(f"skip docs/{d['slug']}.html (no translation yet)")
+            continue
         (OUT / f"{d['slug']}.html").write_text(doc_html(d), encoding="utf-8")
         print(f"wrote docs/{d['slug']}.html")
     print("wrote docs/index.html, docs/abbreviations.html")

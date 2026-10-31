@@ -129,13 +129,19 @@ def text_box(gray: Image.Image) -> tuple[int, int, int, int]:
     # blank out border lines (rows/columns that are mostly ink), then find the text block
     small[small.mean(axis=1) > 0.25, :] = False
     small[:, small.mean(axis=0) > 0.25] = False
-    x0, x1 = _span(small.mean(axis=0), 0.003, int(w * 0.015))
+    # gap 4%: bridges the space left by a removed column rule (two-column contents pages)
+    x0, x1 = _span(small.mean(axis=0), 0.003, int(w * 0.04))
     rows = small[:, x0:x1].mean(axis=1)
     rows = np.where(rows > 0.4, 0, rows)
     ys = np.flatnonzero(rows > 0.002)
+    if not len(ys):
+        raise ValueError("no text found: blank page?")
     pad = 6
-    return (max(x0 - pad, 0) * 4, max(ys[0] - pad, 0) * 4,
-            min(x1 + pad, w) * 4, min(ys[-1] + 1 + pad, h) * 4)
+    # wide side margins: a column of page numbers (contents pages) can stand apart from the text
+    # block after leader dots; some margin noise does not hurt the OCR
+    side = max(pad, int(w * 0.06))
+    return (max(x0 - side, 0) * 4, max(ys[0] - pad, 0) * 4,
+            min(x1 + side, w) * 4, min(ys[-1] + 1 + pad, h) * 4)
 
 
 def page_images(path: Path) -> list[Image.Image]:

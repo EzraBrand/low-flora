@@ -1,0 +1,109 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "XII",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "XII"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Inhalt",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Inhalt"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Seite\nAnhang III: Syr. Wiedergabe\ngriechischer Liliaceen . . . 207\nLinaceae . . . . . . . . 208—216\nLinum . . . . . . . . . 208\nLoranthaceae . . . . . . . . 217\nL. Acaciae Zucc. . . . . . . 217\nLythrariaceae . . . . . . 218—225\nLawsonia . . . . . . . . . 218\nMalvaceae . . . . . . . 226—250\nM. in Syrien und Palästina . 226\nMalva . . . . . . . . . . 227\nGossypium . . . . . . . . 235\nSonstige Malvaceen . . . . 242\nArab. Malvaceen . . . . . 243\nAnhang: Tiliaceae. . . . . 246\nArab. Tiliaceen . . . . . 247\nGrewia . . . . . . . . . . 249\nTilia . . . . . . . . . . 250\nMeliaceae . . . . . . . . . 251\nMenispermaceae . . . . . . . 252\nMusaceae . . . . . . . . 253—256\nMusa . . . . . . . . . . 253\nMyrtaceae . . . . . . . 257—279\nM. in Syrien und Palästina . 257\nMyrtus communis L. . . . . . 257\nNyctaginaceae . . . . . . . . 280\nNymphaeaceae. . . . . . 280—283\nNelumbo nucifera Gärtn. . . . 281\nOchnaceae . . . . . . . . . 283\nOnagraceae(Oenotheraceae) 284—285\nOleaceae . . . . . . . . 286—295\nFontanesia . . . . . . . . 286\nFraxinus . . . . . . . . . 286\nPhillyrea . . . . . . . . . 287\nSyringa . . . . . . . . . 287\nOlea europaea L. . . . . . . 287\nOrchidaceae . . . . . . 296—298\nOrobanchaceae . . . . . 299—301\nOxalidaceae . . . . . . . . 301\nPalmaceae . . . . . . . 303—362\nPalmenarten . . . . . . . . 303\nPhoenix . . . . . . . . . 306\nPapaveraceae . . . . . . 363—375\nPapaver . . . . . . . . . 365\nGlaucium . . . . . . . . . 370\nChelidonium . . . . . . . . 371\nAnhang zu C.: Othonna. . . 374\nPapilionaceae . . . . . 376—523\nAlbizzia . . . . . . . . . 376\nAcacia . . . . . . . . . . 377\nProsopis . . . . . . . . . 391\nCeratonia . . . . . . . . . 393\nCercis . . . . . . . . . . 407\nCassia . . . . . . . . . . 407\nTamarindus . . . . . . . . 409\nPapilionatae . . . . . . . . 410\nAlhagi . . . . . . . . . . 414\nAnagyris . . . . . . . . . 418\nAstragalus . . . . . . . . 419\nA. Poterium . . . . . . . . 424\nCalycotome . . . . . . . . 424\nCicer arietinum . . . . . . . 427\nDalbergia . . . . . . . . . 434\nGlycyrrhiza . . . . . . . . 435\nIndigofera. . . . . . . . . 437\nLathyrus . . . . . . . . . 437\nLens. . . . . . . . . . . 442\nLotus . . . . . . . . . . 452\nLupinus . . . . . . . . . 453\nMedicago . . . . . . . . . 463\nMelilotus . . . . . . . . . 465\nOnobrychis . . . . . . . . 466\nPhaseolus . . . . . . . . . 467\nMungo . . . . . . . . . . 468\nRetama. . . . . . . . . . 469\nTrifolium . . . . . . . . . 473\nTrigonella. . . . . . . . . 475\nVicia . . . . . . . . . . 481\nV. Faba L. . . . . . . . . 492\nV. Narbonensis L.. . . . . . 503\nVigna sinensis . . . . . . . 505\nArab. Papilionaceen . . . . . 512\nNachträge . . . . . . . . 524\nBerichtigungen . . . . . . 530\nAbkürzungen . . . . . . . 532",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite\nAnhang III: Syr. Wiedergabe\ngriechischer Liliaceen . . . 207\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Linaceae . . . . . . . . 208—216\nLinum . . . . . . . . . 208\nLoranthaceae . . . . . . . . 217\nL. Acaciae Zucc. . . . . . . 217\nLythrariaceae . . . . . . 218—225\nLawsonia . . . . . . . . . 218\nMalvaceae . . . . . . . 226—250\n"
+    },
+    {
+     "lang": "deu",
+     "text": "M. in Syrien und Palästina . 226\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Malva . . . . . . . . . . 227\nGossypium . . . . . . . . 235\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Sonstige Malvaceen . . . . 242\nArab. Malvaceen . . . . . 243\nAnhang: Tiliaceae. . . . . 246\nArab. Tiliaceen . . . . . 247\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Grewia . . . . . . . . . . 249\nTilia . . . . . . . . . . 250\nMeliaceae . . . . . . . . . 251\nMenispermaceae . . . . . . . 252\nMusaceae . . . . . . . . 253—256\nMusa . . . . . . . . . . 253\nMyrtaceae . . . . . . . 257—279\n"
+    },
+    {
+     "lang": "deu",
+     "text": "M. in Syrien und Palästina . 257\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Myrtus communis L. . . . . . 257\nNyctaginaceae . . . . . . . . 280\nNymphaeaceae. . . . . . 280—283\nNelumbo nucifera Gärtn. . . . 281\nOchnaceae . . . . . . . . . 283\nOnagraceae(Oenotheraceae) 284—285\nOleaceae . . . . . . . . 286—295\nFontanesia . . . . . . . . 286\nFraxinus . . . . . . . . . 286\nPhillyrea . . . . . . . . . 287\nSyringa . . . . . . . . . 287\nOlea europaea L. . . . . . . 287\nOrchidaceae . . . . . . 296—298\nOrobanchaceae . . . . . 299—301\nOxalidaceae . . . . . . . . 301\nPalmaceae . . . . . . . 303—362\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Palmenarten . . . . . . . . 303\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Phoenix . . . . . . . . . 306\nPapaveraceae . . . . . . 363—375\nPapaver . . . . . . . . . 365\nGlaucium . . . . . . . . . 370\nChelidonium . . . . . . . . 371\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Anhang zu C.: Othonna. . . 374\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Papilionaceae . . . . . 376—523\nAlbizzia . . . . . . . . . 376\nAcacia . . . . . . . . . . 377\nProsopis . . . . . . . . . 391\nCeratonia . . . . . . . . . 393\nCercis . . . . . . . . . . 407\nCassia . . . . . . . . . . 407\nTamarindus . . . . . . . . 409\nPapilionatae . . . . . . . . 410\nAlhagi . . . . . . . . . . 414\nAnagyris . . . . . . . . . 418\nAstragalus . . . . . . . . 419\nA. Poterium . . . . . . . . 424\nCalycotome . . . . . . . . 424\nCicer arietinum . . . . . . . 427\nDalbergia . . . . . . . . . 434\nGlycyrrhiza . . . . . . . . 435\nIndigofera. . . . . . . . . 437\nLathyrus . . . . . . . . . 437\nLens. . . . . . . . . . . 442\nLotus . . . . . . . . . . 452\nLupinus . . . . . . . . . 453\nMedicago . . . . . . . . . 463\nMelilotus . . . . . . . . . 465\nOnobrychis . . . . . . . . 466\nPhaseolus . . . . . . . . . 467\nMungo . . . . . . . . . . 468\nRetama. . . . . . . . . . 469\nTrifolium . . . . . . . . . 473\nTrigonella. . . . . . . . . 475\nVicia . . . . . . . . . . 481\nV. Faba L. . . . . . . . . 492\nV. Narbonensis L.. . . . . . 503\nVigna sinensis . . . . . . . 505\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Arab. Papilionaceen . . . . . 512\nNachträge . . . . . . . . 524\nBerichtigungen . . . . . . 530\nAbkürzungen . . . . . . . 532"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2536,
+    2432
+   ],
+   [
+    2536,
+    1716
+   ]
+  ],
+  "input_tokens": 11101,
+  "output_tokens": 1844,
+  "cost_usd": 0.0813,
+  "seconds": 24.9
+ }
+}

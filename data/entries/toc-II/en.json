@@ -1,0 +1,29 @@
+{
+ "main": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Contents.",
+   "page": "scan0013"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Page\nThe Alexander Kohut Foundations VII\nPreface … IX\nIridaceae … 1—28\nIris … 1\nI. pseudacorus … 5\nI. species in Syria and Eretz Yisrael 6\nArab. Iridaceae … 6\nRomulea species … 6\nGladiolus species … 6\nCrocus sativus L. … 7\nAppendix: <i>warša</i> … 26\nYellowwood … 27\nJuglandaceae … 29—64\nJuglans regia L. … 29\nAppendix I: Myristicaceae … 60\nMyristica fragrans Houtt. … 60\nAppendix II: Nut as a designation\namong the Syrians … 63\nLabiatae … 65—106\nArab. Labiatae … 65\nAjuga … 71\nBallota … 72\nBetonica … 72\nClinopodium … 72\nHyssopus … 72\nLamium … 73\nLavandula … 73\nLycopus … 74\nMarrubium … 74\nMelissa … 75\nMentha … 75\nOcimum … 78\nOriganum Dictamnus L. … 83\nO. Majorana L. … 84\nO. Maru L. … 84\nPhlomis … 101\nRosmarinus … 102\nPage\nSalvia … 102\nSatureia … 103\nTeucrium … 104\nThymus … 104\nZiziphora … 106\nLauraceae … 107—124\nCassyta … 107\nCinnamomum ceylanic. Breyne 113\nC. Camphora … 116\nLaurus nobilis L. … 119\nAppendix: Moringaceae … 124\nSassafras off. Nees … 124\nLiliaceae … 125—194\nAllium Cepa L. … 125\nA. Porrum L. … 131\nA. sativum L. … 138\nArab. A. names … 149\nAloë … 149\nAsphodelus … 152\nColchicum … 156\nVeratrum … 160\nLilium … 160—184\nArab. Liliaceae … 160\nL. album L. … 164\nMuscari comosum L. … 184\nOrnithogalum … 187\nUrginea marit. (L.) Baker … 188\nAppendix I: Smilaceae … 195\nAsparagus … 195\nConvallaria … 198\nDracaena … 198\nRuscus … 200\nSmilax … 202\nAppendix II: Amaryllidaceae … 203\nNarcissus … 203\nPancratium … 205",
+   "page": "scan0013"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "[p. XII] Page\nAppendix III: Syr. rendering\nof Greek Liliaceae … 207\nLinaceae … 208—216\nLinum … 208\nLoranthaceae … 217\nL. Acaciae Zucc. … 217\nLythrariaceae … 218—225\nLawsonia … 218\nMalvaceae … 226—250\nM. in Syria and Eretz Yisrael … 226\nMalva … 227\nGossypium … 235\nOther Malvaceae … 242\nArab. Malvaceae … 243\nAppendix: Tiliaceae … 246\nArab. Tiliaceae … 247\nGrewia … 249\nTilia … 250\nMeliaceae … 251\nMenispermaceae … 252\nMusaceae … 253—256\nMusa … 253\nMyrtaceae … 257—279\nM. in Syria and Eretz Yisrael … 257\nMyrtus communis L. … 257\nNyctaginaceae … 280\nNymphaeaceae … 280—283\nNelumbo nucifera Gärtn. … 281\nOchnaceae … 283\nOnagraceae (Oenotheraceae) 284—285\nOleaceae … 286—295\nFontanesia … 286\nFraxinus … 286\nPhillyrea … 287\nSyringa … 287\nOlea europaea L. … 287\nOrchidaceae … 296—298\nOrobanchaceae … 299—301\nOxalidaceae … 301\nPalmaceae … 303—362\nPalm species … 303\nPhoenix … 306\nPapaveraceae … 363—375\nPapaver … 365\nGlaucium … 370\nChelidonium … 371\nAppendix to C.: Othonna … 374\nPapilionaceae … 376—523\nAlbizzia … 376\nAcacia … 377\nProsopis … 391\nCeratonia … 393\nCercis … 407\nCassia … 407\nTamarindus … 409\nPapilionatae … 410\nAlhagi … 414\nAnagyris … 418\nAstragalus … 419\nA. Poterium … 424\nCalycotome … 424\nCicer arietinum … 427\nDalbergia … 434\nGlycyrrhiza … 435\nIndigofera … 437\nLathyrus … 437\nLens … 442\nLotus … 452\nLupinus … 453\nMedicago … 463\nMelilotus … 465\nOnobrychis … 466\nPhaseolus … 467\nMungo … 468\nRetama … 469\nTrifolium … 473\nTrigonella … 475\nVicia … 481\nV. Faba L. … 492\nV. Narbonensis L. … 503\nVigna sinensis … 505\nArab. Papilionaceae … 512\nAddenda … 524\nCorrigenda … 530\nAbbreviations … 532",
+   "page": "XII"
+  }
+ ],
+ "notes": [],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "rules": "v3",
+  "cost_usd": 0.0592
+ }
+}

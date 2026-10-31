@@ -1,0 +1,69 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "X",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "X"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Inhalt",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Inhalt"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Seite\nPotentilla . . . . . . . . . . 190\nPoterium . . . . . . . . . . 191\nRosa . . . . . . . . . . . 193\nPirus Malus . . . . . . . . 212\nP. communis . . . . . . . . 235\nP. Cydonia . . . . . . . . . 240\nMespilus . . . . . . . . . . 244\n<i>zaʿrūr</i> . . . . . . . . . . . 249\nSorbus . . . . . . . . . . 252\nArabische Namen . . . . . 256\nRubiaceae . . . . . . . . 260—277\nPalästina und Syrien . . . . 260\nArabische Namen . . . . . 260\nCinchona . . . . . . . . . 260\nCoffea . . . . . . . . . . . 261\nCrucianella . . . . . . . . . 269\nGalium . . . . . . . . . . 269\nRubia . . . . . . . . . . . 270\nRutaceae . . . . . . . . 278—321\nCitrus . . . . . . . . . . . 279\nRuta . . . . . . . . . . . 317\nSalicaceae . . . . . . . 322—340\nPalästina und Syrien . . . 322\nSalix . . . . . . . . . . . 322\nPopulus . . . . . . . . . . 338\nSantalaceae . . . . . . 341—346\nPalästina und Syrien . . . 341\nSantalum . . . . . . . 341\nSapotaceae . . . . . . 347—349\nArabische Namen . . . . 347\nMimusops . . . . . . . . 347\nScrophulariaceae . . . 350—352\nArabische Namen . . . . 350\nPalästina und Syrien . . . 351\nVerbascum . . . . . . . . 352\nSolanaceae . . . . . . 353—384\nArabische Namen . . . . 353\nPalästina und Syrien . . . 358\nAtropa . . . . . . . . . . 358\nCapsicum . . . . . . . . 358\nDatura . . . . . . . . . . 359\nHyoscyamus . . . . . . . 359\nLycium . . . . . . . . . . 361\nLycopersicum . . . . . . . 363\nMandragora . . . . . . . . 363\nNicotiana . . . . . . . . 369\nPhysalis . . . . . . . . . 375\nSolanum coagulans . . . . 376\nS. Melongena . . . . . . 377\nS. nigrum . . . . . . . . 379\nS. tuberosum . . . . . . . 381\nSterculiaceae . . . . . 385—387\nArabische Namen . . . . . 385\nTheobroma Cacao . . . . 385\nStyracaceae . . . . . . 388—395\nStyrax . . . . . . . . . . 388\nAnhang: Jasmineae . . 396—397\nJasminum . . . . . . . . 396\nTamaricaceae . . . . . 398—404\nArabische Namen . . . . . 398\nPalästina und Syrien . . . 399\nTamarix . . . . . . . . . 399\nTernströmiaceae . . . . 405—407\nTea . . . . . . . . . . . 405\nThymelaeaceae . . . . 408—414\nArabische Namen . . . . 408\nPalästina und Syrien . . . 408\nMezereum . . . . . . . . 409\nAquilaria . . . . . . . . . 411\nAnhang: Penaeaceae . . . 415\nPenaea . . . . . . . . . . 415\nUlmaceae . . . . . . . 416—419\nArabische Namen . . . . 416\nCeltis . . . . . . . . . . . 416\nUlmus . . . . . . . . . . . 417\nUmbellaceae . . . . . . 420—477\nPalästina und Syrien . . . 420\nGriechisch-syrisch . . . . . 420\n1. Ammi . . . . . . . . . 420\nAnhang: Salvadora . . . . . 423\n2. Apium . . . . . . . . 423\n3. Petroselinum . . . . . 426\n4. Carum . . . . . . . . 435\n5. Cuminum . . . . . . . 435\n6. Lagoecia . . . . . . . 439\n7. Conium . . . . . . . . 440\n8. Coriandrum . . . . . . 441\n9. Daucus . . . . . . . . 447\n10. Ferula . . . . . . . . 452\n11. F. scorodosma . . . . 452\n12. Galbanum . . . . . . . 455\n13. Dorema . . . . . . . . 457\n14. Ferula communis . . . . 458\n15. Opopanax . . . . . . . 458",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite\nPotentilla . . . . . . . . . . 190\nPoterium . . . . . . . . . . 191\nRosa . . . . . . . . . . . 193\nPirus Malus . . . . . . . . 212\nP. communis . . . . . . . . 235\nP. Cydonia . . . . . . . . . 240\nMespilus . . . . . . . . . . 244\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>zaʿrūr</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " . . . . . . . . . . . 249\nSorbus . . . . . . . . . . 252\nArabische Namen . . . . . 256\nRubiaceae . . . . . . . . 260—277\nPalästina und Syrien . . . . 260\nArabische Namen . . . . . 260\nCinchona . . . . . . . . . 260\nCoffea . . . . . . . . . . . 261\nCrucianella . . . . . . . . . 269\nGalium . . . . . . . . . . 269\nRubia . . . . . . . . . . . 270\nRutaceae . . . . . . . . 278—321\nCitrus . . . . . . . . . . . 279\nRuta . . . . . . . . . . . 317\nSalicaceae . . . . . . . 322—340\nPalästina und Syrien . . . 322\nSalix . . . . . . . . . . . 322\nPopulus . . . . . . . . . . 338\nSantalaceae . . . . . . 341—346\nPalästina und Syrien . . . 341\nSantalum . . . . . . . 341\nSapotaceae . . . . . . 347—349\nArabische Namen . . . . 347\nMimusops . . . . . . . . 347\nScrophulariaceae . . . 350—352\nArabische Namen . . . . 350\nPalästina und Syrien . . . 351\nVerbascum . . . . . . . . 352\nSolanaceae . . . . . . 353—384\nArabische Namen . . . . 353\nPalästina und Syrien . . . 358\nAtropa . . . . . . . . . . 358\nCapsicum . . . . . . . . 358\nDatura . . . . . . . . . . 359\nHyoscyamus . . . . . . . 359\nLycium . . . . . . . . . . 361\nLycopersicum . . . . . . . 363\nMandragora . . . . . . . . 363\nNicotiana . . . . . . . . 369\nPhysalis . . . . . . . . . 375\nSolanum coagulans . . . . 376\nS. Melongena . . . . . . 377\nS. nigrum . . . . . . . . 379\nS. tuberosum . . . . . . . 381\nSterculiaceae . . . . . 385—387\nArabische Namen . . . . . 385\nTheobroma Cacao . . . . 385\nStyracaceae . . . . . . 388—395\nStyrax . . . . . . . . . . 388\nAnhang: Jasmineae . . 396—397\nJasminum . . . . . . . . 396\nTamaricaceae . . . . . 398—404\nArabische Namen . . . . . 398\nPalästina und Syrien . . . 399\nTamarix . . . . . . . . . 399\nTernströmiaceae . . . . 405—407\nTea . . . . . . . . . . . 405\nThymelaeaceae . . . . 408—414\nArabische Namen . . . . 408\nPalästina und Syrien . . . 408\nMezereum . . . . . . . . 409\nAquilaria . . . . . . . . . 411\nAnhang: Penaeaceae . . . 415\nPenaea . . . . . . . . . . 415\nUlmaceae . . . . . . . 416—419\nArabische Namen . . . . 416\nCeltis . . . . . . . . . . . 416\nUlmus . . . . . . . . . . . 417\nUmbellaceae . . . . . . 420—477\nPalästina und Syrien . . . 420\nGriechisch-syrisch . . . . . 420\n1. Ammi . . . . . . . . . 420\nAnhang: Salvadora . . . . . 423\n2. Apium . . . . . . . . 423\n3. Petroselinum . . . . . 426\n4. Carum . . . . . . . . 435\n5. Cuminum . . . . . . . 435\n6. Lagoecia . . . . . . . 439\n7. Conium . . . . . . . . 440\n8. Coriandrum . . . . . . 441\n9. Daucus . . . . . . . . 447\n10. Ferula . . . . . . . . 452\n11. F. scorodosma . . . . 452\n12. Galbanum . . . . . . . 455\n13. Dorema . . . . . . . . 457\n14. Ferula communis . . . . 458\n15. Opopanax . . . . . . . 458"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2920,
+    1886
+   ],
+   [
+    2920,
+    2470
+   ]
+  ],
+  "input_tokens": 11065,
+  "output_tokens": 1789,
+  "cost_usd": 0.08,
+  "seconds": 24.2
+ }
+}

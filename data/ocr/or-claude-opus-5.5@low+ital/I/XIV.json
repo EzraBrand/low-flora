@@ -1,0 +1,145 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "XIV",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "XIV"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Inhalt",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Inhalt"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Seite\nEichenrinde . . . . . . . . . . 629\nKermeseiche . . . . . . . . . 630\nGalläpfel . . . . . . . . . . . 631\nFicoideae und andere Seifen-\npflanzen . . . . . . . . . . . . 635\nArabische . . . . . . . . . . 635\nSeife . . . . . . . . . . . . . 637\nStruthium . . . . . . . . . 641\n<i>ḳunduš</i> . . . . . . . . . . . . 641\n<i>bōrit</i> . . . . . . . . . . . . . 643\nSoda . . . . . . . . . . . . . 645\n<i>āhāl</i> . . . . . . . . . . . . . 645\n<i>ġasūl</i> . . . . . . . . . . . . . 646\n<i>ušnān</i> . . . . . . . . . . . . 647\n<i>mallūḥā</i> . . . . . . . . . . 648\n<i>šeleg ašleg</i>. . . . . . . . . . 649\nFumariaceae . . . . . . . . . . 651\nGentianaceae . . . . . . . . . 652\nGeraniaceae . . . . . . . . . . 654\nGuttiferaceae . . . . . . . . . 655\nGraminaceae . . . . . . . . . . 658\nGebiet . . . . . . . . . . . . . 658\nArundo und Phragmites . . . 662",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite\nEichenrinde . . . . . . . . . . 629\nKermeseiche . . . . . . . . . 630\nGalläpfel . . . . . . . . . . . 631\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Ficoideae"
+    },
+    {
+     "lang": "deu",
+     "text": " und andere Seifen-\npflanzen . . . . . . . . . . . . 635\nArabische . . . . . . . . . . 635\nSeife . . . . . . . . . . . . . 637\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Struthium"
+    },
+    {
+     "lang": "deu",
+     "text": " . . . . . . . . . 641\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>ḳunduš</i> . . . . . . . . . . . . 641\n<i>bōrit</i> . . . . . . . . . . . . . 643\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Soda . . . . . . . . . . . . . 645\n"
+    },
+    {
+     "lang": "translit",
+     "text": "<i>āhāl</i> . . . . . . . . . . . . . 645\n<i>ġasūl</i> . . . . . . . . . . . . . 646\n<i>ušnān</i> . . . . . . . . . . . . 647\n<i>mallūḥā</i> . . . . . . . . . . 648\n<i>šeleg ašleg</i>. . . . . . . . . . 649\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Fumariaceae . . . . . . . . . . 651\nGentianaceae . . . . . . . . . 652\nGeraniaceae . . . . . . . . . . 654\nGuttiferaceae . . . . . . . . . 655\nGraminaceae . . . . . . . . . . 658\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Gebiet . . . . . . . . . . . . . 658\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Arundo"
+    },
+    {
+     "lang": "deu",
+     "text": " und "
+    },
+    {
+     "lang": "lat",
+     "text": "Phragmites"
+    },
+    {
+     "lang": "deu",
+     "text": " . . . 662"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Seite\nAnhang: Cannaceae . . . . . 686\nAvena . . . . . . . . . . . . . 686\nBambusa . . . . . . . . . . . . 690\nCymbopogon . . . . . . . . . . 692\nAnhang: Acorus . . . . . . . 696\nCynodon . . . . . . . . . . . . 697\nEragrostis . . . . . . . . . . . 699\nAnhang: Stipa . . . . . . . . . 703\nGlyceria . . . . . . . . . . . . 703\nHordeum . . . . . . . . . . . . 707\nLolium . . . . . . . . . . . . . 723\nOryza . . . . . . . . . . . . . 730\nPhalaris . . . . . . . . . . . . 738\nPanicum . . . . . . . . . . . . 738\nSorghum . . . . . . . . . . . . 740\nSaccharum . . . . . . . . . . . 746\nSecale . . . . . . . . . . . . . 765\nTriticum sativum Lam. . . . . . 767\nT. sat. v. dicoccum Alef. . . . 767\nT. sat. v. tenax Hack. . . . . . 776\nZea . . . . . . . . . . . . . . 799\nArabische Gramineen . . . . 801",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite\nAnhang: "
+    },
+    {
+     "lang": "lat",
+     "text": "Cannaceae . . . . . 686\nAvena . . . . . . . . . . . . . 686\nBambusa . . . . . . . . . . . . 690\nCymbopogon . . . . . . . . . . 692\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Anhang: "
+    },
+    {
+     "lang": "lat",
+     "text": "Acorus . . . . . . . 696\nCynodon . . . . . . . . . . . . 697\nEragrostis . . . . . . . . . . . 699\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Anhang: "
+    },
+    {
+     "lang": "lat",
+     "text": "Stipa . . . . . . . . . 703\nGlyceria . . . . . . . . . . . . 703\nHordeum . . . . . . . . . . . . 707\nLolium . . . . . . . . . . . . . 723\nOryza . . . . . . . . . . . . . 730\nPhalaris . . . . . . . . . . . . 738\nPanicum . . . . . . . . . . . . 738\nSorghum . . . . . . . . . . . . 740\nSaccharum . . . . . . . . . . . 746\nSecale . . . . . . . . . . . . . 765\nTriticum sativum Lam. . . . . . 767\nT. sat. v. dicoccum Alef. . . . 767\nT. sat. v. tenax Hack. . . . . . 776\nZea . . . . . . . . . . . . . . 799\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Arabische Gramineen . . . . 801"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2556,
+    2788
+   ]
+  ],
+  "input_tokens": 6359,
+  "output_tokens": 1377,
+  "cost_usd": 0.053,
+  "seconds": 18.1
+ }
+}

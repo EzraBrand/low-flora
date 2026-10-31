@@ -1,0 +1,193 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "XII",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "XII"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Seite",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Targumische Pflanzennamen 76. — <i>b</i>) Talmudische Pflan-\nzennamen 78. — <i>c</i>) Midrašische Pflanzennamen 81.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Targumische Pflanzennamen 76. — <i>b</i>) Talmudische Pflan-\nzennamen 78. — <i>c</i>) Midrašische Pflanzennamen 81."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "14. Gruppierung der mišnisch-talmudischen Pflanzen . 82",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "14. Gruppierung der mišnisch-talmudischen Pflanzen . 82"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Blumen, Gartenpflanzen 82. — <i>b</i>) Dorn, Distel, Unkraut 85.\n— <i>c</i>) Sträucher, Bäume, Obst 88. — <i>d</i>) Gemüse 92. —\n<i>e</i>) Salate 93. — <i>f</i>) Gewürze 93. — <i>g</i>) Öl, Honig 94. —\n<i>h</i>) Harze, Arome 95. — <i>j</i>) Räucherwerk 97. — <i>k</i>) Heilmit-\ntel 102. — <i>l</i>) Gifte 107. — <i>m</i>) Getränke 107. — <i>n</i>) Seife\n117. — <i>o</i>) Farben, Gerberpflanzen 117. — <i>p</i>) Flechtmaterial,\nFlechtwerk 119. — <i>q</i>) Gespinnst, Faser 119. — <i>r</i>) Docht,\nHeizmaterial 120. — <i>s</i>) Schreibmaterial 121.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Blumen, Gartenpflanzen 82. — <i>b</i>) Dorn, Distel, Unkraut 85.\n— <i>c</i>) Sträucher, Bäume, Obst 88. — <i>d</i>) Gemüse 92. —\n<i>e</i>) Salate 93. — <i>f</i>) Gewürze 93. — <i>g</i>) Öl, Honig 94. —\n<i>h</i>) Harze, Arome 95. — <i>j</i>) Räucherwerk 97. — <i>k</i>) Heilmit-\ntel 102. — <i>l</i>) Gifte 107. — <i>m</i>) Getränke 107. — <i>n</i>) Seife\n117. — <i>o</i>) Farben, Gerberpflanzen 117. — <i>p</i>) Flechtmaterial,\nFlechtwerk 119. — <i>q</i>) Gespinnst, Faser 119. — <i>r</i>) Docht,\nHeizmaterial 120. — <i>s</i>) Schreibmaterial 121."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "15. Wortwanderung . . . . . . . . . . . . 123",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "15. Wortwanderung . . . . . . . . . . . . 123"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Verfehlte Angaben über orientalische Lehnwörter im Grie-\nchischen und griechische bei Juden 123. — <i>b</i>) Griechische\nFremd- und Lehnwörter der Juden und Aramäer 126. —\n<i>c</i>) Orientalische Lehnwörter im Griechischen 128. — <i>d</i>) Sy-\nrische Pflanzennamen 130. — <i>e</i>) Wandernde Wörter 135. —\n<i>f</i>) Ursemitisches und Urindogermanisches 136. — <i>g</i>) Gemein-\nsame nordsemitische Pflanzennamen 138. — <i>h</i>) Nordsemi-\ntisches im Arabischen 140.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Verfehlte Angaben über orientalische Lehnwörter im Grie-\nchischen und griechische bei Juden 123. — <i>b</i>) Griechische\nFremd- und Lehnwörter der Juden und Aramäer 126. —\n<i>c</i>) Orientalische Lehnwörter im Griechischen 128. — <i>d</i>) Sy-\nrische Pflanzennamen 130. — <i>e</i>) Wandernde Wörter 135. —\n<i>f</i>) Ursemitisches und Urindogermanisches 136. — <i>g</i>) Gemein-\nsame nordsemitische Pflanzennamen 138. — <i>h</i>) Nordsemi-\ntisches im Arabischen 140."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "16. Irrtümliches und Ungelöstes . . . . . . . . 142",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "16. Irrtümliches und Ungelöstes . . . . . . . . 142"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "17. Gaonen . . . . . . . . . . . . . . . . . 148",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "17. Gaonen . . . . . . . . . . . . . . . . . 148"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Neue Kulturpflanzen 148. — <i>b</i>) Neue aramäische Pflanzen-\nnamen 149. — <i>c</i>) Pflanzenbeschreibungen 150. — <i>d</i>) Bota-\nnische Einzelheiten 150. — <i>e</i>) Speisenrezepte und Heilmit-\ntel 152. — <i>f</i>) Saadja 154. — <i>g</i>) Identifikation 156. —\n<i>h</i>) Arabische Glossen 157. — <i>j</i>) R. Ḥananel und Aruch 158.\n— <i>k</i>) Šarrira und Haj 159. — <i>l</i>) Eldad 160. — <i>m</i>) Josippon\n161. — <i>n</i>) Alphabet ben Sira 162.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Neue Kulturpflanzen 148. — <i>b</i>) Neue aramäische Pflanzen-\nnamen 149. — <i>c</i>) Pflanzenbeschreibungen 150. — <i>d</i>) Bota-\nnische Einzelheiten 150. — <i>e</i>) Speisenrezepte und Heilmit-\ntel 152. — <i>f</i>) Saadja 154. — <i>g</i>) Identifikation 156. —\n<i>h</i>) Arabische Glossen 157. — <i>j</i>) R. Ḥananel und Aruch 158.\n— <i>k</i>) Šarrira und Haj 159. — <i>l</i>) Eldad 160. — <i>m</i>) Josippon\n161. — <i>n</i>) Alphabet ben Sira 162."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "18. Medizinische Schriftsteller . . . . . . . . 167",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "18. Medizinische Schriftsteller . . . . . . . . 167"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Aßaf 167. — <i>b</i>) Donnolo 176.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Aßaf 167. — <i>b</i>) Donnolo 176."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "19. Nachgaonäische Zeit I. . . . . . . . . . . 178",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "19. Nachgaonäische Zeit I. . . . . . . . . . . 178"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Abulwalīd 178. — <i>b</i>) Menaḥēm ben Saruḳ 181. — <i>c</i>) R.\nDavid Ḳimḥī 181. — <i>d</i>) Salomo Parḥon 182. — <i>e</i>) Rabbēnū\nGĕršōm 183. — <i>f</i>) Raši 184. — <i>g</i>) Aruch 192. — <i>h</i>) Or\nzarua 195. — <i>j</i>) Zidkia ben Abraham 196. — <i>k</i>) Lambert\net Brandin 196. — <i>l</i>) Romanische Glossen aus Revue des\nEtudes Juives 199. — <i>m</i>) Verschiedenes 200.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Abulwalīd 178. — <i>b</i>) Menaḥēm ben Saruḳ 181. — <i>c</i>) R.\nDavid Ḳimḥī 181. — <i>d</i>) Salomo Parḥon 182. — <i>e</i>) Rabbēnū\nGĕršōm 183. — <i>f</i>) Raši 184. — <i>g</i>) Aruch 192. — <i>h</i>) Or\nzarua 195. — <i>j</i>) Zidkia ben Abraham 196. — <i>k</i>) Lambert\net Brandin 196. — <i>l</i>) Romanische Glossen aus Revue des\nEtudes Juives 199. — <i>m</i>) Verschiedenes 200."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3068,
+    1848
+   ],
+   [
+    3068,
+    2544
+   ]
+  ],
+  "input_tokens": 10999,
+  "output_tokens": 1947,
+  "cost_usd": 0.0829,
+  "seconds": 25.5
+ }
+}

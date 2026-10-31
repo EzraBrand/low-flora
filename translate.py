@@ -70,6 +70,7 @@ page or on the next); translate the fragment as a fragment.
 - Page markers such as "[p. 194]" mark where a printed page begins: keep each one, unchanged, \
 at the corresponding place in the English.
 
+{extra}
 Return JSON: {{"blocks": [{{"type": ..., "marker": ..., "text": ...}}]}}.
 
 Input blocks:
@@ -119,10 +120,19 @@ def abbrev_rows(page_keys: str | list[str]) -> str:
                      for r in rows) or "(none)"
 
 
-def translate(page: dict, model: str, effort: str, page_key: str) -> dict:
+CONTENTS = """\
+This input is a table of contents. Here the rule on joining lines does NOT apply: keep every \
+printed line as its own line, separated by "\\n", in the same order. Replace each row of \
+leader dots with " … " and keep the page number at the end of the line exactly as printed: \
+here Roman page numbers (VII, IX: the front matter) stay Roman. Plant family and genus \
+names stay in Latin; translate the German words (e.g. "Anhang", "Arabische Namen", "Nachträge", \
+"Berichtigungen")."""
+
+
+def translate(page: dict, model: str, effort: str, page_key: str | list[str], extra: str = "") -> dict:
     src = [{"type": b["type"], "marker": b.get("marker", ""), "text": b["text"]} for b in page["blocks"]]
     prompt = PROMPT.format(blocks=json.dumps({"blocks": src}, ensure_ascii=False, indent=1),
-                           abbrevs=abbrev_rows(page_key))
+                           abbrevs=abbrev_rows(page_key), extra=extra)
     t = time.monotonic()
     r = requests.post(
         "https://openrouter.ai/api/v1/chat/completions",

@@ -1,0 +1,225 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Inhalt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Inhalt."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "Seite\n1. Einleitung . . . . . . . . . . . . . . . . . . 1",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite\n1. Einleitung . . . . . . . . . . . . . . . . . . 1"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "<i>a</i>) Einleitung 1. — <i>b</i>) Pflanzenwelt Palästinas 3. — <i>c</i>) Lite-\nratur 7.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Einleitung 1. — <i>b</i>) Pflanzenwelt Palästinas 3. — <i>c</i>) Lite-\nratur 7."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "2. Natursinn . . . . . . . . . . . . . . . . . . 9",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "2. Natursinn . . . . . . . . . . . . . . . . . . 9"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "<i>a</i>) Natursinn 9. — <i>b</i>) Etymologie der Pflanzennamen 21. —\n<i>c</i>) Nominalform der Pflanzennamen 26.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Natursinn 9. — <i>b</i>) Etymologie der Pflanzennamen 21. —\n<i>c</i>) Nominalform der Pflanzennamen 26."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "3. Pflanzen der Bibel . . . . . . . . . . . . . 28",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "3. Pflanzen der Bibel . . . . . . . . . . . . . 28"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "<i>a</i>) Hebräisch 28. — <i>b</i>) Luther 35. — <i>c</i>) Erhaltenes Altheb-\nräisch 36. — <i>d</i>) Gruppierung der biblischen Pflanzen 36. —\n<i>e</i>) Anzahl der Pflanzen 37. — <i>f</i>) Einteilung der biblischen\nPflanzenwelt 38.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Hebräisch 28. — <i>b</i>) Luther 35. — <i>c</i>) Erhaltenes Altheb-\nräisch 36. — <i>d</i>) Gruppierung der biblischen Pflanzen 36. —\n<i>e</i>) Anzahl der Pflanzen 37. — <i>f</i>) Einteilung der biblischen\nPflanzenwelt 38."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "4. Mišnische Einteilung der Pflanzen . . . . . . 40",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "4. Mišnische Einteilung der Pflanzen . . . . . . 40"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "5. Teile der Pflanzen . . . . . . . . . . . . . 43",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "5. Teile der Pflanzen . . . . . . . . . . . . . 43"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "6. Verba . . . . . . . . . . . . . . . . . . . 52",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "6. Verba . . . . . . . . . . . . . . . . . . . 52"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "7. Neues Testament . . . . . . . . . . . . . . 57",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "7. Neues Testament . . . . . . . . . . . . . . 57"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "8. Apokryphen . . . . . . . . . . . . . . . . 59",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "8. Apokryphen . . . . . . . . . . . . . . . . 59"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "9. Josephus . . . . . . . . . . . . . . . . . 60",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "9. Josephus . . . . . . . . . . . . . . . . . 60"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "10. Pseudepigraphen . . . . . . . . . . . . . . 62",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "10. Pseudepigraphen . . . . . . . . . . . . . . 62"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "11. Koran . . . . . . . . . . . . . . . . . . . 66",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "11. Koran . . . . . . . . . . . . . . . . . . . 66"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "12. Pflanzen der Mišna . . . . . . . . . . . . . 69",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "12. Pflanzen der Mišna . . . . . . . . . . . . . 69"
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "deu",
+   "text": "13. Targume. Talmud. Midrašim . . . . . . . . 76",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "13. Targume. Talmud. Midrašim . . . . . . . . 76"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2860,
+    3536
+   ]
+  ],
+  "input_tokens": 6381,
+  "output_tokens": 1235,
+  "cost_usd": 0.0502,
+  "seconds": 16.8
+ }
+}

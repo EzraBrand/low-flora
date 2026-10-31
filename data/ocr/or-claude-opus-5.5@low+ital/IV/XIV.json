@@ -1,0 +1,281 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "XIV",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "XIV"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Seite",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "30. Folklore . . . . . . . . . . . . . . . . 332",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "30. Folklore . . . . . . . . . . . . . . . . 332"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Plantlore 332. — <i>b</i>) Adonisgarten. Geburtsbäume 336. —\n<i>c</i>) Baumkultus 337. — <i>d</i>) Getreidestreuen 338. — <i>e</i>) Gras-\nausraufen im Friedhof 339. — <i>f</i>) Blumen und Bäume auf\nGräbern 340.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Plantlore 332. — <i>b</i>) Adonisgarten. Geburtsbäume 336. —\n<i>c</i>) Baumkultus 337. — <i>d</i>) Getreidestreuen 338. — <i>e</i>) Gras-\nausraufen im Friedhof 339. — <i>f</i>) Blumen und Bäume auf\nGräbern 340."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "31. Aberglaube . . . . . . . . . . . . . . 341",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "31. Aberglaube . . . . . . . . . . . . . . 341"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Zauberei. Apotropäisches 341. — <i>b</i>) <i>sĕgullōt</i> 344. —\n<i>c</i>) Baumvögel 347.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Zauberei. Apotropäisches 341. — <i>b</i>) "
+    },
+    {
+     "lang": "translit",
+     "text": "<i>sĕgullōt</i>"
+    },
+    {
+     "lang": "deu",
+     "text": " 344. —\n<i>c</i>) Baumvögel 347."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "32. Agada und Dichtung . . . . . . . . . . 350",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "32. Agada und Dichtung . . . . . . . . . . 350"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Agada 350. — <i>b</i>) Dichtung 355. — <i>c</i>) Fabel und Märchen\n361. — <i>d</i>) Sprache der Pflanzen 361. — <i>e</i>) Pereḳ Šīrā 362.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Agada 350. — <i>b</i>) Dichtung 355. — <i>c</i>) Fabel und Märchen\n361. — <i>d</i>) Sprache der Pflanzen 361. — <i>e</i>) "
+    },
+    {
+     "lang": "translit",
+     "text": "Pereḳ Šīrā"
+    },
+    {
+     "lang": "deu",
+     "text": " 362."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "33. Symbolik . . . . . . . . . . . . . . . . 365",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "33. Symbolik . . . . . . . . . . . . . . . . 365"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Symbolik 365. — <i>b</i>) Embleme 367. — <i>c</i>) Der Lebensbaum\n368. — <i>d</i>) Der Mensch ein umgekehrter Baum 370. —\n<i>e</i>) Typen 375. — <i>f</i>) Sprichwörter 376.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Symbolik 365. — <i>b</i>) Embleme 367. — <i>c</i>) Der Lebensbaum\n368. — <i>d</i>) Der Mensch ein umgekehrter Baum 370. —\n<i>e</i>) Typen 375. — <i>f</i>) Sprichwörter 376."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "34. Kunst . . . . . . . . . . . . . . . . . . 379",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "34. Kunst . . . . . . . . . . . . . . . . . . 379"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Einleitung 379. — <i>b</i>) Typen 381. — <i>c</i>) Heiligtum 381.\n— <i>d</i>) Synagoge 383. — <i>e</i>) Rituelle Kleinkunst 387. —\n<i>f</i>) Grabsteine 387. — <i>g</i>) Handschriften und Drucke 389. —\n<i>j</i>) Dokumente 393. — <i>k</i>) Ex libris 393. — <i>l</i>) Wappen 394.\n— <i>m</i>) Siegel 394.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Einleitung 379. — <i>b</i>) Typen 381. — <i>c</i>) Heiligtum 381.\n— <i>d</i>) Synagoge 383. — <i>e</i>) Rituelle Kleinkunst 387. —\n<i>f</i>) Grabsteine 387. — <i>g</i>) Handschriften und Drucke 389. —\n<i>j</i>) Dokumente 393. — <i>k</i>) Ex libris 393. — <i>l</i>) Wappen 394.\n— <i>m</i>) Siegel 394."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "35. Jede Pflanze hat ihren Stern . . . . . . . . 396",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "35. Jede Pflanze hat ihren Stern . . . . . . . . 396"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "36. Kabbala und Alchemie . . . . . . . . . . 400",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "36. Kabbala und Alchemie . . . . . . . . . . 400"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Kabbala 400. — <i>b</i>) Alchemie 402.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Kabbala 400. — <i>b</i>) Alchemie 402."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "37. Jüdische Beziehungen . . . . . . . . . . 403",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "37. Jüdische Beziehungen . . . . . . . . . . 403"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Juden und biblische Geschichte in der Botanik 403. —\n<i>b</i>) Mosis Stab 408. — <i>c</i>) Das Mara-Holz 411. — <i>d</i>) Hamans\nGalgen 411. — <i>e</i>) Jesus’ Dornenkrone und Kreuz 412. —\n<i>f</i>) Berühmte Bäume 413. — <i>g</i>) Manna 414.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Juden und biblische Geschichte in der Botanik 403. —\n<i>b</i>) Mosis Stab 408. — <i>c</i>) Das Mara-Holz 411. — <i>d</i>) Hamans\nGalgen 411. — <i>e</i>) Jesus’ Dornenkrone und Kreuz 412. —\n<i>f</i>) Berühmte Bäume 413. — <i>g</i>) Manna 414."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "38. Pflanzen als Namen . . . . . . . . . . . 416",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "38. Pflanzen als Namen . . . . . . . . . . . 416"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Ortsnamen 416. — <i>b</i>) Vornamen 419. — <i>c</i>) Familien-\nnamen 424. — <i>d</i>) Buchtitel 428.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Ortsnamen 416. — <i>b</i>) Vornamen 419. — <i>c</i>) Familien-\nnamen 424. — <i>d</i>) Buchtitel 428."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "39. Philosophie und Wissenschaft . . . . . . . . 431",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "39. Philosophie und Wissenschaft . . . . . . . . 431"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3060,
+    1745
+   ],
+   [
+    3060,
+    2619
+   ]
+  ],
+  "input_tokens": 11130,
+  "output_tokens": 1870,
+  "cost_usd": 0.0819,
+  "seconds": 23.7
+ }
+}

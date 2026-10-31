@@ -34,6 +34,11 @@ SAMPLE = [
     *[("I", s, "entry") for s in range(211, 221)],  # pp. 191-200: the whole Pistacia entry
     ("II", 307, "entry"),          # p. 289: Olea, Hebrew verbs, footnote
     ("III", 301, "entry"),         # p. 287: Citrus (etrog), rabbinic sources
+    # tables of contents ("Inhalt"); Bd. I has one per half-volume; Bd. III scan 14 and Bd. IV scan 16 are blank
+    *[("I", s, "toc") for s in range(17, 21)],
+    *[("II", s, "toc") for s in (13, 14)],
+    *[("III", s, "toc") for s in (11, 12, 13)],
+    *[("IV", s, "toc") for s in range(11, 16)],  # scan 16 is blank
 ]
 
 session = requests.Session()

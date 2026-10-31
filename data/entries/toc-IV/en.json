@@ -1,0 +1,437 @@
+{
+ "main": [
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Contents.",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "Page\n1. Introduction … 1",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "<i>a</i>) Introduction 1. — <i>b</i>) Flora of Eretz Yisrael 3. — <i>c</i>) Literature\n7.",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "2. Feeling for nature … 9",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "<i>a</i>) Feeling for nature 9. — <i>b</i>) Etymology of plant names 21. —\n<i>c</i>) Nominal form of plant names 26.",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "3. Plants of the Bible … 28",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "<i>a</i>) Hebrew 28. — <i>b</i>) Luther 35. — <i>c</i>) Surviving Old Hebrew\n36. — <i>d</i>) Grouping of the biblical plants 36. —\n<i>e</i>) Number of plants 37. — <i>f</i>) Classification of the biblical\nflora 38.",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "4. Mishnaic classification of plants … 40",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "5. Parts of plants … 43",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "6. Verbs … 52",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "7. New Testament … 57",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "8. Apocrypha … 59",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "9. Josephus … 60",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "10. Pseudepigrapha … 62",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "11. Koran … 66",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "12. Plants of the Mishna … 69",
+   "page": "scan0011"
+  },
+  {
+   "type": "index_entry",
+   "marker": "",
+   "text": "13. Targums. Talmud. Midrashim … 76",
+   "page": "scan0011"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "[p. XII] <i>a</i>) Targumic plant names 76. — <i>b</i>) Talmudic plant\nnames 78. — <i>c</i>) Midrashic plant names 81.",
+   "page": "XII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "14. Grouping of the Mishnaic-Talmudic plants … 82",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Flowers, garden plants 82. — <i>b</i>) Thorn, thistle, weeds 85.\n— <i>c</i>) Shrubs, trees, fruit 88. — <i>d</i>) Vegetables 92. —\n<i>e</i>) Salads 93. — <i>f</i>) Spices 93. — <i>g</i>) Oil, honey 94. —\n<i>h</i>) Resins, aromatics 95. — <i>j</i>) Incense 97. — <i>k</i>) Remedies\n102. — <i>l</i>) Poisons 107. — <i>m</i>) Beverages 107. — <i>n</i>) Soap\n117. — <i>o</i>) Dyes, tanning plants 117. — <i>p</i>) Plaiting material,\nwickerwork 119. — <i>q</i>) Yarn, fibre 119. — <i>r</i>) Wick,\nfuel 120. — <i>s</i>) Writing material 121.",
+   "page": "XII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "15. Migration of words … 123",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Mistaken claims about Oriental loanwords in Greek\nand Greek ones among the Jews 123. — <i>b</i>) Greek\nforeign words and loanwords of the Jews and Arameans 126. —\n<i>c</i>) Oriental loanwords in Greek 128. — <i>d</i>) Syriac\nplant names 130. — <i>e</i>) Migrating words 135. —\n<i>f</i>) Proto-Semitic and Proto-Indo-European 136. — <i>g</i>) Common\nNorth Semitic plant names 138. — <i>h</i>) North Semitic\nelements in Arabic 140.",
+   "page": "XII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "16. Errors and unsolved problems … 142",
+   "page": "XII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "17. Geonim … 148",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) New cultivated plants 148. — <i>b</i>) New Aramaic plant\nnames 149. — <i>c</i>) Plant descriptions 150. — <i>d</i>) Botanical\ndetails 150. — <i>e</i>) Food recipes and remedies\n152. — <i>f</i>) Saadja 154. — <i>g</i>) Identification 156. —\n<i>h</i>) Arabic glosses 157. — <i>j</i>) R. Ḥananel and Aruch 158.\n— <i>k</i>) Šarrira and Haj 159. — <i>l</i>) Eldad 160. — <i>m</i>) Josippon\n161. — <i>n</i>) Alphabet of ben Sira 162.",
+   "page": "XII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "18. Medical writers … 167",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Aßaf 167. — <i>b</i>) Donnolo 176.",
+   "page": "XII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "19. Post-Geonic period I. … 178",
+   "page": "XII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Abulwalīd 178. — <i>b</i>) Menaḥēm ben Saruḳ 181. — <i>c</i>) R.\nDavid Ḳimḥī 181. — <i>d</i>) Salomo Parḥon 182. — <i>e</i>) Rabbēnū\nGĕršōm 183. — <i>f</i>) Raši 184. — <i>g</i>) Aruch 192. — <i>h</i>) Or\nzarua 195. — <i>j</i>) Zidkia ben Abraham 196. — <i>k</i>) Lambert\net Brandin 196. — <i>l</i>) Romance glosses from Revue des\nEtudes Juives 199. — <i>m</i>) Miscellanea 200.",
+   "page": "XII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "[p. XIII] 20. Post-Geonic period II. … 201",
+   "page": "XIII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Maimūnī 201. — <i>b</i>) Siponte 211. — <i>c</i>) Menaḥēm ben Šĕlōmō\n212. — <i>d</i>) R. Manōaḥ 212. — <i>e</i>) Estori ha-Farḥi 214.\n— <i>f</i>) Bacher's Persian 216. — <i>g</i>) Mose Širwānī 221. —\n<i>j</i>) Josef ha-Kohen 221.",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "21. Karaites … 223",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "22. Eretz-Yisrael Hebrew … 232",
+   "page": "XIII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Earlier attempts 232. — <i>b</i>) The Magdīr 233.",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "23. Jargon … 241",
+   "page": "XIII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Seven-language dictionary 241. — <i>b</i>) Yiddish in Mhril\n244. — <i>c</i>) The Vilna Academy for Yiddish 244. — <i>d</i>) H.\nL. Strack: Jüdisches Wörterbuch 247. — <i>e</i>) Yiddish in France\n249. — <i>f</i>) Yiddish and Slavic in Flora 1–3. 249.\n— <i>g</i>) Spaniolic 250. — <i>h</i>) The languages of our Flora 251.",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "24. Garden and park … 253",
+   "page": "XIII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Gardens in Eretz Yisrael 253. — <i>b</i>) Terminology 255. —\n<i>c</i>) Flower garden and orchard. Royal garden 260. — <i>d</i>) Old\nTestament. New Testament. Apocrypha 261. — <i>e</i>) Mishna\nand Talmud 263. — <i>f</i>) Legal matters 264. — <i>g</i>) Garden bed\n266. — <i>h</i>) Gardens of Jerusalem 267. — <i>j</i>) Gardens of Jewish\ncommunities 268. — <i>k</i>) Hothouses 270. — <i>l</i>) Gardeners 270.\n— <i>m</i>) Aggada 272. — <i>n</i>) Symbolism 274. — <i>o</i>) Paradise\n275. — <i>p</i>) Proverbs 279. — <i>q</i>) Poetry 280. — <i>r</i>) Book\ntitles 283. — <i>s</i>) Place names 285. — <i>t</i>) New forests 285.",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "25. Halacha … 287",
+   "page": "XIII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Benedictions 287. — <i>b</i>) Levies 290. — <i>c</i>) Orla. Protection\nof fruit trees 290. — <i>d</i>) Heterogeneity 291. — <i>e</i>) Unleavened\nbread 296. — <i>f</i>) Casuistry 297. — <i>g</i>) Tobacco 299.",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "26. Rite … 302",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "27. The plants of the Jewish kitchen … 314",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "28. Measures … 317",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "29. Trade and cultivation … 319",
+   "page": "XIII"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Trade 319. — <i>b</i>) Adulterations 321. — <i>c</i>) Cultivation 321.\n— <i>d</i>) Older and newer cultivated plants 323. — <i>e</i>) Plant\nproducts as taxes 330.",
+   "page": "XIII"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "[p. XIV] 30. Folklore … 332",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Plantlore 332. — <i>b</i>) Adonis garden. Birth trees 336. —\n<i>c</i>) Tree worship 337. — <i>d</i>) Strewing of grain 338. — <i>e</i>) Plucking\nup grass in the cemetery 339. — <i>f</i>) Flowers and trees on\ngraves 340.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "31. Superstition … 341",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Magic. Apotropaics 341. — <i>b</i>) <i>sĕgullōt</i> 344. —\n<i>c</i>) Tree birds 347.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "32. Aggadah and Poetry … 350",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Aggadah 350. — <i>b</i>) Poetry 355. — <i>c</i>) Fable and fairy tale\n361. — <i>d</i>) Language of plants 361. — <i>e</i>) Pereḳ Šīrā 362.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "33. Symbolism … 365",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Symbolism 365. — <i>b</i>) Emblems 367. — <i>c</i>) The tree of life\n368. — <i>d</i>) Man an inverted tree 370. —\n<i>e</i>) Types 375. — <i>f</i>) Proverbs 376.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "34. Art … 379",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Introduction 379. — <i>b</i>) Types 381. — <i>c</i>) Sanctuary 381.\n— <i>d</i>) Synagogue 383. — <i>e</i>) Ritual minor arts 387. —\n<i>f</i>) Tombstones 387. — <i>g</i>) Manuscripts and printed books 389. —\n<i>j</i>) Documents 393. — <i>k</i>) Ex libris 393. — <i>l</i>) Coats of arms 394.\n— <i>m</i>) Seals 394.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "35. Every plant has its star … 396",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "36. Kabbalah and Alchemy … 400",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Kabbalah 400. — <i>b</i>) Alchemy 402.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "37. Jewish Associations … 403",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Jews and biblical history in botany 403. —\n<i>b</i>) Moses' staff 408. — <i>c</i>) The wood of Marah 411. — <i>d</i>) Haman's\ngallows 411. — <i>e</i>) Jesus' crown of thorns and cross 412. —\n<i>f</i>) Famous trees 413. — <i>g</i>) Manna 414.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "38. Plants as Names … 416",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Place names 416. — <i>b</i>) Given names 419. — <i>c</i>) Family\nnames 424. — <i>d</i>) Book titles 428.",
+   "page": "XIV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "39. Philosophy and Science … 431",
+   "page": "XIV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "[p. XV] <i>a</i>) Philo 431. — <i>b</i>) Aristotle 433. — <i>c</i>) The vegetative\nsoul 434. — <i>d</i>) Abraham Ibn Ezra 436. — <i>e</i>) Maimūnī\n437. — <i>f</i>) Jacob Anatoli and Šemṭōb Ibn Palquera 437. —\n<i>g</i>) Gēršōn of Arles 438. — <i>h</i>) Isaac Albalag and others. 13th\ncentury 446. — <i>i</i>) Judah ha-Levi 447. — <i>j</i>) Meir Aldabi\n448. — <i>k</i>) Simon Duran 449. — <i>l</i>) Joseph Albo 454. — <i>m</i>) To-\nbia Kohen 454. — <i>n</i>) 18th century 455. — <i>o</i>) 19th cen-\ntury 459. — <i>p</i>) Most recent times 460. — <i>q</i>) Botanical lite-\nrature. Eretz Yisrael 462. — <i>r</i>) Plant collection 464. — <i>s</i>) Me-\ndical glossaries 465.",
+   "page": "XV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "40. Appendix … 468",
+   "page": "XV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Meleager of Gadara 468. — <i>b</i>) Plant names in the Sama-\nritan Targum 476. — <i>c</i>) Syriac plant names in\nforeign sources 476. — <i>d</i>) New material from Brockelmann, Lexicon\nSyriacum ed. 2. Halle 1928. 479. — <i>e</i>) Punic plant\nnames 479.",
+   "page": "XV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Addenda … 485",
+   "page": "XV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Volume 1 485. — Volume 2 520. — Volume 3 548. — Volume 4 575.",
+   "page": "XV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Corrigenda … 589",
+   "page": "XV"
+  },
+  {
+   "type": "heading",
+   "marker": "",
+   "text": "Indexes … 595",
+   "page": "XV"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "<i>a</i>) Hebrew and Aramaic plant names 595. — <i>b</i>) La-\ntin and Greek plant names 624. — <i>c</i>) German\nplant names 657. — <i>d</i>) Hebrew and Aramaic words\nand glosses 683. — <i>e</i>) More important Bible passages 700. —\n<i>f</i>) Subject index 704. — <i>g</i>) Abbreviations 731.",
+   "page": "XV"
+  }
+ ],
+ "notes": [],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "rules": "v3",
+  "cost_usd": 0.1837
+ }
+}

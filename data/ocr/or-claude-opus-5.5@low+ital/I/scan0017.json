@@ -1,0 +1,125 @@
+{
+ "blocks": [
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "Inhalt.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Inhalt."
+    }
+   ]
+  },
+  {
+   "type": "index_entry",
+   "lang": "lat",
+   "text": "Seite\nDie Alexander-Kohut-Stiftungen VII\nVorwort . . . . . . . . . . . . . IX\nKryptogamae . . . . . . . . 1—44\nRhizocarpeae . . . . . . . . 1\nSelaginellaceae . . . . . . 1\nLycopodiaceae . . . . . . 1\nOphioglossaceae . . . . . 1\nEquisetaceae . . . . . . . 1\nAnhang: Halorrhagidaceae . 6\nFilices. . . . . . . . . . . 6\nMusci . . . . . . . . . . . 13\nAlgae . . . . . . . . . . . 14\nAnhang: Lemnaceae . . . . . 16\nLichenes . . . . . . . . . 19\nFungi . . . . . . . . . . . 26\nPhanerogamae . . . . . . . 45\nAcanthaceae . . . . . . . . 45\nAceraceae . . . . . . . . . 47\nAmpelidaceae. . . . . . . 48—189\nAnacardiaceae . . . . . 190—204\nArabische Anacardiaceen . . . 190\nPistacia . . . . . . . . . . . 191\nRhus . . . . . . . . . . . . . 200\nSemecarpus . . . . . . . . . 202\nApocynaceae . . . . . . 205—212\nNerium . . . . . . . . . . . . 206\nAraceae . . . . . . . . . 213—218\nArabische Araceen. . . . . . . 213\nArum . . . . . . . . . . . . . 214\nColocasia . . . . . . . . . . 215\nAraliaceae . . . . . . . . 219—221\nHedera. . . . . . . . . . . . 219\nAristolochiaceae . . . . 222—223\nAristolochia . . . . . . . . . 222\nAsarum . . . . . . . . . . . . 223\nArtocarpaceae . . . . . . 224—280\nFicus . . . . . . . . . . . . . 224\nCannabis . . . . . . . . . . . 255\nHumulus . . . . . . . . . . . 263\nSeite\nMorus. . . . . . . . . . . . . 264\nSycomorus . . . . . . . . . . 274\nAsclepiadaceae . . . . . 281—286\nAsclepias . . . . . . . . . . . 281\nCalotropis . . . . . . . . . . 281\nDaemia . . . . . . . . . . . . 284\nLeptadenia . . . . . . . . . . 285\nCynanchum . . . . . . . . . . 286\nBerberidaceae . . . . . . . . 287\nBerberis . . . . . . . . . . . 287\nLeontice . . . . . . . . . . . 288\nBetulaceae . . . . . . . . . . 290\nBorraginaceae . . . . . . . . 290\nArabische Borraginaceen . . . 290\nAnchusa . . . . . . . . . . . 292\nCordia . . . . . . . . . . . . 296\nHeliotropium . . . . . . . . . 297\nLithospermum . . . . . . . . 297\nSymphytum . . . . . . . . . . 297\nBromeliaceae . . . . . . . . 298\nBurseraceae . . . . . . . 299—314\nBalsam . . . . . . . . . . . . 299\nBdellium . . . . . . . . . . . 304\nMyrrhe . . . . . . . . . . . . 305\nWeihrauch . . . . . . . . . . 312\nAnhang: Meliaceae . . . . . . 315\nBuxaceae. . . . . . . . . . . 316\nBuxus . . . . . . . . . . . . . 316\nCactaceae . . . . . . . . . . 320\nOpuntia . . . . . . . . . . . . 320\nCampanulaceae . . . . . . . 321\nCapparidaceae . . . . . 322—331\nCapparis . . . . . . . . . . . 322\nArabische Capparidaceen . . . 330\nCaprifoliaceae . . . . . . . 332\nLonicera . . . . . . . . . . . 332\nSambucus . . . . . . . . . . 332\nArabische Caprifoliaceen . . . 333\nCaryophyllaceae . . . . . . . 334",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite\nDie Alexander-Kohut-Stiftungen VII\nVorwort . . . . . . . . . . . . . IX\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Kryptogamae . . . . . . . . 1—44\nRhizocarpeae . . . . . . . . 1\nSelaginellaceae . . . . . . 1\nLycopodiaceae . . . . . . 1\nOphioglossaceae . . . . . 1\nEquisetaceae . . . . . . . 1\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Anhang: "
+    },
+    {
+     "lang": "lat",
+     "text": "Halorrhagidaceae . 6\nFilices. . . . . . . . . . . 6\nMusci . . . . . . . . . . . 13\nAlgae . . . . . . . . . . . 14\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Anhang: "
+    },
+    {
+     "lang": "lat",
+     "text": "Lemnaceae . . . . . 16\nLichenes . . . . . . . . . 19\nFungi . . . . . . . . . . . 26\nPhanerogamae . . . . . . . 45\nAcanthaceae . . . . . . . . 45\nAceraceae . . . . . . . . . 47\nAmpelidaceae. . . . . . . 48—189\nAnacardiaceae . . . . . 190—204\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Arabische Anacardiaceen . . . 190\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Pistacia . . . . . . . . . . . 191\nRhus . . . . . . . . . . . . . 200\nSemecarpus . . . . . . . . . 202\nApocynaceae . . . . . . 205—212\nNerium . . . . . . . . . . . . 206\nAraceae . . . . . . . . . 213—218\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Arabische Araceen. . . . . . . 213\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Arum . . . . . . . . . . . . . 214\nColocasia . . . . . . . . . . 215\nAraliaceae . . . . . . . . 219—221\nHedera. . . . . . . . . . . . 219\nAristolochiaceae . . . . 222—223\nAristolochia . . . . . . . . . 222\nAsarum . . . . . . . . . . . . 223\nArtocarpaceae . . . . . . 224—280\nFicus . . . . . . . . . . . . . 224\nCannabis . . . . . . . . . . . 255\nHumulus . . . . . . . . . . . 263\nSeite\nMorus. . . . . . . . . . . . . 264\nSycomorus . . . . . . . . . . 274\nAsclepiadaceae . . . . . 281—286\nAsclepias . . . . . . . . . . . 281\nCalotropis . . . . . . . . . . 281\nDaemia . . . . . . . . . . . . 284\nLeptadenia . . . . . . . . . . 285\nCynanchum . . . . . . . . . . 286\nBerberidaceae . . . . . . . . 287\nBerberis . . . . . . . . . . . 287\nLeontice . . . . . . . . . . . 288\nBetulaceae . . . . . . . . . . 290\nBorraginaceae . . . . . . . . 290\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Arabische Borraginaceen . . . 290\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Anchusa . . . . . . . . . . . 292\nCordia . . . . . . . . . . . . 296\nHeliotropium . . . . . . . . . 297\nLithospermum . . . . . . . . 297\nSymphytum . . . . . . . . . . 297\nBromeliaceae . . . . . . . . 298\nBurseraceae . . . . . . . 299—314\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Balsam . . . . . . . . . . . . 299\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Bdellium . . . . . . . . . . . 304\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Myrrhe . . . . . . . . . . . . 305\nWeihrauch . . . . . . . . . . 312\nAnhang: "
+    },
+    {
+     "lang": "lat",
+     "text": "Meliaceae . . . . . . 315\nBuxaceae. . . . . . . . . . . 316\nBuxus . . . . . . . . . . . . . 316\nCactaceae . . . . . . . . . . 320\nOpuntia . . . . . . . . . . . . 320\nCampanulaceae . . . . . . . 321\nCapparidaceae . . . . . 322—331\nCapparis . . . . . . . . . . . 322\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Arabische Capparidaceen . . . 330\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Caprifoliaceae . . . . . . . 332\nLonicera . . . . . . . . . . . 332\nSambucus . . . . . . . . . . 332\n"
+    },
+    {
+     "lang": "deu",
+     "text": "Arabische Caprifoliaceen . . . 333\n"
+    },
+    {
+     "lang": "lat",
+     "text": "Caryophyllaceae . . . . . . . 334"
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    2548,
+    1904
+   ],
+   [
+    2548,
+    1744
+   ]
+  ],
+  "input_tokens": 11081,
+  "output_tokens": 1861,
+  "cost_usd": 0.0815,
+  "seconds": 25.1
+ }
+}

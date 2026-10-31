@@ -1,0 +1,241 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "XIII",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "XIII"
+    }
+   ]
+  },
+  {
+   "type": "furniture",
+   "lang": "deu",
+   "text": "Seite",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "Seite"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "20. Nachgaonäische Zeit II. . . . . . . . . . . . 201",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "20. Nachgaonäische Zeit II. . . . . . . . . . . . 201"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Maimūnī 201. — <i>b</i>) Siponte 211. — <i>c</i>) Menaḥēm ben Šĕ-\nlōmō 212. — <i>d</i>) R. Manōaḥ 212. — <i>e</i>) Estori ha-Farḥi 214.\n— <i>f</i>) Bachers Perser 216. — <i>g</i>) Mose Širwānī 221. —\n<i>j</i>) Josef ha-Kohen 221.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Maimūnī 201. — <i>b</i>) Siponte 211. — <i>c</i>) Menaḥēm ben Šĕ-\nlōmō 212. — <i>d</i>) R. Manōaḥ 212. — <i>e</i>) Estori ha-Farḥi 214.\n— <i>f</i>) Bachers Perser 216. — <i>g</i>) Mose Širwānī 221. —\n<i>j</i>) Josef ha-Kohen 221."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "21. Karäer . . . . . . . . . . . . . . . . . 223",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "21. Karäer . . . . . . . . . . . . . . . . . 223"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "22. Palästina-Hebräisch . . . . . . . . . . . . 232",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "22. Palästina-Hebräisch . . . . . . . . . . . . 232"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Ältere Versuche 232. — <i>b</i>) Der Magdīr 233.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Ältere Versuche 232. — <i>b</i>) Der Magdīr 233."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "23. Jargon . . . . . . . . . . . . . . . . . 241",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "23. Jargon . . . . . . . . . . . . . . . . . 241"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Sieben-Sprachen Wörterbuch 241. — <i>b</i>) Yiddish bei Mhril\n244. — <i>c</i>) Die Wilnaer Akademie für Yiddish 244. — <i>d</i>) H.\nL. Strack: Jüdisches Wörterbuch 247. — <i>e</i>) Yiddish in Frank-\nreich 249. — <i>f</i>) Yiddish und slawisch in Flora I—III. 249.\n— <i>g</i>) Spagniolisch 250. — <i>h</i>) Die Sprachen unserer Flora 251.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Sieben-Sprachen Wörterbuch 241. — <i>b</i>) Yiddish bei Mhril\n244. — <i>c</i>) Die Wilnaer Akademie für Yiddish 244. — <i>d</i>) H.\nL. Strack: Jüdisches Wörterbuch 247. — <i>e</i>) Yiddish in Frank-\nreich 249. — <i>f</i>) Yiddish und slawisch in Flora I—III. 249.\n— <i>g</i>) Spagniolisch 250. — <i>h</i>) Die Sprachen unserer Flora 251."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "24. Garten und Park . . . . . . . . . . . . . 253",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "24. Garten und Park . . . . . . . . . . . . . 253"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Gärten in Palästina 253. — <i>b</i>) Terminologie 255. —\n<i>c</i>) Blumen- und Baumgarten. Königsgarten 260. — <i>d</i>) Altes\nTestament. Neues Testament. Apokryphen 261. — <i>e</i>) Mišna\nund Talmud 263. — <i>f</i>) Gesetzliches 264. — <i>g</i>) Gartenbeet\n266. — <i>h</i>) Gärten Jerusalems 267. — <i>j</i>) Gärten jüdischer\nGemeinden 268. — <i>k</i>) Treibhäuser 270. — <i>l</i>) Gärtner 270.\n— <i>m</i>) Agada 272. — <i>n</i>) Symbolik 274. — <i>o</i>) Das Paradies\n275. — <i>p</i>) Sprichwörter 279. — <i>q</i>) Dichtung 280. — <i>r</i>) Bücher-\ntitel 283. — <i>s</i>) Ortsnamen 285. — <i>t</i>) Neue Wälder 285.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Gärten in Palästina 253. — <i>b</i>) Terminologie 255. —\n<i>c</i>) Blumen- und Baumgarten. Königsgarten 260. — <i>d</i>) Altes\nTestament. Neues Testament. Apokryphen 261. — <i>e</i>) Mišna\nund Talmud 263. — <i>f</i>) Gesetzliches 264. — <i>g</i>) Gartenbeet\n266. — <i>h</i>) Gärten Jerusalems 267. — <i>j</i>) Gärten jüdischer\nGemeinden 268. — <i>k</i>) Treibhäuser 270. — <i>l</i>) Gärtner 270.\n— <i>m</i>) Agada 272. — <i>n</i>) Symbolik 274. — <i>o</i>) Das Paradies\n275. — <i>p</i>) Sprichwörter 279. — <i>q</i>) Dichtung 280. — <i>r</i>) Bücher-\ntitel 283. — <i>s</i>) Ortsnamen 285. — <i>t</i>) Neue Wälder 285."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "25. Halacha . . . . . . . . . . . . . . . . . 287",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "25. Halacha . . . . . . . . . . . . . . . . . 287"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Eulogien 287. — <i>b</i>) Abgaben 290. — <i>c</i>) Orla. Schonung\nder Obstbäume 290. — <i>d</i>) Heterogeneität 291. — <i>e</i>) Unge-\nsäuertes 296. — <i>f</i>) Kasuistisches 297. — <i>g</i>) Tabak 299.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Eulogien 287. — <i>b</i>) Abgaben 290. — <i>c</i>) Orla. Schonung\nder Obstbäume 290. — <i>d</i>) Heterogeneität 291. — <i>e</i>) Unge-\nsäuertes 296. — <i>f</i>) Kasuistisches 297. — <i>g</i>) Tabak 299."
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "26. Ritus . . . . . . . . . . . . . . . . . 302",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "26. Ritus . . . . . . . . . . . . . . . . . 302"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "27. Die Pflanzen der jüdischen Küche . . . . . . 314",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "27. Die Pflanzen der jüdischen Küche . . . . . . 314"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "28. Maße . . . . . . . . . . . . . . . . . 317",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "28. Maße . . . . . . . . . . . . . . . . . 317"
+    }
+   ]
+  },
+  {
+   "type": "heading",
+   "lang": "deu",
+   "text": "29. Handel und Anbau . . . . . . . . . . . . 319",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "29. Handel und Anbau . . . . . . . . . . . . 319"
+    }
+   ]
+  },
+  {
+   "type": "body",
+   "lang": "deu",
+   "text": "<i>a</i>) Handel 319. — <i>b</i>) Verfälschungen 321. — <i>c</i>) Anbau 321.\n— <i>d</i>) Ältere und neuere Kulturpflanzen 323. — <i>e</i>) Pflanzen-\nstoffe als Steuern 330.",
+   "marker": "",
+   "runs": [
+    {
+     "lang": "deu",
+     "text": "<i>a</i>) Handel 319. — <i>b</i>) Verfälschungen 321. — <i>c</i>) Anbau 321.\n— <i>d</i>) Ältere und neuere Kulturpflanzen 323. — <i>e</i>) Pflanzen-\nstoffe als Steuern 330."
+    }
+   ]
+  }
+ ],
+ "meta": {
+  "engine": "openrouter",
+  "model": "anthropic/claude-opus-5.5",
+  "provider": "Claude Platform on AWS",
+  "effort": "low",
+  "reasoning_tokens": 0,
+  "images": [
+   [
+    3076,
+    1896
+   ],
+   [
+    3076,
+    2480
+   ]
+  ],
+  "input_tokens": 11136,
+  "output_tokens": 1937,
+  "cost_usd": 0.0833,
+  "seconds": 24.0
+ }
+}

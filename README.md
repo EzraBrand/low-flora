@@ -12,6 +12,14 @@ switches to show them inline), numbered footnotes, and a searchable abbreviation
 `build_site.py` into `docs/` (GitHub Pages serves `main:/docs`); run `uv run build_site.py` after new
 translations.
 
+**Tables of contents of all volumes:** German and English, one line per entry with its page
+number: [Bd. I, first half](data/entries/toc-I-1/en.md), [Bd. I, second half](data/entries/toc-I-2/en.md),
+[Bd. II](data/entries/toc-II/en.md), [Bd. III](data/entries/toc-III/en.md),
+[Bd. IV](data/entries/toc-IV/en.md) (also on the reading edition). Bd. I has one contents list for
+each half-volume; Bd. III scan 14 and Bd. IV scan 16 are blank pages. `entry.py` translates them in
+"contents" mode: lines are kept, leader dots become " … ", and Roman page numbers of the front
+matter stay Roman.
+
 **A whole entry:** [Pistacia, Bd. I pp. 191–200, in English](data/entries/pistacia/en.md)
 (and the [joined German text](data/entries/pistacia/de.md)): ten pages joined into continuous
 text, with page markers, footnotes by page, and abbreviations opened.
@@ -260,6 +268,10 @@ What I saw by reading the outputs against the scans (not yet measured against go
 - **Abbreviation expansion in the translation is done by the model.** Bekiut's Jastrow/BDB
   readers do it deterministically (reviewed mapping, longest match first, conservative with
   short forms, tested). That approach is safer and should replace the model step here.
+- **Crop of contents pages:** the text-block finder cut off the column of page numbers (Bd. IV:
+numbers far right after the leader dots) and, on two-column pages with a center rule (Bd. III),
+kept only one column. Fixed 31-Oct-2026: wider side margins (6% of page width) and gaps up to 4%
+bridged. Pages OCR'd before that used the old crop; their text was complete.
 - Roman numerals: the model leaves some unclear cases (e.g. "1882 21. II. Nr. 2") as printed.
 - **Kraken** (7.1.1, CPU, in `.venv-kraken`, Python 3.12): the HTR-United/Zenodo model repository
   has no printed-Hebrew model, only medieval Hebrew manuscript models. Tested on p. 194 with the
@@ -362,3 +374,12 @@ Brainstorm, not a plan. Rough order: cheap and useful first.
 - Löw, *Aramäische Pflanzennamen* (1881), the predecessor of the Flora.
 - Other public-domain German works on rabbinic realia (e.g. Krauss, *Talmudische Archäologie*);
   check first what is already OCR'd or translated.
+
+## License
+
+The code and everything added in this repository (transcriptions, gold pages, translations,
+the abbreviation table, the reading edition, and the documentation) are under the
+[MIT License](LICENSE), © 2026 Ezra Brand.
+
+Löw's *Die Flora der Juden* itself is in the public domain; the scans are by the Frankfurt
+University Library (Freimann collection), Public Domain Mark 1.0, and are not stored here.

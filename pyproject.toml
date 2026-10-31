@@ -1,6 +1,7 @@
 [project]
 name = "low-flora"
 version = "0.1.0"
+license = "MIT"
 description = "Test pipeline for OCR and English translation of Immanuel Löw, Die Flora der Juden (1924-34)"
 readme = "README.md"
 requires-python = ">=3.13"
