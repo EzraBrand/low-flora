@@ -2,7 +2,29 @@
 
 Test pipeline for OCR of Immanuel Löw, *Die Flora der Juden* (Vienna/Leipzig 1924–34).
 Proof of concept on 9 pages: fetch page images, OCR them with several engines, score them
-against hand-corrected pages.
+against hand-corrected pages, and translate them into English.
+
+## Read the results
+
+The current outputs for the main-text pages: the scan (Frankfurt viewer), the transcription
+(Claude Opus 5.5, with italics), and the English translation (rules v2, see
+[Translation](#translation)). **Start with Bd. I p. 194**: its transcription was checked by hand
+(the gold page), and the translation was made from that checked text.
+
+| Page | Contents | Scan | Transcription | English |
+|---|---|---|---|---|
+| **I 194** | Pistacia: Syriac, Arabic, Greek, footnotes | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104480) | [checked (gold)](data/gold/I/194.txt), [notes](data/gold/I/194.notes.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/194.md) |
+| I 193 | Pistacia Terebinthus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104479) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/193.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/193.md) |
+| I 195 | Pistacia Lentiscus (mastic) | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104481) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/195.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/195.md) |
+| I 196 | Pistacia Lentiscus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104482) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/196.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/196.md) |
+| I 197 | Pistacia Lentiscus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104483) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/197.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/197.md) |
+| II 289 | Olea: Hebrew verbs | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/103479) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/II/289.md) | [English](data/translation/claude-opus-5.5%40medium-v2/II/289.md) |
+| III 287 | Citrus: the *etrog* in rabbinic sources | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104026) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/III/287.md) | [English](data/translation/claude-opus-5.5%40medium-v2/III/287.md) |
+
+Also: [abbreviations and bibliography](ABBREVIATIONS.md) (from Löw's own list),
+[other possible targets](TARGETS.md), and the outputs of all engines in [data/ocr](data/ocr).
+The folder `claude-opus-5.5@medium-v1` holds the first translation (older rules: every non-Latin
+word transliterated, no abbreviation expansion); it is kept only for comparison.
 
 ## Source
 
@@ -30,7 +52,7 @@ Record: http://nbn-resolving.de/urn:nbn:de:hebis:30-180014581006
   `%LOCALAPPDATA%\Programs\Tesseract-OCR`, set `TESSERACT` if it is elsewhere).
   Language data (tessdata_best `deu heb ara syr osd`) goes in `tessdata\` in this repo.
 - OpenRouter key: a text file, default `%USERPROFILE%\Desktop\Misc\key.txt` (set `OPENROUTER_KEY_FILE`).
-- Direct Anthropic API (engine `claude`): `ANTHROPIC_API_KEY`. Not tested, no key on this machine.
+- Direct Anthropic API (engine `claude`): `ANTHROPIC_API_KEY`. Not tested.
 - Kraken (optional baseline), in its own venv:
   `uv venv .venv-kraken --python 3.12`, `uv pip install --python .venv-kraken\Scripts\python.exe kraken`,
   then `set PYTHONUTF8=1` and `.venv-kraken\Scripts\kraken.exe get 10.5281/zenodo.21788410`.
@@ -125,8 +147,10 @@ exists, else the OCR (default `or-claude-opus-5.5@low+ital`). Rules (since 31-Oc
 - **Roman numerals** become Arabic numerals: `p. XXXIX` → `p. 39`, `Robinson I 346` → `Robinson 1, 346`.
 - Lines are joined and end-of-line hyphenation is undone.
 
-Output: `data/translation/{model}@{effort}/{vol}/{page}.json` and `.md` (footnotes at the end).
-`claude-opus-5.5@medium-v1` holds the first version (vocalized transliteration of everything,
+Output: `data/translation/{model}@{effort}-{rules version}/{vol}/{page}.json` and `.md`
+(footnotes at the end). The rules version is `RULES_VERSION` in `translate.py`; change it when
+the rules change, so that older outputs are kept. Current: `claude-opus-5.5@medium-v2`.
+`claude-opus-5.5@medium-v1` holds the first version (every non-Latin word transliterated,
 no abbreviation expansion), kept for comparison.
 
 v2, 7 main-text pages with Opus 5.5 @medium: $0.61 total, about $0.06–0.13 and 26–59 s per page.
@@ -194,7 +218,7 @@ What I saw by reading the outputs against the scans (not yet measured against go
 - **Image size:** the APIs downscale to 2576 px long edge and 3.75 MP. `ocr.py` crops to the
   text block and cuts the page in two at a blank line, so each half goes at about 68% of scan
   resolution (about 48% for a whole page).
-- The direct Anthropic API engine (`claude`) is written but not run (no API key here); the
+- The direct Anthropic API engine (`claude`) is written but not run; the
   OpenRouter path covers the same model.
 - **Frankfurt has no OCR text** for this work (checked 31-Oct-2026): the IIIF manifests have no
   annotations, the METS record has only image file groups, the full-text download URLs return

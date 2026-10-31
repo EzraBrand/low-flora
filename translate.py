@@ -24,6 +24,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 DATA = Path(__file__).parent / "data"
 KEY_FILE = Path.home() / "Desktop/Misc/key.txt"
+RULES_VERSION = "v2"  # change when the translation rules change; it is part of the output folder name
 
 PROMPT = """\
 Below is one OCR'd page of Immanuel Löw, "Die Flora der Juden" (1924-34), a German scholarly \
@@ -196,7 +197,7 @@ def main():
     if a.main:
         man = json.loads((DATA / "raw" / "manifest.json").read_text(encoding="utf-8"))["pages"]
         pages += [f"{pg['vol']}/{Path(pg['file']).stem}" for pg in man if pg["kind"] == "entry"]
-    name = f"{a.model.split('/')[-1]}@{a.effort}"
+    name = f"{a.model.split('/')[-1]}@{a.effort}-{RULES_VERSION}"
     total = 0.0
     for i, pg in enumerate(pages, 1):
         vol, page = pg.split("/")
