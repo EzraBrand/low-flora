@@ -95,13 +95,14 @@ def chunks(blocks: list[dict]) -> list[list[dict]]:
 def render(title: str, main: list[dict], notes: list[dict]) -> str:
     out = [f"# {title}", ""]
     for b in main:
-        text = T.md_inline(b["text"])
+        text = T.LRM + T.md_inline(b["text"])  # LRM: see translate.LRM
         out += [f"### {text}" if b["type"] == "heading" else text, ""]
     if notes:
         out += ["---", "", "**Notes**", ""]
         for page in sorted({n["page"] for n in notes}):
             out += [f"*p. {page}*", ""]
-            out += [f"{n['marker']} {T.md_inline(n['text'])}".strip() + "  " for n in notes if n["page"] == page]
+            out += [T.LRM + f"{n['marker']} {T.md_inline(n['text'])}".strip() + "  "
+                    for n in notes if n["page"] == page]
             out.append("")
     return "\n".join(out)
 

@@ -24,7 +24,7 @@ sys.stdout.reconfigure(encoding="utf-8")
 
 DATA = Path(__file__).parent / "data"
 KEY_FILE = Path.home() / "Desktop/Misc/key.txt"
-RULES_VERSION = "v2"  # change when the translation rules change; it is part of the output folder name
+RULES_VERSION = "v3"  # change when the translation rules change; it is part of the output folder name
 
 PROMPT = """\
 Below is one OCR'd page of Immanuel Löw, "Die Flora der Juden" (1924-34), a German scholarly \
@@ -56,6 +56,12 @@ they are. Abbreviations that are not in the list: leave them as they are.
 Abbreviation list for this input:
 {abbrevs}
 - Roman numerals used as numbers become Arabic numerals: "p. XXXIX" -> "p. 39". A Roman volume, book or chapter number before a page or folio number becomes "number, page" as the author writes elsewhere: "Robinson I 346. III 221" -> "Robinson 1, 346. 3, 221", "Gal. VI 644" -> "Gal. 6, 644", "jKil. I 27^{{a}}" -> "jKil. 1, 27^{{a}}", "E. Wiedem. XLIX 19" -> "E. Wiedem. 49, 19". Keep Roman numerals that are part of a name or title (e.g. Pius XII).
+- "Palästina" / "Palestine" in the author's text: write "Eretz Yisrael"; the adjective \
+("palästinisch", "Palestinian"): "of Eretz Yisrael" or "Eretz-Yisrael" before a noun (e.g. \
+"Eretz-Yisrael Hebrew" for "Palästinahebräisch" and for the abbreviation Ph.). This applies to \
+abbreviation expansions too. Keep unchanged: titles of books, articles, journals and societies \
+(e.g. "Zeitschrift des Deutschen Palästina-Vereins", "Der Ölbau in Palästina") and quotations \
+that are in English in the source.
 - Keep <i> tags around italic words; you may move them to fit the English word order.
 - Join the printed lines of a block into running text: remove line breaks and re-join words \
 hyphenated at a line end. Keep _{{..}} and ^{{..}} markup.
@@ -168,18 +174,23 @@ def md_inline(text: str) -> str:
     return re.sub(r"_\{(.+?)\}", r"<sub>\1</sub>", text)
 
 
+# GitHub renders each paragraph with dir="auto": one that starts with a Hebrew word is laid out
+# right to left. A left-to-right mark (invisible, a strong LTR character) at the start fixes it.
+LRM = "‎"
+
+
 def to_md(label: str, result: dict) -> str:
     out, notes = [f"<!-- {label}, {result['meta']['model']} -->"], []
     for b in result["blocks"]:
         text = md_inline(b["text"])
         if b["type"] == "footnote":
-            notes.append(f"{b['marker']} {text}")
+            notes.append(f"{LRM}{b['marker']} {text}")
         elif b["type"] == "furniture":
-            out.append(f"*[{text}]*")
+            out.append(f"{LRM}*[{text}]*")
         elif b["type"] == "heading":
-            out.append(f"### {text}")
+            out.append(f"### {LRM}{text}")
         else:
-            out.append(text)
+            out.append(LRM + text)
     if notes:
         out.append("---")
         out += notes

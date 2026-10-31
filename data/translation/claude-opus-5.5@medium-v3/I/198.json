@@ -1,0 +1,73 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "198"
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "Anacardiaceae"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "medicinal use according to Diosk. [=Dioscorides, De materia medica]. בוטנים לכל מיניהם designates in his work all species of Pistacia, for whose oils he gives on p. [=page] 141 the medicinal use according to Diosk."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Syriac: Texts: Dan. [=Daniel (Book of Daniel, Greek additions)] 10, 54 Hex. [=Syro-Hexapla] Bugat [=Bugati, Daniel secundum editionem LXX interpretum] n. [=note] S. [=page] 116: σχῖνος [schinos] is the tree that produces ܒܛܡܐ [בטמא] (ZDMG. [=Zeitschrift der Deutschen Morgenländischen Gesellschaft] 3, 411). The Hex. has at Micah 6, 5 for TW. [=Levy, Targumwörterbuch] שטים: ܣܩܝܢܘܣ [סקינוס] Middeldorpf [=Middeldorpf, Codex Syriaco-Hexaplaris] z. St. [=on the passage]"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "ܒܛܡܐ [בטמא] (syr. [=Syriac] also Ǵezzār = كيا [kayā] Sha [=Steinschneider, Heilmittelnamen der Araber] 1756^{c}) = مصطكى [muṣṭakā] BB. [=Bar Bahlūl, Lexicon syriacum] 1383 n. 19. Gal.-Üb. [=Syriac translation of Galen] 281 List [=Gottheil, A list of plants]: μαστίχη [mastichē]: Aßaf [=Venetianer, Asaf Judaeus] מסטיכין = lentiscus = איסקינוס. Honein [=Ḥunayn ibn Isḥāq] σχῖνος [schinos] ܐܝܠܢܐ ܕܒܛܡܐ [אילנא דבטמא] and σχίνινον [schininon] oil. Diosk. 1, 54. 718 Spr. [=edition of Dioscorides by Sprengel] ܡܫܚܐ ܕܒܛܡܐ [משחא דבטמא]. Wine: ܥܣܘܪܐ ܕܒܛܡ ܐܝܠܢܐ ܕܒܛܡܐ [עסורא דבטם אילנא דבטמא]. PSm. [=Payne Smith, Thesaurus syriacus] 2179. 2239 f. [=and the following] ܡܫܚܐ ܕܒܛܡܘܬܐ [משחא דבטמותא] BB. 1167 دهن الضرو [duhn al-ḍirw] read ܕܒܛܡܐ [דבטמא]."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "3. Pistacia vera L. [=Linnaeus] True pistachio. Erroneously <i>boṭnā</i> Hasade [=Hasade, Hebrew agricultural monthly] 6, 206."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The true pistachio today grows wild in Syria (Hehn^{8} [=Hehn, Kulturpflanzen und Haustiere, 8th ed.] 429). Ritter [=Ritter, Erdkunde von Asien] 11, 561 has treated its Asiatic distribution in detail (Schrader RL. [=Schrader, Reallexikon der indogermanischen Altertumskunde] 863)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Theophrast [=Theophrastus, Historia plantarum] (st. [=died] 280 v. C. [=before Christ]) describes a species of terebinth that occurs in Bactria, and means the true pistachio, whose name, however, he does not yet know. Only Nikander [=Nicander of Colophon], 150 v. C., names the pistachio, which grows on the Indian river Choaspes. The Syrian pistachios are first mentioned by Posidonius [=Posidonius of Apamea] (c. 135—150 v. C.), from Apamea in Syria, as “so-called” pistachios (βιστάκιον [bistakion]). Diosk., Plinius [=Pliny the Elder, Naturalis historia] and Galen [=Galen, Opera (ed. Kühn)] also know the Syrian pistachio nuts under the name pistakion. Galen already praises the pistachios of Aleppo (Beroea), where the tree is still widely cultivated today. Those coming from the pistachio grove near Herat (Ritter 8, 247) are more tender and easier to open with the finger (17, 1727 f.). Besides Aleppo they are most frequent near Beirut, Tripoli, Baalbek and Damascus and in Rūm kalʿa on the Euphrates (ZDPV. [=Zeitschrift des Deutschen Palästina-Vereins] 11, 93). According to Edrīzī [=al-Idrīsī], maʿarra exports many pistachios to all Syrian lands (Ritter 8, 138). On the present-day trade in Syria, Südenhorst, Syrien [=Südenhorst, Syrien und seine Bedeutung für den Welthandel] 28 reports. Added to this is the fact that the Mishnaic period, too, uses the borrowed name <i>pistaḳin</i> and designates the fruit as foreign. From this it follows that <i>boṭnīm</i> of the patriarchal period does not mean the pistachios. If, for the meaning pistachio, one adduces the assyr. [=Assyrian] <i>buṭnu</i> (Zimmern, AF. [=Zimmern, Akkadische Fremdwörter] 54), this proves nothing, for according to Delitzsch HWB. [=Delitzsch, Assyrisches Handwörterbuch] 171 this is a tree whose wood was used for building palaces; it will thus probably mean another pistachio, perhaps P. Khinjuk Stocks [=John Ellerton Stocks] of the steppes of Western Asia or P. mutica Fisch. et Mey. [=Fischer et Meyer] of the eastern Mediterranean region from Asia Minor to Afghanistan (Hehn [=Hehn, Kulturpflanzen und Haustiere] 429)."
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "source_meta": {
+   "engine": "openrouter",
+   "model": "anthropic/claude-opus-5.5",
+   "provider": "Claude Platform on AWS",
+   "effort": "low",
+   "reasoning_tokens": 0,
+   "images": [
+    [
+     2960,
+     3306
+    ],
+    [
+     2960,
+     2206
+    ]
+   ],
+   "input_tokens": 11075,
+   "output_tokens": 2521,
+   "cost_usd": 0.0947,
+   "seconds": 32.2
+  },
+  "input_tokens": 4975,
+  "output_tokens": 3808,
+  "cost_usd": 0.0961,
+  "seconds": 46.1
+ }
+}

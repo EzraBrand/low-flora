@@ -1,0 +1,53 @@
+:root{--bg:#fbfaf7;--fg:#22201c;--muted:#6b665d;--line:#e4e0d6;--accent:#7a4b12;--panel:#f2efe7;--mark:#efe3cf}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#17161a;--fg:#e8e4dc;--muted:#a39d92;--line:#33313a;--accent:#e0a95c;--panel:#201f25;--mark:#3a3022}}
+:root[data-theme="dark"]{--bg:#17161a;--fg:#e8e4dc;--muted:#a39d92;--line:#33313a;--accent:#e0a95c;--panel:#201f25;--mark:#3a3022}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.6 "Noto Serif",Georgia,serif}
+a{color:var(--accent)}
+header.site{display:flex;flex-wrap:wrap;gap:.5rem 1.5rem;align-items:baseline;justify-content:space-between;padding:.8rem 1rem;border-bottom:1px solid var(--line)}
+header.site .brand{color:var(--fg);text-decoration:none;font-weight:600}
+header.site .brand span{color:var(--muted);font-weight:400}
+header.site nav a{margin-left:1rem;text-decoration:none}
+header.site nav a[aria-current]{text-decoration:underline}
+main{max-width:1200px;margin:0 auto;padding:1rem}
+main.index{max-width:760px}
+h1{font-size:1.9rem;margin:.6rem 0 .2rem}
+.sub,.lede{color:var(--muted)}
+.lede{font-size:1.05rem}
+ul.docs{list-style:none;padding:0}
+ul.docs li{padding:.7rem 0;border-bottom:1px solid var(--line);display:flex;flex-direction:column}
+ul.docs li span{color:var(--muted);font-size:.95rem}
+ul.plain li{margin:.3rem 0}
+details.about{background:var(--panel);padding:.6rem .9rem;border-radius:6px;margin:.8rem 0}
+details.about p{margin:.5rem 0 0;font-size:.95rem}
+.toggles{display:flex;flex-wrap:wrap;gap:.4rem 1.2rem;margin:.8rem 0;font-size:.95rem}
+.scans{display:flex;gap:.6rem;overflow-x:auto;padding:.4rem 0 .8rem;border-bottom:1px solid var(--line)}
+.scans a{flex:0 0 auto;text-align:center;text-decoration:none;font-size:.8rem;color:var(--muted)}
+.scans img{display:block;width:80px;height:auto;border:1px solid var(--line);background:#fff}
+.row{display:grid;grid-template-columns:1fr 1fr;gap:2rem;border-bottom:1px solid var(--line)}
+.cols-head{font-size:.85rem;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);padding:.6rem 0 .2rem}
+.cell p,.cell h3{margin:.7rem 0}
+.cell h3{font-size:1.05rem}
+.cell.de{color:var(--muted)}
+body:not(.show-de) .row{grid-template-columns:1fr;max-width:760px}
+body:not(.show-de) .cell.de{display:none}
+.row.note{font-size:.9rem}
+h2#notes{margin-top:2rem}
+bdi.heb{font-family:"Noto Serif Hebrew",serif;font-size:1.08em}
+bdi.syc{font-family:"Noto Sans Syriac",sans-serif;font-size:1.08em}
+bdi.ara{font-family:"Noto Naskh Arabic",serif;font-size:1.05em}
+.nl{border-bottom:1px dotted var(--muted);cursor:help;position:relative}
+.nl:hover::after,.nl:focus::after{content:attr(data-tr);position:absolute;left:0;top:1.6em;background:var(--fg);color:var(--bg);font:14px/1.3 "Noto Serif",serif;padding:.2rem .45rem;border-radius:4px;white-space:nowrap;z-index:2}
+abbr{text-decoration:underline dotted var(--muted);cursor:help}
+.exp,.tr{display:none;color:var(--muted)}
+body.show-exp .exp,body.show-tr .tr{display:inline}
+a.pg{font-size:.75rem;background:var(--mark);color:var(--fg);padding:0 .3rem;border-radius:3px;text-decoration:none;white-space:nowrap;vertical-align:.1em}
+a.fn{font-size:.72em;vertical-align:super;line-height:0;text-decoration:none;padding:0 .1em}
+a.fnback{font-weight:600;text-decoration:none}
+.pgref{color:var(--muted);font-size:.85em}
+input#filter{width:100%;padding:.5rem .7rem;font:inherit;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--fg);margin:.5rem 0 1rem}
+table.abbr{width:100%;border-collapse:collapse;font-size:.92rem}
+table.abbr th,table.abbr td{text-align:left;vertical-align:top;padding:.35rem .5rem;border-bottom:1px solid var(--line)}
+table.abbr td:first-child{white-space:nowrap;font-weight:600}
+footer{max-width:1200px;margin:2rem auto;padding:1rem;color:var(--muted);font-size:.85rem;border-top:1px solid var(--line)}
+@media (max-width:760px){body{font-size:16px}.row{grid-template-columns:1fr;gap:0}.cell.de{border-bottom:1px dashed var(--line)}table.abbr td:nth-child(3),table.abbr th:nth-child(3){display:none}}

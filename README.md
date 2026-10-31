@@ -6,24 +6,30 @@ against hand-corrected pages, and translate them into English.
 
 ## Read the results
 
+**Reading edition (web):** https://ezrabrand.github.io/low-flora/ — German and English side by
+side, scans linked from each page mark, abbreviations and transliterations as tooltips (with
+switches to show them inline), numbered footnotes, and a searchable abbreviation table. Built by
+`site.py` into `docs/` (GitHub Pages serves `main:/docs`); run `uv run site.py` after new
+translations.
+
 **A whole entry:** [Pistacia, Bd. I pp. 191–200, in English](data/entries/pistacia/en.md)
 (and the [joined German text](data/entries/pistacia/de.md)): ten pages joined into continuous
 text, with page markers, footnotes by page, and abbreviations opened.
 
 The current outputs for the main-text pages: the scan (Frankfurt viewer), the transcription
-(Claude Opus 5.5, with italics), and the English translation (rules v2, see
+(Claude Opus 5.5, with italics), and the English translation (rules v3, see
 [Translation](#translation)). **Start with Bd. I p. 194**: its transcription was checked by hand
 (the gold page), and the translation was made from that checked text.
 
 | Page | Contents | Scan | Transcription | English |
 |---|---|---|---|---|
-| **I 194** | Pistacia: Syriac, Arabic, Greek, footnotes | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104480) | [checked (gold)](data/gold/I/194.txt), [notes](data/gold/I/194.notes.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/194.md) |
-| I 193 | Pistacia Terebinthus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104479) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/193.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/193.md) |
-| I 195 | Pistacia Lentiscus (mastic) | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104481) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/195.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/195.md) |
-| I 196 | Pistacia Lentiscus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104482) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/196.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/196.md) |
-| I 197 | Pistacia Lentiscus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104483) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/197.md) | [English](data/translation/claude-opus-5.5%40medium-v2/I/197.md) |
-| II 289 | Olea: Hebrew verbs | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/103479) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/II/289.md) | [English](data/translation/claude-opus-5.5%40medium-v2/II/289.md) |
-| III 287 | Citrus: the *etrog* in rabbinic sources | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104026) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/III/287.md) | [English](data/translation/claude-opus-5.5%40medium-v2/III/287.md) |
+| **I 194** | Pistacia: Syriac, Arabic, Greek, footnotes | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104480) | [checked (gold)](data/gold/I/194.txt), [notes](data/gold/I/194.notes.md) | [English](data/translation/claude-opus-5.5%40medium-v3/I/194.md) |
+| I 193 | Pistacia Terebinthus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104479) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/193.md) | [English](data/translation/claude-opus-5.5%40medium-v3/I/193.md) |
+| I 195 | Pistacia Lentiscus (mastic) | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104481) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/195.md) | [English](data/translation/claude-opus-5.5%40medium-v3/I/195.md) |
+| I 196 | Pistacia Lentiscus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104482) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/196.md) | [English](data/translation/claude-opus-5.5%40medium-v3/I/196.md) |
+| I 197 | Pistacia Lentiscus | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104483) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/I/197.md) | [English](data/translation/claude-opus-5.5%40medium-v3/I/197.md) |
+| II 289 | Olea: Hebrew verbs | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/103479) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/II/289.md) | [English](data/translation/claude-opus-5.5%40medium-v3/II/289.md) |
+| III 287 | Citrus: the *etrog* in rabbinic sources | [scan](https://sammlungen.ub.uni-frankfurt.de/freimann/content/pageview/104026) | [OCR](data/ocr/or-claude-opus-5.5%40low%2Bital/III/287.md) | [English](data/translation/claude-opus-5.5%40medium-v3/III/287.md) |
 
 Also: [abbreviations and bibliography](ABBREVIATIONS.md) (from Löw's own list),
 [other possible targets](TARGETS.md), and the outputs of all engines in [data/ocr](data/ocr).
@@ -136,7 +142,7 @@ punctuation, spaces), each error counts for the script of the gold character it 
 
 `translate.py` sends the blocks of one page to a model with a JSON schema and gets back one
 English block per source block. The source is the gold text if `data/gold/{vol}/{page}.txt`
-exists, else the OCR (default `or-claude-opus-5.5@low+ital`). Rules (since 31-Oct-2026, v2):
+exists, else the OCR (default `or-claude-opus-5.5@low+ital`). Rules (v3, 31-Oct-2026):
 
 - Translate German and French. Keep Latin, English, references and the author's own
   romanizations (with italics).
@@ -149,6 +155,7 @@ exists, else the OCR (default `or-claude-opus-5.5@low+ital`). Rules (since 31-Oc
 - **Abbreviations**: at the first use on a page, the expansion from `abbreviations.json` follows
   in brackets, e.g. `BB. [=Bar Bahlūl, Lexicon syriacum]`; unknown ones get `[=?]`. This is done
   by the model, guided by the table (see Notes).
+- **Eretz Yisrael** for "Palästina" / "Palestine" (and "Eretz-Yisrael" for the adjective, e.g. `Ph. [=Eretz-Yisrael Hebrew]`); titles of works, journals and societies, and English quotations, stay as printed. New in v3.
 - **Roman numerals** become Arabic numerals: `p. XXXIX` → `p. 39`, `Robinson I 346` → `Robinson 1, 346`.
 - Lines are joined and end-of-line hyphenation is undone.
 
@@ -169,8 +176,10 @@ checked by eye.
 ### Output folders
 
 Output: `data/translation/{model}@{effort}-{rules version}/{vol}/{page}.json` and `.md`
-(footnotes at the end). The rules version is `RULES_VERSION` in `translate.py`; change it when
-the rules change, so that older outputs are kept. Current: `claude-opus-5.5@medium-v2`.
+(footnotes at the end). Every rendered paragraph starts with an invisible left-to-right mark
+(U+200E): GitHub sets `dir="auto"` on paragraphs, so a paragraph that starts with a Hebrew word
+would otherwise be laid out right to left. The rules version is `RULES_VERSION` in `translate.py`; change it when
+the rules change, so that older outputs are kept. Current: `claude-opus-5.5@medium-v3`; `-v2` is the same without the Eretz Yisrael rule.
 `claude-opus-5.5@medium-v1` holds the first version (every non-Latin word transliterated,
 no abbreviation expansion), kept for comparison.
 
@@ -317,6 +326,26 @@ Brainstorm, not a plan. Rough order: cheap and useful first.
   English translation.
 - The talmud-names-discovery work: plant names as a further entity type.
 
+**Readability and access** (for the English output)
+- A reading edition as a web page (GitHub Pages): German and English side by side by paragraph,
+  the page scan next to them, `[p. N]` as links to the scan.
+- Abbreviations as tooltips (`<abbr title="…">`) instead of `[=…]` in the text, with a switch
+  to show them inline; the same for transliterations. The text stays clean; nothing is lost.
+- Expand references fully in the text where the full form is short and certain:
+  `Rh. 23a` → `Rosh Hashanah 23a`, `Gn. 35, 4` → `Genesis 35:4`, linked to Sefaria; keep the
+  bracket only for bibliography.
+- Footnotes as numbered notes linked from their marks (per entry, not `*)`, `**)` per page),
+  shown on hover or at the end of each paragraph.
+- A "names at a glance" box at the top of each entry: the plant's names in Hebrew, Aramaic,
+  Syriac, Arabic, Greek and Latin, with the main sources, built from the entry.
+- A short plain-English summary at the top of each entry (marked as machine-written), and the
+  modern scientific and English plant name with a link (POWO / Wikipedia), plus a photo.
+- Headings for the sub-sections Löw implies (names, identification, use, rabbinic sources,
+  folklore), so a reader can skim.
+- Typography: a Hebrew/Syriac font (Noto), slightly larger right-to-left text, `<bdi>` around
+  each right-to-left run so punctuation stays in place.
+- Exports: PDF and EPUB of each entry; a search page over all entries.
+
 **Translation and publication**
 - A term base for recurring German botanical and philological terms, so that the English is
   consistent across volumes.
@@ -325,7 +354,9 @@ Brainstorm, not a plan. Rough order: cheap and useful first.
 - The blog post with technical appendix (in the to-do list); a short paper on LLM OCR for
   multi-script scholarly prints, with the Syriac findings.
 
-**Other targets**
+**Other targets** (details in [TARGETS.md](TARGETS.md))
+- **Priority:** Lewysohn, *Die Zoologie des Talmuds* (1858), the animal counterpart of the Flora;
+  scan on archive.org; Natan Slifkin proposed a collaborative translation in 2012.
 - Krauss, *Griechische und lateinische Lehnwörter im Talmud, Midrasch und Targum* (1898–99),
   following my earlier translations of Krauss's transcription rules.
 - Löw, *Aramäische Pflanzennamen* (1881), the predecessor of the Flora.

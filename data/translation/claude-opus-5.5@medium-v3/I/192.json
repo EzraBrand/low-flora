@@ -1,0 +1,93 @@
+{
+ "blocks": [
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "192"
+  },
+  {
+   "type": "furniture",
+   "marker": "",
+   "text": "Anacardiaceae"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "widespread. A large tree to the northwest of Jerusalem: besides the unripe fruits, a mass of beautiful outgrowths, like red corals, from the parasite Viscum cruciatum (13, 223)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Bh. [=Biblical Hebrew] <i>ʾēlā</i>,*) nom. unit. [=nomen unitatis (singulative noun)] of <i>ʾēlīm</i>. So the ancient translators.**) There is no reason to doubt this evidently traditional explanation. Modern Eretz-Yisrael Hebrew also retains this meaning (Hasade [=Hasade, Hebrew agricultural monthly, Tel-Aviv 1921 ff.] 1, 3, 32 — 4, 391)."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Abulwalīd [=Abulwalīd Merwān ibn Ğanāḥ, Book of Hebrew Roots] follows the Targum: <i>buṭmā</i>, and gives for it Arabic <i>buṭm</i>. He is followed, as always, by Parḥōn [=Salomo ibn Parḥon, Maḥberet he-ʿArukh]: <i>buṭmā</i>, a tall tree with edible fruits like myrtle berries. R. D. Kimḥī [=Rabbi David Kimḥī (Radak), Sefer ha-Shorashim / biblical commentaries] also cites the erroneous opinion that it means <i>olmo</i>, elm."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The terebinth is, next to the oak, the most imposing tree of Eretz Yisrael and was therefore an object of tree worship. Extraordinary age was ascribed to individual specimens: one near Hebron was said to be as old as the world (Jos. bj. [=Josephus, Bellum Judaicum] 4, 9, 7). In post-biblical times it first appears in Sirach [=Ben Sira (Ecclesiasticus)] (24, 16): I spread out my branches like a terebinth."
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "The fruit is called in bh. [=Biblical Hebrew] בטנה,***) pl. [=plural] בטנים. The word has erroneously been taken for pistachio†) (RDK. [=Rabbi David Kimhi, Sefer ha-Shorashim], Salomo Ibn Melech [=Salomo Ibn Melech, Mikhlal Yofi] u. a. [=and others]). Bochart [=Samuel Bochart, Hierozoicon / Geographia sacra] treated the question in detail. Wetzstein [=Johann Gottfried Wetzstein, notes in Löw, Aramäische Pflanzennamen] advocated the error (Pf. [=Löw, Aramäische Pflanzennamen] 420): “בטן is in the Bible the pistachio; the Arabs and Jews transferred the name to the terebinth. The fruit of the terebinth is worthless in Eretz Yisrael. Only the poorest peasants grind it on the hand mill in order to have lamp oil for free. The fruit of the terebinth is not edible, because no one will crack the pea-sized hard stone in order to extract the lentil-sized contents.”"
+  },
+  {
+   "type": "body",
+   "marker": "",
+   "text": "Wetzstein is mistaken. The pea-sized berries, <i>ḳḍāma</i>, are gathered and eaten when they are red and ripe (Musil [=Alois Musil, Arabia Petraea III] 3, 15). Edible oil, not only lamp oil, is made from them (ZDPV. [=Zeitschrift des Deutschen Palästina-Vereins] 14, 4 n. [=note]: <i>bizr</i>"
+  },
+  {
+   "type": "footnote",
+   "marker": "*)",
+   "text": "<i>ʾēlōn mōre</i>, terebinth of instruction Gn. [=Genesis] 35, 4: <i>ʾēlōn meʿōnĕnīm</i>, terebinth of the oracle-seekers Ri. [=Judges] 9, 37. Jeremias ATAO^{3} [=Alfred Jeremias, Das Alte Testament im Lichte des alten Orients, 3rd ed.] 263."
+  },
+  {
+   "type": "footnote",
+   "marker": "**)",
+   "text": "אלי הצדק Jes. [=Isaiah] 61, 3 terebinths of blessing (Hitzig [=Ferdinand Hitzig, Der Prophet Jesaja]), oaks (Kautzsch [=E. Kautzsch (ed.), Die Apokryphen und Pseudepigraphen des Alten Testaments]). Erroneously terebinth for the <i>bakaʾ</i> shrub, בכאים OLZ. [=Orientalistische Literaturzeitung] 1912. 75."
+  },
+  {
+   "type": "footnote",
+   "marker": "***)",
+   "text": "Etymolog. [=etymological] play: they are so called because many are in one <i>beṭen</i> (A. Epstein, Mikadmōnijjōt [=Abraham Epstein, Miḳadmonijjōt ha-jĕhūdīm] 126)! Bochart, Phaleg [=Samuel Bochart, Geographia sacra, pars prior: Phaleg] 420 appeals to Dalechamps [=Jacques Daléchamps, Historia generalis plantarum] (st. [=died] 1588), who says: Pistacia, nuces ab una parte tumidiore et in angulum desinente ventre protuberantes."
+  },
+  {
+   "type": "footnote",
+   "marker": "†)",
+   "text": "Also for pignuolo (RDK.), nocēli (Aruch [=Aruch (Nathan b. Yeḥiel), ed. A. Kohut]), hazelnut (Elia Levita [=Elia Levita, Tishbi]). Kaleb Afendopulo [=Aderet Elijahu, appendix by Kaleb Afendopulo] 16^{b} considers <i>botnīm</i> a collective name for a) <i>iṣṭrubīlīn</i>, b) pistachios, c) balania, <i>buṭm</i>, d) chestnuts."
+  }
+ ],
+ "meta": {
+  "model": "anthropic/claude-opus-5.5",
+  "effort": "medium",
+  "source_meta": {
+   "engine": "openrouter",
+   "model": "anthropic/claude-opus-5.5",
+   "provider": "Claude Platform on AWS",
+   "effort": "low",
+   "reasoning_tokens": 0,
+   "images": [
+    [
+     2612,
+     2366
+    ],
+    [
+     2612,
+     3158
+    ]
+   ],
+   "input_tokens": 11087,
+   "output_tokens": 2543,
+   "cost_usd": 0.0952,
+   "seconds": 32.9
+  },
+  "input_tokens": 4813,
+  "output_tokens": 2180,
+  "cost_usd": 0.0629,
+  "seconds": 25.2
+ }
+}

@@ -293,14 +293,15 @@ ENGINES = {"claude": run_claude, "tesseract": run_tesseract, "openrouter": run_o
 def to_md(page: dict, result: dict) -> str:
     out = [f"<!-- {page['vol']} p. {page['label']}, scan {page['scan_index']}, "
            f"{result['meta'].get('model', result['meta']['engine'])} -->"]
+    lrm = "‎"  # left-to-right mark: keeps a line that starts with Hebrew LTR on GitHub
     for b in result["blocks"]:
-        text = b["text"].replace("\n", "  \n")  # keep printed line breaks
+        text = lrm + b["text"].replace("\n", f"  \n{lrm}")  # keep printed line breaks
         if b["type"] == "heading":
             out.append(f"### {text}")
         elif b["type"] == "footnote":
-            out.append(f"> {b.get('marker', '')} {text}".replace("  \n", "  \n> "))
+            out.append(f"> {lrm}{b.get('marker', '')} {text}".replace("  \n", "  \n> "))
         elif b["type"] == "furniture":
-            out.append(f"*{text}*")
+            out.append(f"{lrm}*{text}*")
         else:
             out.append(text)
     return "\n\n".join(out) + "\n"

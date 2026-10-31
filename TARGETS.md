@@ -7,6 +7,27 @@ English with script-preserving transliteration). "Checked" means I ran a web sea
 Public-domain status (rough rule): **EU** = author died 70+ years ago (died before 1956);
 **US** = published before 1931. Most works below are in both. Where they differ, it says so.
 
+## Priority: Lewysohn, *Die Zoologie des Talmuds*
+
+Ludwig Lewysohn, *Die Zoologie des Talmuds: eine umfassende Darstellung der rabbinischen
+Zoologie*, Frankfurt a. M.: Baer, 1858 (426 pp.). The animal counterpart of Löw's Flora, and the
+first systematic collection of the Talmudic and Midrashic material on animals.
+
+- **Scan:** [archive.org: diezoologiedesta00lewyuoft](http://www.archive.org/details/diezoologiedesta00lewyuoft)
+  (University of Toronto, Robarts Library; PDF, B/W PDF, and archive.org's own full-text file).
+  The archive.org text is automatic OCR and must be checked before use, as with Löw.
+- **Existing work:** Natan Slifkin wrote in a 2012 post,
+  ["A Few Announcements"](https://www.rationalistjudaism.com/p/a-few-announcements), that he was
+  studying the book for his doctoral dissertation and running the PDF through OCR, and he asked
+  for help to set up a collaborative translation "with facing translation" (for example on
+  Wikibooks). I found no sign that this translation was published. Worth contacting him before
+  starting, both to avoid duplicate work and because his reading of the zoology would be the
+  natural check on the translation.
+- **Fit with this pipeline:** a single volume, German with Hebrew and Aramaic (and some Greek,
+  Latin and Arabic), the same kind of abbreviated references. The same steps apply: IIIF or PDF
+  page images → OCR with script runs → a few hand-checked pages → English with the v3 rules.
+- **Status:** checked 31-Oct-2026 (scan, Slifkin post). Not started.
+
 ## Short list
 
 | Work | Why | Scans | Existing OCR / translation | Status of check |
@@ -14,8 +35,6 @@ Public-domain status (rough rule): **EU** = author died 70+ years ago (died befo
 | Samuel Krauss, *Griechische und lateinische Lehnwörter im Talmud, Midrasch und Targum*, 2 vols., Berlin 1898–99, **with notes by Immanuel Löw** | Direct continuation of my Krauss transcription-rules translations; Löw's notes link it to this project | archive.org ([syri.ac bibliography entry](https://syri.ac/bibliography/594847923)), HathiTrust ([Online Books Page](https://onlinebooks.library.upenn.edu/webbin/who/Krauss%2c%20Samuel%2c%201866%2d1948)) | No translation found; reprints 1964 and 1987 (Olms) | Checked |
 | Immanuel Löw, *Aramäische Pflanzennamen*, Leipzig 1881 | The predecessor of the Flora (cited as "Pf." in it); same author, same notation | Halle ULB, Public Domain Mark ([opendata.uni-halle.de](https://opendata.uni-halle.de/handle/1981185920/102678?mode=full), [MENADOC](https://menadoc.bibliothek.uni-halle.de/publicdomain/content/structure/591390)); Princeton Theological Seminary ([commons.ptsem.edu](https://commons.ptsem.edu/id/aramischepflanze00lowi), machine text with an estimated 67% error rate) | No translation found; the existing OCR is unusable | Checked |
 | Samuel Krauss, *Talmudische Archäologie*, 3 vols., Leipzig 1910–12 | The standard handbook of rabbinic material culture (house, clothing, food, crafts, trade) | to check (HathiTrust / archive.org likely) | No English translation found. **Hebrew:** Krauss's own Hebrew version, *Ḳadmoniyot ha-Talmud* (קדמוניות התלמוד), Berlin/Vienna: Binyamin Harz, from 1923; it was never finished (2 vols.), and sources differ on the dates ([Swiss library record](https://swisscollections.k8s-001.unibas.ch/Record/991171977923505501), [ANU Museum](https://dbs.anumuseum.org.il/skn/en/c6/e206792/Personalities/Samuel_Krauss), [Wikipedia](https://en.wikipedia.org/wiki/Samuel_Krauss)) | Checked (translations); scans not checked |
-| Ludwig Lewysohn, *Die Zoologie des Talmuds*, Frankfurt 1858 | The animal counterpart of the Flora | A PDF existed in 2012 ([blog post](https://www.goodreads.com/author_blog_posts/3247846-a-few-announcements)); Frankfurt Freimann collection likely | A 2012 private OCR + translation idea; no published translation found ([Wikipedia](https://en.wikipedia.org/wiki/Ludwig_Lewysohn)) | Checked (partly) |
-
 ## Further candidates
 
 | Work | Why | Existing translation / notes | Status of check |
