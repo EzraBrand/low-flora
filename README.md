@@ -376,6 +376,9 @@ Brainstorm, not a plan. Rough order: cheap and useful first.
 **Other targets** (details in [TARGETS.md](TARGETS.md))
 - **Priority:** Lewysohn, *Die Zoologie des Talmuds* (1858), the animal counterpart of the Flora;
   scan on archive.org; Natan Slifkin proposed a collaborative translation in 2012.
+- **Suggested by a reader:** Bochart, *Hierozoicon* (1663; best edition Rosenmüller 1793–96, MDZ
+  scans with IIIF and OCR). Much harder: about 1 million words of Latin with Greek, Hebrew and
+  Arabic; no translation exists. Pilot: the shafan chapter.
 - Krauss, *Griechische und lateinische Lehnwörter im Talmud, Midrasch und Targum* (1898–99),
   following my earlier translations of Krauss's transcription rules.
 - Löw, *Aramäische Pflanzennamen* (1881), the predecessor of the Flora.

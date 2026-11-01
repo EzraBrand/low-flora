@@ -7,7 +7,7 @@ English with script-preserving transliteration). "Checked" means I ran a web sea
 Public-domain status (rough rule): **EU** = author died 70+ years ago (died before 1956);
 **US** = published before 1931. Most works below are in both. Where they differ, it says so.
 
-## Priority: Lewysohn, *Die Zoologie des Talmuds*
+## Priority: Lewysohn, *Die Zoologie des Talmuds* (now in progress: [lewysohn-zoologie](https://github.com/EzraBrand/lewysohn-zoologie))
 
 Ludwig Lewysohn, *Die Zoologie des Talmuds: eine umfassende Darstellung der rabbinischen
 Zoologie*, Frankfurt a. M.: Baer, 1858 (426 pp.). The animal counterpart of Löw's Flora, and the
@@ -27,6 +27,44 @@ first systematic collection of the Talmudic and Midrashic material on animals.
   Latin and Arabic), the same kind of abbreviated references. The same steps apply: IIIF or PDF
   page images → OCR with script runs → a few hand-checked pages → English with the v3 rules.
 - **Status:** checked 31-Oct-2026 (scan, Slifkin post). Not started.
+
+## Suggested: Bochart, *Hierozoicon* (much harder)
+
+Suggested by a reader on 01-Nov-2026 as "very useful (but immensely more complex)". Samuel
+Bochart, *Hierozoicon, sive bipertitum opus de animalibus Sacrae Scripturae*, London 1663: the
+standard early-modern study of every animal in the Bible, and a main source for Lewysohn and Löw.
+Public domain everywhere. Checked by a web search on 01-Nov-2026 (details below are from that check).
+
+- **Editions:** London 1663 (folio, 2 parts, two numbered columns: Pars I 1094 cols, Pars II 888);
+  Frankfurt 1675 (ed. Clodius, same column numbers); Leiden 1692 and 1712 (*Opera omnia*);
+  **Leipzig 1793–96, ed. E. F. C. Rosenmüller**, 3 vols quarto, about 2,780 pp, with notes, indices
+  and the old column numbers in the margin. Rosenmüller is the usual citation base and the best
+  base text.
+- **Scans:** Munich (MDZ/BSB) has all the later editions, with IIIF and a page-level hOCR layer
+  that is already good for Latin and Greek: Rosenmüller
+  [bsb10353453](https://www.digitale-sammlungen.de/en/view/bsb10353453),
+  [bsb10353454](https://www.digitale-sammlungen.de/en/view/bsb10353454),
+  [bsb10353455](https://www.digitale-sammlungen.de/en/view/bsb10353455)
+  (manifest `https://api.digitale-sammlungen.de/iiif/presentation/v2/{id}/manifest`); Leiden 1692
+  bsb11203288–89; Leiden 1712 bsb10409819–20; Frankfurt 1675 bsb11935761–62. Also HathiTrust and
+  archive.org (Google, Wellcome copies). London 1663 only as an EEBO microfilm on archive.org (poor).
+- **Existing work:** no modern translation found, full or partial, in any language, and no AI
+  translation project. Studies: Zur Shalev, *Sacred Words and Worlds* (Brill 2012), ch. 4 (mostly
+  on the *Geographia sacra*). The NOSCEMUS wiki (Innsbruck) may list a Transkribus text of the 1675
+  edition (not verified: the page gave an error).
+- **Why it is harder:** about 1 million words (a few times Lewysohn, the size of all four volumes
+  of Löw); 17th-century Latin, not German; Greek, Hebrew/Aramaic, Syriac and much **Arabic in
+  Arabic type** (al-Damīrī, al-Qazwīnī) on most pages; Bochart's own transliterations; a second
+  layer of notes by Rosenmüller.
+- **What helps:** the MDZ OCR can be a first draft, so the vision model corrects instead of reading
+  from zero.
+- **Pilot:** Book III ch. 33 on the shafan (it is a large mouse, "non esse cuniculum"), Rosenmüller
+  vol. 2 pp. 409–428 (bsb10353454, canvases about 425–444; 20 pages, about 8,000 words). It has
+  every hard feature (Hebrew word study, the LXX χοιρογρύλλιος, heavy Arabic) and ties in with the
+  hyrax claim in the [Talmud zoology fact-check](https://ezrabrand.github.io/talmud-zoology-factcheck/).
+  A second pilot could be Behemoth (vol. 3) for a narrative chapter.
+- **Status:** state of the art checked 01-Nov-2026; not started. Not checked: Gallica, e-rara,
+  Google Books, the Ethiopic type in some editions.
 
 ## Short list
 
