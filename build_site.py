@@ -54,7 +54,12 @@ for c in CONTENTS:
 
 RTL_OR_GREEK = r"[֐-׿יִ-ﭏ؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿܀-ݏͰ-Ͽἀ-῿]"
 _TAIL = r"[^\s\[\]<>()*†,;:.?!]*"  # a run ends before Latin punctuation and footnote marks
-RUN = re.compile(rf"({RTL_OR_GREEK}{_TAIL}(?:\s+{RTL_OR_GREEK}{_TAIL})*)(\s\[(?!=)([^\]]+)\])?")
+# a run stays within one script: "קנמון Κίννάμον" is two runs (Hebrew RTL, Greek LTR), not one
+# Hebrew run; before 02-Nov-2026 neighbouring words of different scripts merged (8 cases in the books)
+_SCRIPTS = [r"[\u0590-\u05FF\uFB1D-\uFB4F]", r"[\u0600-\u06FF\u0750-\u077F\uFB50-\uFDFF\uFE70-\uFEFF]",
+            r"[\u0700-\u074F]", r"[\u0370-\u03FF\u1F00-\u1FFF]"]
+_RUNS = "|".join(rf"{c}{_TAIL}(?:\s+{c}{_TAIL})*" for c in _SCRIPTS)
+RUN = re.compile(rf"((?:{_RUNS}))(\s\[(?!=)([^\]]+)\])?")
 EXPANSION = re.compile(r"(\S+)\s\[=([^\]]*)\]")
 PAGE_MARK = re.compile(r"\[p\. ([^\]\s]+)\]")
 PARTICLES = {"el", "al", "ul", "il", "ad", "an", "as", "aš", "at", "ha", "ba", "bi", "li", "wa", "be", "le"}
